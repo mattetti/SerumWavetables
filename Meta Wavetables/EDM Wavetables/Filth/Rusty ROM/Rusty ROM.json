@@ -1,0 +1,50 @@
+{
+  "name": "Rusty ROM",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Rusty ROM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt15s_0/SmcWt15s_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt15s_0/SmcWt15s_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt15s_0/SmcWt15s_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt15s_0/SmcWt15s_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt15s_0/SmcWt15s_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt15s_0/SmcWt15s_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt15s_0/SmcWt15s_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt15s_0/SmcWt15s_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt15s_0/SmcWt15s_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt15s_0/SmcWt15s_09.wav"
+    }
+  ]
+}

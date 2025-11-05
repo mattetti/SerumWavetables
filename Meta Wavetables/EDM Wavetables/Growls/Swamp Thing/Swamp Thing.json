@@ -1,0 +1,62 @@
+{
+  "name": "Swamp Thing",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Swamp Thing"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt02/SmcWt02_03.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt02/SmcWt02_06.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt02/SmcWt02_07.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt02/SmcWt02_08.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt02/SmcWt02_09.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt02/SmcWt02_10.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt02/SmcWt02_11.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt02/SmcWt02_12.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt02/SmcWt02_13.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt02/SmcWt02_14.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt02/SmcWt02_15.wav"
+    },
+    {
+      "frame": 11,
+      "source": "SmcWt02/SmcWt02_20.wav"
+    },
+    {
+      "frame": 12,
+      "source": "SmcWt02/SmcWt02_21.wav"
+    }
+  ]
+}

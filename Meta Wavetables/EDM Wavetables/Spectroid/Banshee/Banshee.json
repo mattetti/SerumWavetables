@@ -1,0 +1,66 @@
+{
+  "name": "Banshee",
+  "categories": [
+    "EDM Wavetables",
+    "Spectroid",
+    "Banshee"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt18/SmcWt18_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt18/SmcWt18_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt18/SmcWt18_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt18/SmcWt18_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt18/SmcWt18_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt18/SmcWt18_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt18/SmcWt18_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt18/SmcWt18_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt18/SmcWt18_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt18/SmcWt18_09.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt18/SmcWt18_10.wav"
+    },
+    {
+      "frame": 11,
+      "source": "SmcWt18/SmcWt18_11.wav"
+    },
+    {
+      "frame": 12,
+      "source": "SmcWt18/SmcWt18_12.wav"
+    },
+    {
+      "frame": 13,
+      "source": "SmcWt18/SmcWt18_13.wav"
+    }
+  ]
+}

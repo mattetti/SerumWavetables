@@ -1,0 +1,30 @@
+{
+  "name": "EDM Saw Sync",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "EDM Saw Sync"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Cobalt8HSyncSaw/Cobalt8HSyncSaw00 +7db.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Cobalt8HSyncSaw/Cobalt8HSyncSaw04 +7db.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Cobalt8HSyncSaw/Cobalt8HSyncSaw08 +7db.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Cobalt8HSyncSaw/Cobalt8HSyncSaw12 +7db.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Cobalt8HSyncSaw/Cobalt8HSyncSaw15 +7db.wav"
+    }
+  ]
+}

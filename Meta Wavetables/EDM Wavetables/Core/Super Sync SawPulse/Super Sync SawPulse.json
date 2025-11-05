@@ -1,0 +1,66 @@
+{
+  "name": "Super Sync SawPulse",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "Super Sync SawPulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt29/SmcWt29_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt29/SmcWt29_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt29/SmcWt29_03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt29/SmcWt29_04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt29/SmcWt29_05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt29/SmcWt29_06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt29/SmcWt29_07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt29/SmcWt29_08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt29/SmcWt29_09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt29/SmcWt29_10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt29/SmcWt29_11.wav"
+    },
+    {
+      "frame": 11,
+      "source": "SmcWt29/SmcWt29_12.wav"
+    },
+    {
+      "frame": 12,
+      "source": "SmcWt29/SmcWt29_13.wav"
+    },
+    {
+      "frame": 13,
+      "source": "SmcWt29/SmcWt29_14.wav"
+    }
+  ]
+}

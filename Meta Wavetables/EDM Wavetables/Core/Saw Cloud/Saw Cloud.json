@@ -1,0 +1,38 @@
+{
+  "name": "Saw Cloud",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "Saw Cloud"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "A3 EDM Table 018/A3 EDM Table 018 06.wav"
+    }
+  ]
+}

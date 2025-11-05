@@ -1,0 +1,22 @@
+{
+  "name": "Agitator",
+  "categories": [
+    "EDM Wavetables",
+    "Dirty",
+    "Agitator"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Agitated/A3 EDM Agitated 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Agitated/A3 EDM Agitated 01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Agitated/A3 EDM Agitated 02.wav"
+    }
+  ]
+}

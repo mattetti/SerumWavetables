@@ -1,0 +1,22 @@
+{
+  "name": "Blown",
+  "categories": [
+    "EDM Wavetables",
+    "Dirty",
+    "Blown"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table/A3 EDM Table 003 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table/A3 EDM Table 006 00.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table/A3 EDM Table 006 15.wav"
+    }
+  ]
+}

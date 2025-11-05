@@ -1,0 +1,30 @@
+{
+  "name": "Harmonic Saws 2",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "Harmonic Saws 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table 020/A3 EDM Table 020 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table 020/A3 EDM Table 020 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table 020/A3 EDM Table 020 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Table 020/A3 EDM Table 020 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Table 020/A3 EDM Table 020 06.wav"
+    }
+  ]
+}

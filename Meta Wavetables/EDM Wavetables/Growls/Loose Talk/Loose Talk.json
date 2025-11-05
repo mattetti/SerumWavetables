@@ -1,0 +1,30 @@
+{
+  "name": "Loose Talk",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Loose Talk"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt07_0/SmcWt07_01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt07_0/SmcWt07_02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt07_0/SmcWt07_03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt07_0/SmcWt07_06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt07_0/SmcWt07_08.wav"
+    }
+  ]
+}

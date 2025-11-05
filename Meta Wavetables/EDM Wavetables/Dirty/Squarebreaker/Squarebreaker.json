@@ -1,0 +1,42 @@
+{
+  "name": "Squarebreaker",
+  "categories": [
+    "EDM Wavetables",
+    "Dirty",
+    "Squarebreaker"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt10_0/SmcWt10_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt10_0/SmcWt10_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt10_0/SmcWt10_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt10_0/SmcWt10_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt10_0/SmcWt10_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt10_0/SmcWt10_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt10_0/SmcWt10_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt10_0/SmcWt10_08.wav"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Viscous",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Viscous"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Gooped/A3 EDM Gooped 2 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Gooped/A3 EDM Gooped 2 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Gooped/A3 EDM Gooped 2 06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Gooped/A3 EDM Gooped 2 09.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Gooped/A3 EDM Gooped 2 12.wav"
+    }
+  ]
+}

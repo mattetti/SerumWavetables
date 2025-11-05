@@ -1,0 +1,34 @@
+{
+  "name": "Radiated",
+  "categories": [
+    "EDM Wavetables",
+    "Dirty",
+    "Radiated"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 17.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 19.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 20.wav"
+    },
+    {
+      "frame": 5,
+      "source": "A3 EDM Radiated/A3 EDM Radiated 21.wav"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Squealer",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Squealer"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt15_0/SmcWt15_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt15_0/SmcWt15_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt15_0/SmcWt15_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt15_0/SmcWt15_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt15_0/SmcWt15_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt15_0/SmcWt15_07.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt15_0/SmcWt15_08.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt15_0/SmcWt15_09.wav"
+    }
+  ]
+}

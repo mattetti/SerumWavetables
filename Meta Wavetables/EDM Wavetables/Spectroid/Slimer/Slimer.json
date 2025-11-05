@@ -1,0 +1,38 @@
+{
+  "name": "Slimer",
+  "categories": [
+    "EDM Wavetables",
+    "Spectroid",
+    "Slimer"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table/A3 EDM Table 013 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table/A3 EDM Table 013 04.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table/A3 EDM Table 013 06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Table/A3 EDM Table 013 08.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Table/A3 EDM Table 013 10.wav"
+    },
+    {
+      "frame": 5,
+      "source": "A3 EDM Table/A3 EDM Table 013 12.wav"
+    },
+    {
+      "frame": 6,
+      "source": "A3 EDM Table/A3 EDM Table 013 14.wav"
+    }
+  ]
+}

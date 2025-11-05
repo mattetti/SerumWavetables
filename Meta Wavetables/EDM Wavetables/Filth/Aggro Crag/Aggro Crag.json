@@ -1,0 +1,50 @@
+{
+  "name": "Aggro Crag",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Aggro Crag"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt0/SmcWt01_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt0/SmcWt01_05.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt0/SmcWt01_06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt0/SmcWt01_07.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt0/SmcWt01_08.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt0/SmcWt01_10.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt0/SmcWt01_14.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt0/SmcWt01_15.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt0/SmcWt01_16.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt0/SmcWt02_17.wav"
+    }
+  ]
+}

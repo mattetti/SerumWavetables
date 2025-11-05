@@ -1,0 +1,30 @@
+{
+  "name": "Brainrot",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Brainrot"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Brainrot/A3 EDM Brainrot 15.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Brainrot/A3 EDM Brainrot 16.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Brainrot/A3 EDM Brainrot 17.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Brainrot/A3 EDM Brainrot 18.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Brainrot/A3 EDM Brainrot 19.wav"
+    }
+  ]
+}

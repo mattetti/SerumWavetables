@@ -1,0 +1,74 @@
+{
+  "name": "Alien Harmonics",
+  "categories": [
+    "EDM Wavetables",
+    "Spectroid",
+    "Alien Harmonics"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt04/SmcWt04_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt04/SmcWt04_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt04/SmcWt04_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt04/SmcWt04_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt04/SmcWt04_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt04/SmcWt04_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt04/SmcWt04_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt04/SmcWt04_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt04/SmcWt04_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt04/SmcWt04_09.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt04/SmcWt04_10.wav"
+    },
+    {
+      "frame": 11,
+      "source": "SmcWt04/SmcWt04_11.wav"
+    },
+    {
+      "frame": 12,
+      "source": "SmcWt04/SmcWt04_12.wav"
+    },
+    {
+      "frame": 13,
+      "source": "SmcWt04/SmcWt04_13.wav"
+    },
+    {
+      "frame": 14,
+      "source": "SmcWt04/SmcWt04_14.wav"
+    },
+    {
+      "frame": 15,
+      "source": "SmcWt04/SmcWt04_15.wav"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Jackal",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Jackal"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt13/SmcWt13_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt13/SmcWt13_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt13/SmcWt13_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt13/SmcWt13_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt13/SmcWt13_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt13/SmcWt13_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt13/SmcWt13_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt13/SmcWt13_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt13/SmcWt13_09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt13/SmcWt13_10.wav"
+    }
+  ]
+}

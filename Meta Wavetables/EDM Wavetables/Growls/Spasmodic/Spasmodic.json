@@ -1,0 +1,58 @@
+{
+  "name": "Spasmodic",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Spasmodic"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt09/SmcWt09_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt09/SmcWt09_02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt09/SmcWt09_03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt09/SmcWt09_04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt09/SmcWt09_05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt09/SmcWt09_06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt09/SmcWt09_07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt09/SmcWt09_09.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt09/SmcWt09_10.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt09/SmcWt09_11.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt09/SmcWt09_13.wav"
+    },
+    {
+      "frame": 11,
+      "source": "SmcWt09/SmcWt09_14.wav"
+    }
+  ]
+}

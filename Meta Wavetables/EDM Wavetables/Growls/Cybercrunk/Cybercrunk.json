@@ -1,0 +1,38 @@
+{
+  "name": "Cybercrunk",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Cybercrunk"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt16/SmcWt16_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt16/SmcWt16_02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt16/SmcWt16_04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt16/SmcWt16_06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt16/SmcWt16_08.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt16/SmcWt16_10.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt16/SmcWt16_11.wav"
+    }
+  ]
+}

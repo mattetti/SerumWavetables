@@ -1,0 +1,42 @@
+{
+  "name": "Foul Play",
+  "categories": [
+    "EDM Wavetables",
+    "Spectroid",
+    "Foul Play"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt30_0/SmcWt30_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt30_0/SmcWt30_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt30_0/SmcWt30_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt30_0/SmcWt30_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt30_0/SmcWt30_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt30_0/SmcWt30_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt30_0/SmcWt30_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt30_0/SmcWt30_07.wav"
+    }
+  ]
+}

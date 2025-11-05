@@ -1,0 +1,22 @@
+{
+  "name": "Smirk",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Smirk"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt09/SmcWt09_01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt09/SmcWt09_08.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt09/SmcWt09_12.wav"
+    }
+  ]
+}

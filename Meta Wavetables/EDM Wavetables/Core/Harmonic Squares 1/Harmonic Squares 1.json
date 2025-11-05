@@ -1,0 +1,26 @@
+{
+  "name": "Harmonic Squares 1",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "Harmonic Squares 1"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table 022/A3 EDM Table 022 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table 022/A3 EDM Table 022 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table 022/A3 EDM Table 022 04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Table 022/A3 EDM Table 022 05.wav"
+    }
+  ]
+}

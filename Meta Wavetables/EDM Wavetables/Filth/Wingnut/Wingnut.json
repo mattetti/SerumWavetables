@@ -1,0 +1,54 @@
+{
+  "name": "Wingnut",
+  "categories": [
+    "EDM Wavetables",
+    "Filth",
+    "Wingnut"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SmcWt24b/SmcWt24b_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SmcWt24b/SmcWt24b_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SmcWt24b/SmcWt24b_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SmcWt24b/SmcWt24b_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "SmcWt24b/SmcWt24b_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "SmcWt24b/SmcWt24b_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "SmcWt24b/SmcWt24b_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "SmcWt24b/SmcWt24b_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "SmcWt24b/SmcWt24b_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "SmcWt24b/SmcWt24b_09.wav"
+    },
+    {
+      "frame": 10,
+      "source": "SmcWt24b/SmcWt24b_10.wav"
+    }
+  ]
+}

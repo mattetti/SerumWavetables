@@ -1,0 +1,70 @@
+{
+  "name": "Swiper",
+  "categories": [
+    "EDM Wavetables",
+    "Growls",
+    "Swiper"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "A3 EDM Table/A3 EDM Table 007 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "A3 EDM Table/A3 EDM Table 007 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "A3 EDM Table/A3 EDM Table 007 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "A3 EDM Table/A3 EDM Table 007 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "A3 EDM Table/A3 EDM Table 007 05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "A3 EDM Table/A3 EDM Table 007 06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "A3 EDM Table/A3 EDM Table 007 07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "A3 EDM Table/A3 EDM Table 007 08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "A3 EDM Table/A3 EDM Table 007 09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "A3 EDM Table/A3 EDM Table 007 10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "A3 EDM Table/A3 EDM Table 007 11.wav"
+    },
+    {
+      "frame": 11,
+      "source": "A3 EDM Table/A3 EDM Table 007 12.wav"
+    },
+    {
+      "frame": 12,
+      "source": "A3 EDM Table/A3 EDM Table 007 13.wav"
+    },
+    {
+      "frame": 13,
+      "source": "A3 EDM Table/A3 EDM Table 007 14.wav"
+    },
+    {
+      "frame": 14,
+      "source": "A3 EDM Table/A3 EDM Table 007 15.wav"
+    }
+  ]
+}

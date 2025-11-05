@@ -1,0 +1,30 @@
+{
+  "name": "EDM Square Sync",
+  "categories": [
+    "EDM Wavetables",
+    "Core",
+    "EDM Square Sync"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Cobalt8HSyncSqr/Cobalt8HSyncSqr00 +6db.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Cobalt8HSyncSqr/Cobalt8HSyncSqr04 +6db.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Cobalt8HSyncSqr/Cobalt8HSyncSqr08 +6db.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Cobalt8HSyncSqr/Cobalt8HSyncSqr12 +6db.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Cobalt8HSyncSqr/Cobalt8HSyncSqr15 +6db.wav"
+    }
+  ]
+}
