@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub_Phatty_Thin_Sync_b_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub/Sub_Phatty_Thin_Sync_b_single.wav"
+    }
+  ]
+}

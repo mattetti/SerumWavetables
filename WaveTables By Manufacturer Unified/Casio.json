@@ -1,0 +1,190 @@
+{
+  "manufacturer": "Casio",
+  "total_frames": 46,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Casio/Casio MT 40 Tone 3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Casio/Casio MT-40 Bass.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Casio/Casio MT-40 Recorder.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Casio/Casio_MT_40_Tone_1_single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Casio/RD_EP7_single.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Casio/Virus PWM a.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Casio MT-40/Casio MT-40 Pipe Organ.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Casio MT-40/Casio MT-40 Syn Fuzz.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 1.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 2.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 4.wav"
+    },
+    {
+      "frame": 11,
+      "source": "RZ/RZ1 Formant 1.wav"
+    },
+    {
+      "frame": 12,
+      "source": "RZ/RZ1 Formant 2.wav"
+    },
+    {
+      "frame": 13,
+      "source": "RZ/RZ1 Hoover 1.wav"
+    },
+    {
+      "frame": 14,
+      "source": "RZ/RZ1 Hoover 2.wav"
+    },
+    {
+      "frame": 15,
+      "source": "RZ/RZ1 Syn Mix 1.wav"
+    },
+    {
+      "frame": 16,
+      "source": "RZ/RZ2 Duo Saw Comb Funda MS.wav"
+    },
+    {
+      "frame": 17,
+      "source": "RZ/RZ2 Numbered 2 Comb 1 MS.wav"
+    },
+    {
+      "frame": 18,
+      "source": "RZ/RZ2 Numbered 2 Comb 2 MS.wav"
+    },
+    {
+      "frame": 19,
+      "source": "RZ/RZ2 Pulse Comb MS.wav"
+    },
+    {
+      "frame": 20,
+      "source": "RZ/RZ2 Pulse Primes 1 MS.wav"
+    },
+    {
+      "frame": 21,
+      "source": "RZ/RZ2 Pulse Primes 2 MS.wav"
+    },
+    {
+      "frame": 22,
+      "source": "RZ1 Primes/RZ1 Primes 1.wav"
+    },
+    {
+      "frame": 23,
+      "source": "RZ1 Primes/RZ1 Primes 2.wav"
+    },
+    {
+      "frame": 24,
+      "source": "RZ1 Primes/RZ1 Primes 3.wav"
+    },
+    {
+      "frame": 25,
+      "source": "RZ1 Primes/RZ1 Primes 4.wav"
+    },
+    {
+      "frame": 26,
+      "source": "RZ1 Primes/RZ1 Primes 5.wav"
+    },
+    {
+      "frame": 27,
+      "source": "RZ1 Primes/RZ1 Primes 6.wav"
+    },
+    {
+      "frame": 28,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 1.wav"
+    },
+    {
+      "frame": 29,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 2.wav"
+    },
+    {
+      "frame": 30,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 3.wav"
+    },
+    {
+      "frame": 31,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 4.wav"
+    },
+    {
+      "frame": 32,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 5.wav"
+    },
+    {
+      "frame": 33,
+      "source": "RZ2 Primes/RZ2 Primes 1.wav"
+    },
+    {
+      "frame": 34,
+      "source": "RZ2 Primes/RZ2 Primes 2.wav"
+    },
+    {
+      "frame": 35,
+      "source": "RZ2 Primes/RZ2 Primes 3.wav"
+    },
+    {
+      "frame": 36,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 1 MS.wav"
+    },
+    {
+      "frame": 37,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 2 MS.wav"
+    },
+    {
+      "frame": 38,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 3 MS.wav"
+    },
+    {
+      "frame": 39,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 4 MS.wav"
+    },
+    {
+      "frame": 40,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 1 MS.wav"
+    },
+    {
+      "frame": 41,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 2 MS.wav"
+    },
+    {
+      "frame": 42,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 3 MS.wav"
+    },
+    {
+      "frame": 43,
+      "source": "RZ2 Sync Comb/RZ2 Sync Comb 1 MS.wav"
+    },
+    {
+      "frame": 44,
+      "source": "RZ2 Sync Comb/RZ2 Sync Comb 2 MS.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Vox/Casio MT-40 Pipe Organ.wav"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Omega",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Omega/Omega Hip Hop Buzz-IL.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Omega/Omega Hollow-IL.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Omega/Omega Nasal X Mod.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Omega/Omega X Mod Aliaz-IL.wav"
+    }
+  ]
+}

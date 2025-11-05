@@ -1,0 +1,22 @@
+{
+  "name": "Bass Station II Sub",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "Bass Station II Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Pls.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Sin.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Sqr.wav"
+    }
+  ]
+}

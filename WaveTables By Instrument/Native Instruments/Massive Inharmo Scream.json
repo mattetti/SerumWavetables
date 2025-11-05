@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive Inharmo Scream",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Digital/Massive Inharmo Scream.wav"
+    }
+  ]
+}

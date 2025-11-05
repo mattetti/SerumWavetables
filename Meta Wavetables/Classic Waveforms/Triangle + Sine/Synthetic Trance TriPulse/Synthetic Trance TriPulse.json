@@ -1,0 +1,14 @@
+{
+  "name": "Synthetic Trance TriPulse",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Synthetic Trance TriPulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sylenth Tri/Sylenth TriPulse.wav"
+    }
+  ]
+}

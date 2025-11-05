@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet 12 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 12 S/Prophet 12 Saw b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 12 S/Prophet 12 Solid Octave.wav"
+    }
+  ]
+}

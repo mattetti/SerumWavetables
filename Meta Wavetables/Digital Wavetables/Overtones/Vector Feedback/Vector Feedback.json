@@ -1,0 +1,22 @@
+{
+  "name": "Vector Feedback",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Vector Feedback"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet VS/Prophet VS 50 Fback.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet VS/Prophet VS 56.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet VS/Prophet VS 93 Spec8.wav"
+    }
+  ]
+}

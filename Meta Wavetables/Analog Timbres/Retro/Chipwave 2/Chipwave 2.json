@@ -1,0 +1,26 @@
+{
+  "name": "Chipwave 2",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Chipwave 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Chipwave/Chipwave 1 a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Chipwave/Chipwave 1 b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Chipwave/Chipwave 1 c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Chipwave/Chipwave 1 d.wav"
+    }
+  ]
+}

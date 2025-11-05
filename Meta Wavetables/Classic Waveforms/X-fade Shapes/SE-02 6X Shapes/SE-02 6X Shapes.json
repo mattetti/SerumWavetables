@@ -1,0 +1,14 @@
+{
+  "name": "SE-02 6X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "SE-02 6X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SE-02/SE-02 Pulse Narrow.wav"
+    }
+  ]
+}

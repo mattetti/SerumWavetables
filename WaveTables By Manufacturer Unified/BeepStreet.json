@@ -1,0 +1,38 @@
+{
+  "manufacturer": "Beepstreet",
+  "total_frames": 8,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/Sunrizer_Drive_2_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sunrizer/Sunrizer Sync b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sunrizer/Sunrizer_Drive_1_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sunrizer/Sunrizer_Saw_b_single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sunrizer/Sunrizer_Saw_c_single.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Sunrizer/Sunrizer_Sync_c_single.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Sunrizer Organ/Sunrizer Organ a.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Sunrizer Organ/Sunrizer Organ b.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sub Phatty Pulse",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Sub Phatty Pulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty PWM/Sub Phatty PWM a.wav"
+    }
+  ]
+}

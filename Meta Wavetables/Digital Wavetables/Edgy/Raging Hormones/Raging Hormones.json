@@ -1,0 +1,30 @@
+{
+  "name": "Raging Hormones",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Raging Hormones"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD-800/Absynth Fractalizer (nasal).wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000/JD-800 033 Nasty.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JD-800/JP-8000 Synced Tri a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "JP-8000/JP-8000 X-Mod Bite b single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "JD-800/Prophet VS 86 Hack2.wav"
+    }
+  ]
+}

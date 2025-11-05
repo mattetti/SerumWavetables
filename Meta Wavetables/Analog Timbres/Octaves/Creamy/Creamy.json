@@ -1,0 +1,18 @@
+{
+  "name": "Creamy",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Creamy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph c.wav"
+    }
+  ]
+}

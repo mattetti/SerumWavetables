@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive SineScream",
+  "total_frames": 7,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Massive SineScream/Massive SineScream 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Massive SineScream/Massive SineScream 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Massive SineScream/Massive SineScream 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Massive SineScream/Massive SineScream 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Massive SineScream/Massive SineScream 05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Massive SineScream/Massive SineScream 06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Massive SineScream/Massive SineScream 07.wav"
+    }
+  ]
+}

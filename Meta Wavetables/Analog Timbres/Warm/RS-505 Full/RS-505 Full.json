@@ -1,0 +1,14 @@
+{
+  "name": "RS-505 Full",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "RS-505 Full"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Paraphonic/Paraphonic ConBass.wav"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "manufacturer": "PPG",
+  "total_frames": 17,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/PPG 4 VowelBell.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P/PPG 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "P/PPG 2 Epiano.wav"
+    },
+    {
+      "frame": 3,
+      "source": "PPG/JD-800 042 Doo.wav"
+    },
+    {
+      "frame": 4,
+      "source": "PPG/Op Thin Vox 1.wav"
+    },
+    {
+      "frame": 5,
+      "source": "PPG/Op Vocal FM.wav"
+    },
+    {
+      "frame": 6,
+      "source": "PPG/Op Vocal Org.wav"
+    },
+    {
+      "frame": 7,
+      "source": "PPG/PPG 4 Vowel.wav"
+    },
+    {
+      "frame": 8,
+      "source": "PPG/PPG 4 VowelBell.wav"
+    },
+    {
+      "frame": 9,
+      "source": "PPG/Prophet VS 75 Vocal1.wav"
+    },
+    {
+      "frame": 10,
+      "source": "PPG/RZ1 Syn Dis 2.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 a.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 b.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 c.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 d.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 e.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Thor PPG Organ/Thor PPG Organ 1 f.wav"
+    }
+  ]
+}

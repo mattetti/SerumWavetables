@@ -1,0 +1,38 @@
+{
+  "name": "Stepper",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Stepper"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM8 Teeth/FM8 Teeth 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM8 Teeth/FM8 Teeth 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM8 Teeth/FM8 Teeth 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM8 Teeth/FM8 Teeth 07.wav"
+    },
+    {
+      "frame": 4,
+      "source": "FM8 Teeth/FM8 Teeth 09.wav"
+    },
+    {
+      "frame": 5,
+      "source": "FM8 Teeth/FM8 Teeth 11.wav"
+    },
+    {
+      "frame": 6,
+      "source": "FM8 Teeth/FM8 Teeth 13.wav"
+    }
+  ]
+}

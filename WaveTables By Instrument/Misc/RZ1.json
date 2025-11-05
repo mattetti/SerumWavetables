@@ -1,0 +1,47 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "RZ1",
+  "total_frames": 10,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1/Lazerbass Saw 2 16.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ1/Lazerbass Saw 2 51.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1/Lazerbass Sq Multi 2 13 C.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ1/Lazerbass Sq Multi 2 3.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ1/OP Bell 2.wav"
+    },
+    {
+      "frame": 5,
+      "source": "RZ1/Op Vocal FM.wav"
+    },
+    {
+      "frame": 6,
+      "source": "RZ1/RZ1 Bell Mix 1.wav"
+    },
+    {
+      "frame": 7,
+      "source": "RZ1/RZ1 Bell Mix 2.wav"
+    },
+    {
+      "frame": 8,
+      "source": "RZ1/RZ1 Formant 3.wav"
+    },
+    {
+      "frame": 9,
+      "source": "RZ1/RZ1 Solids 2.wav"
+    }
+  ]
+}

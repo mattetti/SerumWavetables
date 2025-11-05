@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "CS",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS/CS Pulse 99.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS/CS Square.wav"
+    }
+  ]
+}

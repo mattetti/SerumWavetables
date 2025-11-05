@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet 6 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 6 S/Prophet 6 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 6 S/Prophet 6 Square Fixed.wav"
+    }
+  ]
+}

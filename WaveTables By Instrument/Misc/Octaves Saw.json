@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Octaves Saw",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Octaves Saw/Octaves Saw a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Octaves Saw/Octaves Saw b.wav"
+    }
+  ]
+}

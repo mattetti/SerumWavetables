@@ -1,0 +1,14 @@
+{
+  "name": "Rev2 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Rev2 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2/Rev2 Saw 1.wav"
+    }
+  ]
+}

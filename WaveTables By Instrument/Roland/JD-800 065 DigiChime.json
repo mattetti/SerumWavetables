@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD-800 065 DigiChime",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2/JD-800 065 DigiChime.wav"
+    }
+  ]
+}

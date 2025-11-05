@@ -1,0 +1,318 @@
+{
+  "manufacturer": "Xfer Records",
+  "total_frames": 78,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Serum Edge 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Edge/Serum Edge PWM 13.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Edge/Serum Hollow FM 2 07.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Edge/Serum Mirror 17.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum/Edge Bend 10.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum/FM Mechanic 1.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Serum/FM8 Teeth 02.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Serum/Massive RoughMath 2.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Serum/Serum Edge 07.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Serum/Serum Harmonics 01.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Serum/Serum Mirror 04.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Serum/Serum Plastic 04.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Serum/Serum Razor 01.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Serum/Serum Razor 11.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Serum/Serum Tube 02.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Serum Edge PWM/Serum Edge PWM 01.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Serum Edge PWM/Serum Edge PWM 03.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Serum Edge PWM/Serum Edge PWM 06.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Serum Edge PWM/Serum Edge PWM 09.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Serum Edge PWM/Serum Edge PWM 12.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Serum Edge PWM/Serum Edge PWM 14.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Serum Edge PWM/Serum Edge PWM 16.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Serum FM PWM/Serum FM PWM 01.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Serum FM PWM/Serum FM PWM 02.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Serum FM PWM/Serum FM PWM 03.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Serum FM PWM/Serum FM PWM 04.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Serum FM PWM/Serum FM PWM 05.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Serum FM PWM/Serum FM PWM 06.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Serum FM PWM/Serum FM PWM 07.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Serum FM PWM/Serum FM PWM 08.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Serum FM PWM/Serum FM PWM 09.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Serum FM PWM/Serum FM PWM 10.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Serum Fold/Serum Fold 01.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Serum Fold/Serum Fold 02.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Serum Fold/Serum Fold 03.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Serum Fold/Serum Fold 04.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Serum Fold/Serum Fold 05.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Serum Fold/Serum Fold 06.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 01.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 03.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 05.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 07.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 09.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 11.wav"
+    },
+    {
+      "frame": 44,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 13.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 15.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 16.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Serum Plastic/Serum Plastic 01.wav"
+    },
+    {
+      "frame": 48,
+      "source": "Serum Plastic/Serum Plastic 02.wav"
+    },
+    {
+      "frame": 49,
+      "source": "Serum Plastic/Serum Plastic 03.wav"
+    },
+    {
+      "frame": 50,
+      "source": "Serum Plastic/Serum Plastic 04.wav"
+    },
+    {
+      "frame": 51,
+      "source": "Serum Plastic/Serum Plastic 05.wav"
+    },
+    {
+      "frame": 52,
+      "source": "Serum Sturdy/Serum Sturdy 01.wav"
+    },
+    {
+      "frame": 53,
+      "source": "Serum Sturdy/Serum Sturdy 03.wav"
+    },
+    {
+      "frame": 54,
+      "source": "Serum Sturdy/Serum Sturdy 05.wav"
+    },
+    {
+      "frame": 55,
+      "source": "Serum Sturdy/Serum Sturdy 07.wav"
+    },
+    {
+      "frame": 56,
+      "source": "Serum Sturdy/Serum Sturdy 09.wav"
+    },
+    {
+      "frame": 57,
+      "source": "Serum Sturdy/Serum Sturdy 11.wav"
+    },
+    {
+      "frame": 58,
+      "source": "Serum Tube/Serum Tube 01.wav"
+    },
+    {
+      "frame": 59,
+      "source": "Serum Tube/Serum Tube 02.wav"
+    },
+    {
+      "frame": 60,
+      "source": "Serum Tube/Serum Tube 03.wav"
+    },
+    {
+      "frame": 61,
+      "source": "Serum Tube/Serum Tube 04.wav"
+    },
+    {
+      "frame": 62,
+      "source": "Serum Tube/Serum Tube 05.wav"
+    },
+    {
+      "frame": 63,
+      "source": "Serum Tube/Serum Tube 06.wav"
+    },
+    {
+      "frame": 64,
+      "source": "Serum Tube/Serum Tube 07.wav"
+    },
+    {
+      "frame": 65,
+      "source": "Serum Tube/Serum Tube 08.wav"
+    },
+    {
+      "frame": 66,
+      "source": "Serum_Bend/Serum_Bend_01_Gain_Fix.wav"
+    },
+    {
+      "frame": 67,
+      "source": "Serum_Bend/Serum_Bend_03_Gain_Fix.wav"
+    },
+    {
+      "frame": 68,
+      "source": "Serum_Bend/Serum_Bend_05_Gain_Fix.wav"
+    },
+    {
+      "frame": 69,
+      "source": "Serum_Bend/Serum_Bend_07_Gain_Fix.wav"
+    },
+    {
+      "frame": 70,
+      "source": "Serum_Bend/Serum_Bend_09_Gain_Fix.wav"
+    },
+    {
+      "frame": 71,
+      "source": "Serum_Bend/Serum_Bend_10_Gain_Fix.wav"
+    },
+    {
+      "frame": 72,
+      "source": "Serum_Solid/Serum_Solid_01_Gain_Fix.wav"
+    },
+    {
+      "frame": 73,
+      "source": "Serum_Solid/Serum_Solid_02_Gain_Fix.wav"
+    },
+    {
+      "frame": 74,
+      "source": "Serum_Solid/Serum_Solid_04_Gain_Fix.wav"
+    },
+    {
+      "frame": 75,
+      "source": "Serum_Solid/Serum_Solid_06_Gain_Fix.wav"
+    },
+    {
+      "frame": 76,
+      "source": "Serum_Solid/Serum_Solid_08_Gain_Fix.wav"
+    },
+    {
+      "frame": 77,
+      "source": "Serum_Solid/Serum_Solid_11_Gain_Fix.wav"
+    }
+  ]
+}

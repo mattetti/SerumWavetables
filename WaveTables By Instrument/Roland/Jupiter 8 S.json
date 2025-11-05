@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "Jupiter 8 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Jupiter 8 S/Jupiter 8 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Jupiter 8 S/Jupiter 8 Square.wav"
+    }
+  ]
+}

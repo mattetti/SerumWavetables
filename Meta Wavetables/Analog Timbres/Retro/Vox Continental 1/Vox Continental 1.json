@@ -1,0 +1,26 @@
+{
+  "name": "Vox Continental 1",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Vox Continental 1"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Vox_Continental/Vox_Continental_Chordal_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Vox_Continental/Vox_Continental_Harpsi_single_2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Vox_Continental/Vox_Continental_Jaguar_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Vox_Continental/Vox_Continental_Monkees_single.wav"
+    }
+  ]
+}

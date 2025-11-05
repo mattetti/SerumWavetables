@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive DigiSineHarm",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/Massive DigiSineHarm a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/Massive DigiSineHarm b.wav"
+    }
+  ]
+}

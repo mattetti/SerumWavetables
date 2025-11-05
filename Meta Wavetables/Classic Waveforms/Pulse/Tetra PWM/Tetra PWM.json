@@ -1,0 +1,34 @@
+{
+  "name": "Tetra PWM",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Tetra PWM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Tetra Pulse/Tetra Pulse 07.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Tetra Pulse/Tetra Pulse 12.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Tetra Pulse/Tetra Pulse 22.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Tetra Pulse/Tetra Pulse 35.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Tetra Pulse/Tetra Pulse 42.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Tetra Pulse/Tetra Pulse 50.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Underfed",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Underfed"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000/JP-8000 Synced Tri b.wav"
+    }
+  ]
+}

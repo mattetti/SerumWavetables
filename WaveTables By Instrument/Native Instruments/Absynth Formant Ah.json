@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Absynth Formant Ah",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Female/Absynth Formant Ah e.wav"
+    }
+  ]
+}

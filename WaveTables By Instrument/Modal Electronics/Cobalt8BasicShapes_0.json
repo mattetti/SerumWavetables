@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Modal Electronics",
+  "instrument": "Cobalt8BasicShapes_0",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_09.wav"
+    }
+  ]
+}

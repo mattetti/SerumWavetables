@@ -1,0 +1,18 @@
+{
+  "name": "Sub Teeth",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Sub Teeth"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub_Phatty/Sub_Phatty_Sub_Drive_b_Single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub_Phatty/Sub_Phatty_Triangle_Teeth_b_Single.wav"
+    }
+  ]
+}

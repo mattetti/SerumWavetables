@@ -1,0 +1,14 @@
+{
+  "name": "Minibrute Sine+Tri",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Minibrute Sine+Tri"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute/Minibrute Sine.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Vox",
+  "instrument": "Vox_Continental_Animals_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Vox/Vox_Continental_Animals_single.wav"
+    }
+  ]
+}

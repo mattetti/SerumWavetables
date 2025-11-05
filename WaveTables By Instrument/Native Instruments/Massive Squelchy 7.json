@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive Squelchy 7",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2/Massive Squelchy 7.wav"
+    }
+  ]
+}

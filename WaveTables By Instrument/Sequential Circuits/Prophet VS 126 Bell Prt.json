@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet VS 126 Bell Prt",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P/Prophet VS 126 Bell Prt.wav"
+    }
+  ]
+}

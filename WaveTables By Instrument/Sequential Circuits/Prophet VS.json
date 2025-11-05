@@ -1,0 +1,47 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet VS",
+  "total_frames": 10,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet VS/Prophet VS 100 New3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet VS/Prophet VS 126 Bell Prt.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet VS/Prophet VS 42.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prophet VS/Prophet VS 50 Fback.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prophet VS/Prophet VS 56.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prophet VS/Prophet VS 58.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prophet VS/Prophet VS 64 Orient.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prophet VS/Prophet VS 86 Hack2.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prophet VS/Prophet VS 89 Spec3.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prophet VS/Prophet VS 93 Spec8.wav"
+    }
+  ]
+}

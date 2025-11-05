@@ -1,0 +1,18 @@
+{
+  "name": "JD Keywaves",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "JD Keywaves"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD/JD-800 071 PianoAtk (single).wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD/JD_800_074_EPDistone_single.wav"
+    }
+  ]
+}

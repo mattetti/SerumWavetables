@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet 12 PWM",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 12 PWM/Prophet 12 PWM b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 12 PWM/Prophet 12 PWM e (Square).wav"
+    }
+  ]
+}

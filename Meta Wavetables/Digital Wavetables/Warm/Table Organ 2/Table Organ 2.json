@@ -1,0 +1,30 @@
+{
+  "name": "Table Organ 2",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Table Organ 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf C23/Waldorf C23 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf C23/Waldorf C23 20.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf C23/Waldorf C23 25.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf C23/Waldorf C23 35.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Waldorf C23/Waldorf C23 55.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet_12_SineSaw_Deep_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Folded/Prophet_12_SineSaw_Deep_single.wav"
+    }
+  ]
+}

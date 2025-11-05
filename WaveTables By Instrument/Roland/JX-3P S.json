@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JX-3P S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JX-3P S/JX-3P Saw Thinned Gain 5.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JX-3P S/JX-3P Square.wav"
+    }
+  ]
+}

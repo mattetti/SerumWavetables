@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Logan",
+  "instrument": "Logan PercBass",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini/Logan PercBass.wav"
+    }
+  ]
+}

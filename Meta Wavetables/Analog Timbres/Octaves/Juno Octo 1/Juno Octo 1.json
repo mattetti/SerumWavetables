@@ -1,0 +1,18 @@
+{
+  "name": "Juno Octo 1",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Juno Octo 1"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno/Juno 60 Pulse Sub.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 S/Juno 60 Sub Square.wav"
+    }
+  ]
+}

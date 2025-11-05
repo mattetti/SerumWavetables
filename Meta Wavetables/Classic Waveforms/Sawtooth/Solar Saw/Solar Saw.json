@@ -1,0 +1,22 @@
+{
+  "name": "Solar Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Solar Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sunrizer_Saw/Sunrizer_Saw_a_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sunrizer/Sunrizer_Saw_b_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sunrizer/Sunrizer_Saw_c_single.wav"
+    }
+  ]
+}

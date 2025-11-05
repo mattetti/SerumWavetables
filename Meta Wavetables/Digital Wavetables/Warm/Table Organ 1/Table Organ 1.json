@@ -1,0 +1,26 @@
+{
+  "name": "Table Organ 1",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Table Organ 1"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Waldorf C26 50.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf/Waldorf C26 55.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/Waldorf C26 60.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf/Waldorf I35 25.wav"
+    }
+  ]
+}

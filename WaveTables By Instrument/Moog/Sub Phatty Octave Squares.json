@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub Phatty Octave Squares",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Octaves/Sub Phatty Octave Squares a.wav"
+    }
+  ]
+}

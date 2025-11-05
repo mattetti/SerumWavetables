@@ -1,0 +1,34 @@
+{
+  "name": "Pro 3 3X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Pro 3 3X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P3O1TrSwSq/P3O1TrSwSq00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P3O1TrSwSq/P3O1TrSwSq01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "P3O1TrSwSq/P3O1TrSwSq07.wav"
+    },
+    {
+      "frame": 3,
+      "source": "P3O1TrSwSq/P3O1TrSwSq08.wav"
+    },
+    {
+      "frame": 4,
+      "source": "P3O1TrSwSq/P3O1TrSwSq11.wav"
+    },
+    {
+      "frame": 5,
+      "source": "P3O1TrSwSq/P3O1TrSwSq13.wav"
+    }
+  ]
+}

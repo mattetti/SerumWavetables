@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Clavia",
+  "instrument": "Nord Rack",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Nord Rack/Nord Rack 2 PWM 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Nord Rack/Nord Rack 2 Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Nord Rack/Nord Rack 2 Tri.wav"
+    }
+  ]
+}

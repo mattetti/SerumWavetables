@@ -1,0 +1,39 @@
+{
+  "manufacturer": "Access",
+  "instrument": "Virus PWM",
+  "total_frames": 8,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Virus PWM/Virus PWM a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Virus PWM/Virus PWM b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Virus PWM/Virus PWM c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Virus PWM/Virus PWM d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Virus PWM/Virus PWM e.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Virus PWM/Virus PWM f.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Virus PWM/Virus PWM g.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Virus PWM/Virus PWM h.wav"
+    }
+  ]
+}

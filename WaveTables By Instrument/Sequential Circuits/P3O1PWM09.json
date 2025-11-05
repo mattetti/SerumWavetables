@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "P3O1PWM09",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P3O1PWM/P3O1PWM09.wav"
+    }
+  ]
+}

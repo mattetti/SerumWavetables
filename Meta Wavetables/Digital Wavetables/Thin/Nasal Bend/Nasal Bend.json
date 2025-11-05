@@ -1,0 +1,22 @@
+{
+  "name": "Nasal Bend",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Nasal Bend"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Nasal_Bend/Nasal_Bend_01_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Nasal_Bend/Nasal_Bend_03_Gain_Fix.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Nasal_Bend/Nasal_Bend_11_Gain_Fix.wav"
+    }
+  ]
+}

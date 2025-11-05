@@ -1,0 +1,26 @@
+{
+  "name": "Fluster",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Fluster"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "W/Wcreator 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "W/Wcreator 4.wav"
+    },
+    {
+      "frame": 2,
+      "source": "W/Whitey FM 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "W/Whitey FM 2.wav"
+    }
+  ]
+}

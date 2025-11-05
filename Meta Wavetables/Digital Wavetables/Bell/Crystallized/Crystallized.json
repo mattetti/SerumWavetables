@@ -1,0 +1,30 @@
+{
+  "name": "Crystallized",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Crystallized"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Absynth/Absynth Crystal Wave.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Absynth/JD-800 035 FineWine.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/JD-800 052 Gamelan1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Absynth/JD-800 053 Gamelan2 (single).wav"
+    },
+    {
+      "frame": 4,
+      "source": "Absynth/JD-800 062 Crystal.wav"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sine Dirt",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Sine Dirt"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/Spectral Sine Dirt c.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "FM8 TX Wave 8",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/FM8 TX Wave 8.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Nord Lead Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Nord Lead Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Nord Rack/Nord Rack 2 PWM 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Nord Rack/Nord Rack 2 Saw.wav"
+    }
+  ]
+}

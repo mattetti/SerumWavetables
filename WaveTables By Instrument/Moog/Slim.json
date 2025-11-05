@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Slim",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Slim/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Slim/Slim Phatty Tri.wav"
+    }
+  ]
+}

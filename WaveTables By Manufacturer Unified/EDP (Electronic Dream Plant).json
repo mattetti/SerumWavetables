@@ -1,0 +1,22 @@
+{
+  "manufacturer": "EDP (Electronic Dream Plant)",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "EDP/EDP Wasp Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "EDP/JX-3P Thin Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Wasp/EDP Wasp Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Wasp/Wasp Square.wav"
+    }
+  ]
+}

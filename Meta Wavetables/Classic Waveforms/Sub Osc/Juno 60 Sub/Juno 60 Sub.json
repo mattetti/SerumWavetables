@@ -1,0 +1,22 @@
+{
+  "name": "Juno 60 Sub",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "Juno 60 Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Juno 60 Sub.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 S/Juno 60 SubSaw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno 60 S/Juno 60 SubSquare.wav"
+    }
+  ]
+}

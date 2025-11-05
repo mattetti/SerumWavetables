@@ -1,0 +1,30 @@
+{
+  "name": "Velum",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Velum"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Animoog/Animoog ArpModCplx.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Animoog/Animoog PrimeSweep.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP-8000/Digital_Blue_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Digital/Massive Inharmo Scream.wav"
+    },
+    {
+      "frame": 4,
+      "source": "JP-8000/Prophet VS 42.wav"
+    }
+  ]
+}

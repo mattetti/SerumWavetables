@@ -1,0 +1,14 @@
+{
+  "name": "Clavtable",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Clavtable"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/JD_800_015_MIDIClav_single.wav"
+    }
+  ]
+}

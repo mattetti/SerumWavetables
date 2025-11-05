@@ -1,0 +1,34 @@
+{
+  "name": "Tumult",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Tumult"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum Sturdy/Serum Sturdy 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum Sturdy/Serum Sturdy 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum Sturdy/Serum Sturdy 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum Sturdy/Serum Sturdy 07.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum Sturdy/Serum Sturdy 09.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum Sturdy/Serum Sturdy 11.wav"
+    }
+  ]
+}

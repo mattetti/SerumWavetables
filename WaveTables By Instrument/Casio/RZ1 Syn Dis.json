@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Casio",
+  "instrument": "RZ1 Syn Dis",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 3.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 4.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 5.wav"
+    }
+  ]
+}

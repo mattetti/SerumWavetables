@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Animoog DigiNoiseRS",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Animoog DigiNoiseRS.wav"
+    }
+  ]
+}

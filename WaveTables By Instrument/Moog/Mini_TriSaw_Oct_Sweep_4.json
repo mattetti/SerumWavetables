@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Mini_TriSaw_Oct_Sweep_4",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS/Mini_TriSaw_Oct_Sweep_4.wav"
+    }
+  ]
+}

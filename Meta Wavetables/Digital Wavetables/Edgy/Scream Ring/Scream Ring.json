@@ -1,0 +1,22 @@
+{
+  "name": "Scream Ring",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Scream Ring"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge Bend/Edge Bend 09.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Edge/JP_8000_Plastic_Ring_a_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Edge/Massive Screamer.wav"
+    }
+  ]
+}

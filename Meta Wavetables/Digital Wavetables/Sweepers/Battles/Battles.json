@@ -1,0 +1,30 @@
+{
+  "name": "Battles",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Battles"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/JP-8000 Plastic X-Mod a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/JP-8000 Plastic X-Mod b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ZB/Massive DigiSineHarm a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ZB/Massive DigiSineHarm b.wav"
+    },
+    {
+      "frame": 4,
+      "source": "ZB/Massive Drive PhsDst.wav"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "manufacturer": "ARP",
+  "instrument": "ARP",
+  "total_frames": 14,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP/ARP 2600 Narrow Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ARP/ARP 2600 Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ARP/ARP 2600 Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ARP/ARP 2600 Sine.wav"
+    },
+    {
+      "frame": 4,
+      "source": "ARP/ARP 2600 Square.wav"
+    },
+    {
+      "frame": 5,
+      "source": "ARP/ARP 2600 Triangle.wav"
+    },
+    {
+      "frame": 6,
+      "source": "ARP/ARP Odyssey Reso Square (single).wav"
+    },
+    {
+      "frame": 7,
+      "source": "ARP/ARP_Odyssey_Square_Fix.wav"
+    },
+    {
+      "frame": 8,
+      "source": "ARP/Moog Modular Saw.wav"
+    },
+    {
+      "frame": 9,
+      "source": "ARP/Moog Modular Square.wav"
+    },
+    {
+      "frame": 10,
+      "source": "ARP/Omega Nasal X Mod-IL.wav"
+    },
+    {
+      "frame": 11,
+      "source": "ARP/Prophet 12 Saw b.wav"
+    },
+    {
+      "frame": 12,
+      "source": "ARP/Prophet 5 Saw.wav"
+    },
+    {
+      "frame": 13,
+      "source": "ARP/Prophet 5 Square.wav"
+    }
+  ]
+}

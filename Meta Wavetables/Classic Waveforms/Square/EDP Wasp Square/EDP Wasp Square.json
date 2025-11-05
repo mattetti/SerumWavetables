@@ -1,0 +1,14 @@
+{
+  "name": "EDP Wasp Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "EDP Wasp Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wasp/Wasp Square.wav"
+    }
+  ]
+}

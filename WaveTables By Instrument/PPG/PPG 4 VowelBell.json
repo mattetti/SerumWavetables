@@ -1,0 +1,11 @@
+{
+  "manufacturer": "PPG",
+  "instrument": "PPG 4 VowelBell",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/PPG 4 VowelBell.wav"
+    }
+  ]
+}

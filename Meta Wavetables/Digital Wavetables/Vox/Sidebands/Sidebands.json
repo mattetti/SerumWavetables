@@ -1,0 +1,22 @@
+{
+  "name": "Sidebands",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Sidebands"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1/Op Vocal FM.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Op/Op Vocal Org.wav"
+    },
+    {
+      "frame": 2,
+      "source": "PPG/PPG 4 Vowel.wav"
+    }
+  ]
+}

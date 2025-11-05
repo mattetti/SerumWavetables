@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Bass Station",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station/Novation Bass Station 2 PWM 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Bass Station/Novation Bass Station 2 PWM 0A.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Bass Station/Novation Bass Station 2 Saw 12db.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Bass Station/Novation Bass Station 2 Saw 24db.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Bass Station/Novation Bass Station 2 Tri 12db.wav"
+    }
+  ]
+}

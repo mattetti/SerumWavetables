@@ -1,0 +1,51 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum",
+  "total_frames": 11,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum/Edge Bend 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum/FM Mechanic 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum/FM8 Teeth 02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum/Massive RoughMath 2.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum/Serum Edge 07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum/Serum Harmonics 01.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Serum/Serum Mirror 04.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Serum/Serum Plastic 04.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Serum/Serum Razor 01.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Serum/Serum Razor 11.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Serum/Serum Tube 02.wav"
+    }
+  ]
+}

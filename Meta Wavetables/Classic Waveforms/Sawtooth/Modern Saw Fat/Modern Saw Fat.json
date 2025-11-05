@@ -1,0 +1,14 @@
+{
+  "name": "Modern Saw Fat",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Modern Saw Fat"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lush Modern Sub S/Lush Modern Sub Saw.wav"
+    }
+  ]
+}

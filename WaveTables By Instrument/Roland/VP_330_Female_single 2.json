@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "VP_330_Female_single 2",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP/VP_330_Female_single 2.wav"
+    }
+  ]
+}

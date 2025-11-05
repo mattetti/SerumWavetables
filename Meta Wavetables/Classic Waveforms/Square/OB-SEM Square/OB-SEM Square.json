@@ -1,0 +1,14 @@
+{
+  "name": "OB-SEM Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "OB-SEM Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB-SEM/OB-SEM Square.wav"
+    }
+  ]
+}

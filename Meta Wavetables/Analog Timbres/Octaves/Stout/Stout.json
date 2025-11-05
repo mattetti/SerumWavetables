@@ -1,0 +1,18 @@
+{
+  "name": "Stout",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Stout"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 12 Muscle Saws b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 12 S/Prophet 12 Solid Octave.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Femme Laser",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Femme Laser"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP/JD_800_045_MaleVox_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Pincher",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Pincher"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD/JD_800_019_ClavWave_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf I3/Waldorf I38 44.wav"
+    }
+  ]
+}

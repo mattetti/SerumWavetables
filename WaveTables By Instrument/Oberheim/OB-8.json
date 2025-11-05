@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB-8",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB-8/ARP 2600 Triangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB-8/OB-8 Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB-8/OB-8 Triangle.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sub/OB-8 Saw.wav"
+    }
+  ]
+}

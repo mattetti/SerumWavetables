@@ -1,0 +1,26 @@
+{
+  "name": "Tube Feud",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Tube Feud"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Massive Bender Tube/Massive Bender Tube a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Massive Bender Tube/Massive Bender Tube b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Massive Bender Tube/Massive Bender Tube c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Massive Bender Tube/Massive Bender Tube d.wav"
+    }
+  ]
+}

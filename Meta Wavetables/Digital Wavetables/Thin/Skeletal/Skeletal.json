@@ -1,0 +1,14 @@
+{
+  "name": "Skeletal",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Skeletal"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD-800/JD-800 050 AgogoBells (single).wav"
+    }
+  ]
+}

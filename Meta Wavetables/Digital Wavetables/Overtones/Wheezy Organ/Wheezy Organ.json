@@ -1,0 +1,18 @@
+{
+  "name": "Wheezy Organ",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Wheezy Organ"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Oki/FM_Attack_Bell_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Oki/Oki 2.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LennarDigital",
+  "instrument": "Sylenth Grind",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Sylenth Grind.wav"
+    }
+  ]
+}

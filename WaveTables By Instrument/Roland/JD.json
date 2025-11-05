@@ -1,0 +1,67 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD",
+  "total_frames": 15,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD/FM Mechanic 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD/JD-800 024 Rad Hose.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JD/JD-800 036 FunkBass1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "JD/JD-800 070 HellowBs.wav"
+    },
+    {
+      "frame": 4,
+      "source": "JD/JD-800 071 PianoAtk (single).wav"
+    },
+    {
+      "frame": 5,
+      "source": "JD/JD-800 FATSQuare.wav"
+    },
+    {
+      "frame": 6,
+      "source": "JD/JD_800_013_SoftPad_single.wav"
+    },
+    {
+      "frame": 7,
+      "source": "JD/JD_800_019_ClavWave_single.wav"
+    },
+    {
+      "frame": 8,
+      "source": "JD/JD_800_023_Synbass_single.wav"
+    },
+    {
+      "frame": 9,
+      "source": "JD/JD_800_031_EML5th_single.wav"
+    },
+    {
+      "frame": 10,
+      "source": "JD/JD_800_074_EPDistone_single.wav"
+    },
+    {
+      "frame": 11,
+      "source": "JD/JD_800_Triangle_single.wav"
+    },
+    {
+      "frame": 12,
+      "source": "JD/JP-8000 Synced Tri a.wav"
+    },
+    {
+      "frame": 13,
+      "source": "JD/Sub Phatty Sync Drive c.wav"
+    },
+    {
+      "frame": 14,
+      "source": "JD/Waldorf I38 44.wav"
+    }
+  ]
+}

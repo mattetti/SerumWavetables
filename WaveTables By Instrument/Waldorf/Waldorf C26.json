@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf C26",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf C26/Waldorf C26 20.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf C26/Waldorf C26 35.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf C26/Waldorf C26 40.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf C26/Waldorf C26 45.wav"
+    }
+  ]
+}

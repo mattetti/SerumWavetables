@@ -1,0 +1,74 @@
+{
+  "name": "D-50 PWM 2",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "D-50 PWM 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "D-50/D-50 Normal PWM 01 MULTI.wav"
+    },
+    {
+      "frame": 1,
+      "source": "D-50/D-50 Normal PWM 02 MULTI.wav"
+    },
+    {
+      "frame": 2,
+      "source": "D-50/D-50 Normal PWM 03 MULTI.wav"
+    },
+    {
+      "frame": 3,
+      "source": "D-50/D-50 Normal PWM 04 MULTI.wav"
+    },
+    {
+      "frame": 4,
+      "source": "D-50/D-50 Normal PWM 05 MULTI.wav"
+    },
+    {
+      "frame": 5,
+      "source": "D-50/D-50 Normal PWM 06 MULTI.wav"
+    },
+    {
+      "frame": 6,
+      "source": "D-50/D-50 Normal PWM 07 MULTI.wav"
+    },
+    {
+      "frame": 7,
+      "source": "D-50/D-50 Normal PWM 08 MULTI.wav"
+    },
+    {
+      "frame": 8,
+      "source": "D-50/D-50 Normal PWM 09 MULTI.wav"
+    },
+    {
+      "frame": 9,
+      "source": "D-50/D-50 Normal PWM 10 MULTI.wav"
+    },
+    {
+      "frame": 10,
+      "source": "D-50/D-50 Normal PWM 11 MULTI.wav"
+    },
+    {
+      "frame": 11,
+      "source": "D-50/D-50 Normal PWM 12 MULTI.wav"
+    },
+    {
+      "frame": 12,
+      "source": "D-50/D-50 Normal PWM 13 MULTI.wav"
+    },
+    {
+      "frame": 13,
+      "source": "D-50/D-50 Normal PWM 14 MULTI.wav"
+    },
+    {
+      "frame": 14,
+      "source": "D-50/D-50 Normal PWM 15 MULTI.wav"
+    },
+    {
+      "frame": 15,
+      "source": "D-50/D-50 PWM Normal 00 redux.wav"
+    }
+  ]
+}

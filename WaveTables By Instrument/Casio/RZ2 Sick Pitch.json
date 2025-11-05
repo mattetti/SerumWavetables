@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Casio",
+  "instrument": "RZ2 Sick Pitch",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 1 MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 2 MS.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 3 MS.wav"
+    }
+  ]
+}

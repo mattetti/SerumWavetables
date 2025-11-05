@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf I38 43",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Waldorf I38 43.wav"
+    }
+  ]
+}

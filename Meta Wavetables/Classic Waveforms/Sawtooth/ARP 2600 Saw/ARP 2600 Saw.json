@@ -1,0 +1,14 @@
+{
+  "name": "ARP 2600 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "ARP 2600 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP/ARP 2600 Narrow Pulse.wav"
+    }
+  ]
+}

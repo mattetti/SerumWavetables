@@ -1,0 +1,14 @@
+{
+  "name": "Virus Sine",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Virus Sine"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MS-20/Virus Triangle.wav"
+    }
+  ]
+}

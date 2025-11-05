@@ -1,0 +1,67 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Bass Station 2 PWM",
+  "total_frames": 15,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 08.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 09.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 0A.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 10.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 11.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 12.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 13.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 14.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 15.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 16.wav"
+    }
+  ]
+}

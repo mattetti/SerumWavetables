@@ -1,0 +1,18 @@
+{
+  "name": "TB-303 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "TB-303 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "TB-303 S/TB-303 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "TB-303 S/TB-303 Square.wav"
+    }
+  ]
+}

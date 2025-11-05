@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Beepstreet",
+  "instrument": "Sunrizer_Drive_1_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sunrizer/Sunrizer_Drive_1_single.wav"
+    }
+  ]
+}

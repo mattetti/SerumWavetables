@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive Talk 1",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Massive Talk 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Op/Massive Talk 1.wav"
+    }
+  ]
+}

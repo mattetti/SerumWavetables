@@ -1,0 +1,18 @@
+{
+  "name": "Pro 3 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Pro 3 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P3O1TrSwSq/P3O1TrSwSq06.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P3O1TrSwSq/P3O1TrSwSq15.wav"
+    }
+  ]
+}

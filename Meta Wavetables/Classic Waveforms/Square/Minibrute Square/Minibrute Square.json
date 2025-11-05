@@ -1,0 +1,14 @@
+{
+  "name": "Minibrute Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Minibrute Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub/Minibrute Metal Sub 1b.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "JP-8 Velvet",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "JP-8 Velvet"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP_8_TriSine/JP_8_TriSine_Oct_Sync.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP_8_TriSine/JP_8_TriSine_Sync.wav"
+    }
+  ]
+}

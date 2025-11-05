@@ -1,0 +1,18 @@
+{
+  "name": "JP-8000 2X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "JP-8000 2X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000/JP-8000 Supersaw a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000/JP-8000 Triangle a.wav"
+    }
+  ]
+}

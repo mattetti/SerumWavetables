@@ -1,0 +1,34 @@
+{
+  "name": "Maul",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Maul"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum Fold/Serum Fold 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum Fold/Serum Fold 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum Fold/Serum Fold 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum Fold/Serum Fold 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum Fold/Serum Fold 05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum Fold/Serum Fold 06.wav"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "manufacturer": "Novation",
+  "total_frames": 76,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Novation Circuit MonoStation TriDirty.wav"
+    },
+    {
+      "frame": 1,
+      "source": "No/Novation Peak SinShp25.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation/ARP 2600 Triangle.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation/Novation Bass Station 2 Sin 12db.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Bass Station/Novation Bass Station 2 PWM 00.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Novation Bass Station/Novation Bass Station 2 PWM 0A.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Novation Bass Station/Novation Bass Station 2 Saw 12db.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Novation Bass Station/Novation Bass Station 2 Saw 24db.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Novation Bass Station/Novation Bass Station 2 Tri 12db.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 01.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 03.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 05.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 06.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 07.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 08.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 09.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 0A.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 10.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 11.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 12.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 13.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 14.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 15.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Novation Bass Station 2 PWM/Novation Bass Station 2 PWM 16.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SawCls12ODRez.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SawCls24Dist.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SubSqrCls12Dst.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SubSqrCls12RezDst.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Pls.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Sin.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Novation Bass Station 2 SubOsc/Novation Bass Station 2 SubOsc Sqr.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation PWM 01.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation PWM 0A.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SawDirty.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SinDirty.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SqrDirty.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SubOsc.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation Tri.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation TriDirty.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 04.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 08.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 0A.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 12.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 16.wav"
+    },
+    {
+      "frame": 44,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SIn.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation Saw.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SinDirty.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SqrDirty.wav"
+    },
+    {
+      "frame": 48,
+      "source": "Novation Circuit MonoStation Tri/Novation Circuit MonoStation Tri.wav"
+    },
+    {
+      "frame": 49,
+      "source": "Novation Circuit MonoStation Tri/Novation Circuit MonoStation TriDirty.wav"
+    },
+    {
+      "frame": 50,
+      "source": "Novation Peak/Novation Peak BssOrgn.wav"
+    },
+    {
+      "frame": 51,
+      "source": "Novation Peak/Novation Peak OrganOD.wav"
+    },
+    {
+      "frame": 52,
+      "source": "Novation Peak/Novation Peak PWM01.wav"
+    },
+    {
+      "frame": 53,
+      "source": "Novation Peak/Novation Peak SawOD.wav"
+    },
+    {
+      "frame": 54,
+      "source": "Novation Peak/Novation Peak SqrOD.wav"
+    },
+    {
+      "frame": 55,
+      "source": "Novation Peak/Novation Peak Tri.wav"
+    },
+    {
+      "frame": 56,
+      "source": "Novation Peak/Novation Peak TubeOD.wav"
+    },
+    {
+      "frame": 57,
+      "source": "Novation Peak PWM/Novation Peak PWM01.wav"
+    },
+    {
+      "frame": 58,
+      "source": "Novation Peak PWM/Novation Peak PWM03.wav"
+    },
+    {
+      "frame": 59,
+      "source": "Novation Peak PWM/Novation Peak PWM06.wav"
+    },
+    {
+      "frame": 60,
+      "source": "Novation Peak PWM/Novation Peak PWM09.wav"
+    },
+    {
+      "frame": 61,
+      "source": "Novation Peak PWM/Novation Peak PWM12.wav"
+    },
+    {
+      "frame": 62,
+      "source": "Novation Peak PWM/Novation Peak PWM13.wav"
+    },
+    {
+      "frame": 63,
+      "source": "Novation Peak PWM/Novation Peak PWM14.wav"
+    },
+    {
+      "frame": 64,
+      "source": "Novation Peak PWM/Novation Peak PWM15.wav"
+    },
+    {
+      "frame": 65,
+      "source": "Novation Peak PWM/Novation Peak PWM16.wav"
+    },
+    {
+      "frame": 66,
+      "source": "Novation Peak Saw/Novation Peak Saw.wav"
+    },
+    {
+      "frame": 67,
+      "source": "Novation Peak Saw/Novation Peak SawShp25.wav"
+    },
+    {
+      "frame": 68,
+      "source": "Novation Peak Saw/Novation Peak SawShp45.wav"
+    },
+    {
+      "frame": 69,
+      "source": "Novation Peak Saw/Novation Peak SawShp63.wav"
+    },
+    {
+      "frame": 70,
+      "source": "Novation Peak Sin/Novation Peak Sin.wav"
+    },
+    {
+      "frame": 71,
+      "source": "Novation Peak Sin/Novation Peak SinShp25.wav"
+    },
+    {
+      "frame": 72,
+      "source": "Novation Peak Sin/Novation Peak SinShp45.wav"
+    },
+    {
+      "frame": 73,
+      "source": "Novation Peak Sin/Novation Peak SinShp63.wav"
+    },
+    {
+      "frame": 74,
+      "source": "Novation Peak Tri/Novation Peak Tri.wav"
+    },
+    {
+      "frame": 75,
+      "source": "Novation Peak Tri/Novation Peak TriShp63.wav"
+    }
+  ]
+}

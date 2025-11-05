@@ -1,0 +1,22 @@
+{
+  "name": "Hided",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Hided"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Waldorf I35 37.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf/Waldorf I38 42.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/Waldorf R14 35.wav"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB",
+  "total_frames": 8,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB/OB-8 Triangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB/OB-SEM Big Tom.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB/OB-SEM Pulse 75.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB/OB-X Saw.wav"
+    },
+    {
+      "frame": 4,
+      "source": "OB/OB6 Tri.wav"
+    },
+    {
+      "frame": 5,
+      "source": "OB/OB_SEM_Rapper_single.wav"
+    },
+    {
+      "frame": 6,
+      "source": "OB/SE-1 Saw Sub.wav"
+    },
+    {
+      "frame": 7,
+      "source": "OB/SE-1 Square Sub.wav"
+    }
+  ]
+}

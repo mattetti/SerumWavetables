@@ -1,0 +1,11 @@
+{
+  "manufacturer": "reFX",
+  "instrument": "Vanguard Sine Saw Drive Single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Vanguard Sine Saw Drive Single.wav"
+    }
+  ]
+}

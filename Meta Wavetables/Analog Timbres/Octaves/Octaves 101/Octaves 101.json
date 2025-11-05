@@ -1,0 +1,14 @@
+{
+  "name": "Octaves 101",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Octaves 101"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SH-101/SH-101 Mean PW.wav"
+    }
+  ]
+}

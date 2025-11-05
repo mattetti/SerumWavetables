@@ -1,0 +1,18 @@
+{
+  "name": "Raspy Reeds",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Raspy Reeds"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Oki Plastic/Oki Plastic a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Oki Plastic/Oki Plastic b.wav"
+    }
+  ]
+}

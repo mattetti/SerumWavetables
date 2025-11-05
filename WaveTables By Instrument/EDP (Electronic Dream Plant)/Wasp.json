@@ -1,0 +1,15 @@
+{
+  "manufacturer": "EDP (Electronic Dream Plant)",
+  "instrument": "Wasp",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wasp/EDP Wasp Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Wasp/Wasp Square.wav"
+    }
+  ]
+}

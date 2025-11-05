@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LennarDigital",
+  "instrument": "Sylenth Muscle TriSaw",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sy/Sylenth Muscle TriSaw.wav"
+    }
+  ]
+}

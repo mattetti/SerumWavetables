@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "D-50 Saw Bright",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "D-50 Saw Bright/D-50 Saw Bright 00 fixed.wav"
+    },
+    {
+      "frame": 1,
+      "source": "D-50 Saw Bright/D-50 Saw Bright 06.wav"
+    },
+    {
+      "frame": 2,
+      "source": "D-50 Saw Bright/D-50 Saw Bright 09.wav"
+    },
+    {
+      "frame": 3,
+      "source": "D-50 Saw Bright/D-50 Saw Bright 12.wav"
+    },
+    {
+      "frame": 4,
+      "source": "D-50 Saw Bright/D-50 Saw Bright 15.wav"
+    }
+  ]
+}

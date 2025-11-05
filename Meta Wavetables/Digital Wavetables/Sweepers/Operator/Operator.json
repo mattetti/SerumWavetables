@@ -1,0 +1,54 @@
+{
+  "name": "Operator",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Operator"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue SineD/Prologue SineD01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue SineD/Prologue SineD02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue SineD/Prologue SineD03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue SineD/Prologue SineD04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue SineD/Prologue SineD05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue SineD/Prologue SineD06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue SineD/Prologue SineD07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue SineD/Prologue SineD08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue SineD/Prologue SineD09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prologue SineD/Prologue SineD10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Prologue SineD/Prologue SineD11.wav"
+    }
+  ]
+}

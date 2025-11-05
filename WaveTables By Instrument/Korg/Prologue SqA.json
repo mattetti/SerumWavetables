@@ -1,0 +1,63 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue SqA",
+  "total_frames": 14,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue SqA/Prologue SqA03.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue SqA/Prologue SqA04.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue SqA/Prologue SqA05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue SqA/Prologue SqA06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue SqA/Prologue SqA07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue SqA/Prologue SqA08.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue SqA/Prologue SqA09.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue SqA/Prologue SqA10.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue SqA/Prologue SqA11.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prologue SqA/Prologue SqA12.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Prologue SqA/Prologue SqA13.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Prologue SqA/Prologue SqA14.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Prologue SqA/Prologue SqA15.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Prologue SqA/Prologue SqA16.wav"
+    }
+  ]
+}

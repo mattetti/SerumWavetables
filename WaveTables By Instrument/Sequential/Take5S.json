@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Take5S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Take5S/Take5SnSwSq00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Take5S/Take5SubOsc.wav"
+    }
+  ]
+}

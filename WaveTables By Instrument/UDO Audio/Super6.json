@@ -1,0 +1,23 @@
+{
+  "manufacturer": "UDO Audio",
+  "instrument": "Super6",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Super6/Super6 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Super6/Super6 Sin.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Super6/Super6 Sqr.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Super6/Super6 Tri.wav"
+    }
+  ]
+}

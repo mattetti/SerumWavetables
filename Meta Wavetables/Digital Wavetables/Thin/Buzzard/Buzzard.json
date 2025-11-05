@@ -1,0 +1,14 @@
+{
+  "name": "Buzzard",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Buzzard"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1/RZ1 Formant 3.wav"
+    }
+  ]
+}

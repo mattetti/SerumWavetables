@@ -1,0 +1,22 @@
+{
+  "name": "Grind",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Grind"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Animoog DigiNoiseRS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP/Animoog Vocoder Sweep.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP/Sylenth Grind.wav"
+    }
+  ]
+}

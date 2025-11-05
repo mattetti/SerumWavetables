@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Sharp Mirror",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sharp Mirror/Sharp Mirror 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sharp Mirror/Sharp Mirror 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sharp Mirror/Sharp Mirror 06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sharp Mirror/Sharp Mirror 08.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sharp Mirror/Sharp Mirror 11.wav"
+    }
+  ]
+}

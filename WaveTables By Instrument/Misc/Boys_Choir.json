@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Boys_Choir",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Boys_Choir/Boys_Choir_Ahs_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Boys_Choir/Boys_Choir_Ees_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Boys_Choir/Boys_Choir_Mms_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Boys_Choir/Boys_Choir_Oos_single.wav"
+    }
+  ]
+}

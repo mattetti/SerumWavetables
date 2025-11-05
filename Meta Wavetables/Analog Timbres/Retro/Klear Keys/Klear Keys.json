@@ -1,0 +1,22 @@
+{
+  "name": "Klear Keys",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Klear Keys"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD-800/JD-800 073 ClearKeys.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD-800/Op Organ 1 Pure.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JD-800/Op Organ 5.wav"
+    }
+  ]
+}

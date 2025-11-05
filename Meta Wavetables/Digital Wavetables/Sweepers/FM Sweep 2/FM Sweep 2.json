@@ -1,0 +1,54 @@
+{
+  "name": "FM Sweep 2",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "FM Sweep 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM8_Simple/FM8_Simple_01_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM8_Simple/FM8_Simple_02_Gain_Fix.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM8_Simple/FM8_Simple_03_Gain_Fix.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM8_Simple/FM8_Simple_04_Gain_Fix.wav"
+    },
+    {
+      "frame": 4,
+      "source": "FM8_Simple/FM8_Simple_05_Gain_Fix.wav"
+    },
+    {
+      "frame": 5,
+      "source": "FM8_Simple/FM8_Simple_06_Gain_Fix.wav"
+    },
+    {
+      "frame": 6,
+      "source": "FM8_Simple/FM8_Simple_07_Gain_Fix.wav"
+    },
+    {
+      "frame": 7,
+      "source": "FM8_Simple/FM8_Simple_08_Gain_Fix.wav"
+    },
+    {
+      "frame": 8,
+      "source": "FM8_Simple/FM8_Simple_09_Gain_Fix.wav"
+    },
+    {
+      "frame": 9,
+      "source": "FM8_Simple/FM8_Simple_10_Gain_Fix.wav"
+    },
+    {
+      "frame": 10,
+      "source": "FM8_Simple/FM8_Simple_11_Gain_Fix.wav"
+    }
+  ]
+}

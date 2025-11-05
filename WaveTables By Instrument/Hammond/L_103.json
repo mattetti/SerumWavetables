@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Hammond",
+  "instrument": "L_103",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "L_103/L_103_8888_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "L_103/L_103_Clarinet_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "L_103/L_103_Full_Organ_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "L_103/L_103_Trumpet_single.wav"
+    }
+  ]
+}

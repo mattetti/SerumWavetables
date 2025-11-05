@@ -1,0 +1,14 @@
+{
+  "name": "Happy Analog",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Happy Analog"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub/Sub Phatty Sync Morph b.wav"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VP Voxbox",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "VP Voxbox"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP_330/VP_330_Female_single 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "VP_330/VP_330_Octavox_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "VP_330/VP_330_Vox_single 2.wav"
+    }
+  ]
+}

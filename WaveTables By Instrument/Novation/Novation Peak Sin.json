@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Peak Sin",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak Sin/Novation Peak Sin.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak Sin/Novation Peak SinShp25.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Peak Sin/Novation Peak SinShp45.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Peak Sin/Novation Peak SinShp63.wav"
+    }
+  ]
+}

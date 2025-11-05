@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet 12 Power",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JX/Prophet 12 Power Sync a.wav"
+    }
+  ]
+}

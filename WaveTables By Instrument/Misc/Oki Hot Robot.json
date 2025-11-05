@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Oki Hot Robot",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Oki Hot Robot/Oki Hot Robot a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Oki Hot Robot/Oki Hot Robot b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Oki Hot Robot/Oki Hot Robot c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Oki Hot Robot/Oki Hot Robot d.wav"
+    }
+  ]
+}

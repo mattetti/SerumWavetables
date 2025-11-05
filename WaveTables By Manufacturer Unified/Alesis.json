@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Alesis",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Andromeda/Andromeda Sine.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Andromeda/Andromeda Triangle.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Andromeda/Sub Phatty Overdriven Tri a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Andromeda/Sub Phatty TriOverdriven Morph.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Andromeda S/Andromeda Saw+.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Andromeda S/Andromeda Square.wav"
+    }
+  ]
+}

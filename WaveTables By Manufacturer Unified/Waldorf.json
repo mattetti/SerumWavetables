@@ -1,0 +1,430 @@
+{
+  "manufacturer": "Waldorf",
+  "total_frames": 106,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Waldorf I38 43.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf/Animoog ArpModCplx.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/JD_800_015_MIDIClav_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf/JP-8000 X-Mod Bite c single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Waldorf/Lazerbass 4.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Waldorf/Lazerbass 5.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Waldorf/Lazerbass Pulse 3 Multi 2 15.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Waldorf/Minibrute Tri Sine Mtl100.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Waldorf/Minimoog Sync Bass 2.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Waldorf/Prophet 12 Digitalism a.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Waldorf/Waldorf C26 30.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Waldorf/Waldorf C26 50.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Waldorf/Waldorf C26 55.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Waldorf/Waldorf C26 60.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Waldorf/Waldorf I35 00.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Waldorf/Waldorf I35 05.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Waldorf/Waldorf I35 25.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Waldorf/Waldorf I35 37.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Waldorf/Waldorf I38 42.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Waldorf/Waldorf I38 43.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Waldorf/Waldorf I38 45.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Waldorf/Waldorf Pulse Bright Saw.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Waldorf/Waldorf R14 25.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Waldorf/Waldorf R14 30.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Waldorf/Waldorf R14 35.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Waldorf/Waldorf R27 20.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Waldorf/Waldorf R27 40.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Waldorf/Waldorf R27 45.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Waldorf/Waldorf R27 50.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Waldorf/Waldorf R27 55.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Waldorf C23/Waldorf C23 00.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Waldorf C23/Waldorf C23 20.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Waldorf C23/Waldorf C23 25.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Waldorf C23/Waldorf C23 35.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Waldorf C23/Waldorf C23 55.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Waldorf C26/Waldorf C26 20.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Waldorf C26/Waldorf C26 35.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Waldorf C26/Waldorf C26 40.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Waldorf C26/Waldorf C26 45.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Waldorf I3/Waldorf I35 45.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Waldorf I3/Waldorf I38 44.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Saw.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Square.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Waldorf Pulse B/Waldorf Pulse Bright Saw.wav"
+    },
+    {
+      "frame": 44,
+      "source": "Waldorf R01/Waldorf R01 00.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Waldorf R01/Waldorf R01 05.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Waldorf R01/Waldorf R01 10.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Waldorf R01/Waldorf R01 15.wav"
+    },
+    {
+      "frame": 48,
+      "source": "Waldorf R01/Waldorf R01 20.wav"
+    },
+    {
+      "frame": 49,
+      "source": "Waldorf R01/Waldorf R01 25.wav"
+    },
+    {
+      "frame": 50,
+      "source": "Waldorf R01/Waldorf R01 30.wav"
+    },
+    {
+      "frame": 51,
+      "source": "Waldorf R01/Waldorf R01 35.wav"
+    },
+    {
+      "frame": 52,
+      "source": "Waldorf R01/Waldorf R01 40.wav"
+    },
+    {
+      "frame": 53,
+      "source": "Waldorf R01/Waldorf R01 45.wav"
+    },
+    {
+      "frame": 54,
+      "source": "Waldorf R01/Waldorf R01 50.wav"
+    },
+    {
+      "frame": 55,
+      "source": "Waldorf R01/Waldorf R01 55.wav"
+    },
+    {
+      "frame": 56,
+      "source": "Waldorf R01/Waldorf R01 60.wav"
+    },
+    {
+      "frame": 57,
+      "source": "Waldorf R06/Waldorf R06 00.wav"
+    },
+    {
+      "frame": 58,
+      "source": "Waldorf R06/Waldorf R06 05.wav"
+    },
+    {
+      "frame": 59,
+      "source": "Waldorf R06/Waldorf R06 10.wav"
+    },
+    {
+      "frame": 60,
+      "source": "Waldorf R06/Waldorf R06 15.wav"
+    },
+    {
+      "frame": 61,
+      "source": "Waldorf R06/Waldorf R06 20.wav"
+    },
+    {
+      "frame": 62,
+      "source": "Waldorf R06/Waldorf R06 25.wav"
+    },
+    {
+      "frame": 63,
+      "source": "Waldorf R06/Waldorf R06 30.wav"
+    },
+    {
+      "frame": 64,
+      "source": "Waldorf R06/Waldorf R06 35.wav"
+    },
+    {
+      "frame": 65,
+      "source": "Waldorf R06/Waldorf R06 40.wav"
+    },
+    {
+      "frame": 66,
+      "source": "Waldorf R06/Waldorf R06 45.wav"
+    },
+    {
+      "frame": 67,
+      "source": "Waldorf R06/Waldorf R06 50.wav"
+    },
+    {
+      "frame": 68,
+      "source": "Waldorf R06/Waldorf R06 55.wav"
+    },
+    {
+      "frame": 69,
+      "source": "Waldorf R06/Waldorf R06 60.wav"
+    },
+    {
+      "frame": 70,
+      "source": "Waldorf R16/Waldorf R16 00.wav"
+    },
+    {
+      "frame": 71,
+      "source": "Waldorf R16/Waldorf R16 05.wav"
+    },
+    {
+      "frame": 72,
+      "source": "Waldorf R16/Waldorf R16 10.wav"
+    },
+    {
+      "frame": 73,
+      "source": "Waldorf R16/Waldorf R16 15.wav"
+    },
+    {
+      "frame": 74,
+      "source": "Waldorf R16/Waldorf R16 20.wav"
+    },
+    {
+      "frame": 75,
+      "source": "Waldorf R16/Waldorf R16 25.wav"
+    },
+    {
+      "frame": 76,
+      "source": "Waldorf R16/Waldorf R16 30.wav"
+    },
+    {
+      "frame": 77,
+      "source": "Waldorf R16/Waldorf R16 35.wav"
+    },
+    {
+      "frame": 78,
+      "source": "Waldorf R16/Waldorf R16 40.wav"
+    },
+    {
+      "frame": 79,
+      "source": "Waldorf R16/Waldorf R16 45.wav"
+    },
+    {
+      "frame": 80,
+      "source": "Waldorf R16/Waldorf R16 50.wav"
+    },
+    {
+      "frame": 81,
+      "source": "Waldorf R16/Waldorf R16 55.wav"
+    },
+    {
+      "frame": 82,
+      "source": "Waldorf R16/Waldorf R16 60.wav"
+    },
+    {
+      "frame": 83,
+      "source": "Waldorf R27/Waldorf R27 10.wav"
+    },
+    {
+      "frame": 84,
+      "source": "Waldorf R27/Waldorf R27 15.wav"
+    },
+    {
+      "frame": 85,
+      "source": "Waldorf R27/Waldorf R27 20.wav"
+    },
+    {
+      "frame": 86,
+      "source": "Waldorf R27/Waldorf R27 25.wav"
+    },
+    {
+      "frame": 87,
+      "source": "Waldorf R27/Waldorf R27 30.wav"
+    },
+    {
+      "frame": 88,
+      "source": "Waldorf R27/Waldorf R27 35.wav"
+    },
+    {
+      "frame": 89,
+      "source": "Waldorf R27/Waldorf R27 40.wav"
+    },
+    {
+      "frame": 90,
+      "source": "Waldorf R27/Waldorf R27 45.wav"
+    },
+    {
+      "frame": 91,
+      "source": "Waldorf R27/Waldorf R27 50.wav"
+    },
+    {
+      "frame": 92,
+      "source": "Waldorf R27/Waldorf R27 55.wav"
+    },
+    {
+      "frame": 93,
+      "source": "Waldorf R27/Waldorf R27 60.wav"
+    },
+    {
+      "frame": 94,
+      "source": "Waldorf R30/Waldorf R30 00.wav"
+    },
+    {
+      "frame": 95,
+      "source": "Waldorf R30/Waldorf R30 05.wav"
+    },
+    {
+      "frame": 96,
+      "source": "Waldorf R30/Waldorf R30 10.wav"
+    },
+    {
+      "frame": 97,
+      "source": "Waldorf R30/Waldorf R30 15.wav"
+    },
+    {
+      "frame": 98,
+      "source": "Waldorf R30/Waldorf R30 20.wav"
+    },
+    {
+      "frame": 99,
+      "source": "Waldorf R30/Waldorf R30 25.wav"
+    },
+    {
+      "frame": 100,
+      "source": "Waldorf R30/Waldorf R30 30.wav"
+    },
+    {
+      "frame": 101,
+      "source": "Waldorf R30/Waldorf R30 35.wav"
+    },
+    {
+      "frame": 102,
+      "source": "Waldorf R30/Waldorf R30 40.wav"
+    },
+    {
+      "frame": 103,
+      "source": "Waldorf R30/Waldorf R30 45.wav"
+    },
+    {
+      "frame": 104,
+      "source": "Waldorf R30/Waldorf R30 50.wav"
+    },
+    {
+      "frame": 105,
+      "source": "Waldorf R30/Waldorf R30 55.wav"
+    }
+  ]
+}

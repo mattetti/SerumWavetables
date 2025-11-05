@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Mini SyncSub 10",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini SyncSub/Mini SyncSub 10.wav"
+    }
+  ]
+}

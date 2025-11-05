@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute Metal Sub 2b",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Minibrute Metal Sub 2b.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Mediocre Organ",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Mediocre Organ"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD-800/JD-800 040 FullOrgan.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD-800/JD-800 041 FullDraw single 2.wav"
+    }
+  ]
+}

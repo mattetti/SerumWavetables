@@ -1,0 +1,90 @@
+{
+  "manufacturer": "LennarDigital",
+  "total_frames": 21,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Generated/Sylenth Overdriven Oct Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP/Sylenth Grind.wav"
+    },
+    {
+      "frame": 2,
+      "source": "S/Sylenth Overdriven Oct Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "S/Sylenth_Muscle_Trisaw_2d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sy/Sylenth Muscle TriSaw.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Sy/Sylenth_Muscle_TriPulse_2.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Sylenth/Massive Dirty Tube c.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Sylenth/Sylenth Filtered Saw 1.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Sylenth/Sylenth Nasal 4Osc.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Sylenth/Sylenth Overdriven Oct Square.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Sylenth/Sylenth Saw.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Sylenth/Sylenth Solid Teeth.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Sylenth/Sylenth Square.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Sylenth/Sylenth TriSaw Oct.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Sylenth/Sylenth TriSaw.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Sylenth/Sylenth_Filtered_Saw_3b.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Sylenth/Virus Triangle.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Sylenth Tri/Sylenth TriPulse.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Sylenth Tri/Sylenth TriSaw Oct.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Sylenth Tri/Sylenth TriSaw.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Sylenth Tri/Sylenth Triangle.wav"
+    }
+  ]
+}

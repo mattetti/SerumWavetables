@@ -1,0 +1,22 @@
+{
+  "name": "Casiorama 1",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Casiorama 1"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Casio MT-40 Tone/Casio MT-40 Tone 4.wav"
+    }
+  ]
+}

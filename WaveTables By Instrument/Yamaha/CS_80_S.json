@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Yamaha",
+  "instrument": "CS_80_S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS_80_S/CS_80_SawSine_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS_80_S/CS_80_Sine_Thin_Pulse_Gain_Fix.wav"
+    }
+  ]
+}

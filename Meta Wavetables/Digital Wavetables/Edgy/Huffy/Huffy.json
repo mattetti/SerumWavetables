@@ -1,0 +1,26 @@
+{
+  "name": "Huffy",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Huffy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum/Edge Bend 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum/Serum Edge 07.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum/Serum Mirror 04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum/Serum Razor 01.wav"
+    }
+  ]
+}

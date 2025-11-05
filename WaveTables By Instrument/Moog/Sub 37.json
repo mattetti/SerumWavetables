@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub 37",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "S/Sub 37 Triangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub/Sub 37 Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sub/Sub 37 Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sub/Sub 37 Square.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sub/Sub 37 Triangle.wav"
+    }
+  ]
+}

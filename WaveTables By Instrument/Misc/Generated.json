@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Generated",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Generated/Generated Sawtooth.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Generated/Generated Sine Wave.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Generated/Generated_Square_single.wav"
+    }
+  ]
+}

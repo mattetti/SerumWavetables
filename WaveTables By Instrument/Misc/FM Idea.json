@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "FM Idea",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM Idea/FM Idea 1 a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM Idea/FM Idea 1 b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM Idea/FM Idea 1 c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM Idea/FM Idea 1 d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "FM Idea/FM Idea 1 e.wav"
+    }
+  ]
+}

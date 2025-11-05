@@ -1,0 +1,43 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue Tri0",
+  "total_frames": 9,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue Tri0/Prologue Tri01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue Tri0/Prologue Tri02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue Tri0/Prologue Tri03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue Tri0/Prologue Tri04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue Tri0/Prologue Tri05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue Tri0/Prologue Tri06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue Tri0/Prologue Tri07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue Tri0/Prologue Tri08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue Tri0/Prologue Tri09.wav"
+    }
+  ]
+}

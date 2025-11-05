@@ -1,0 +1,22 @@
+{
+  "name": "Casiorama 3",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Casiorama 3"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Casio/Casio MT-40 Bass.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Casio/Casio MT-40 Recorder.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Casio/Casio_MT_40_Tone_1_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "VS Square Fifths",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "VS Square Fifths"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet VS 121 SQ 5th.wav"
+    }
+  ]
+}

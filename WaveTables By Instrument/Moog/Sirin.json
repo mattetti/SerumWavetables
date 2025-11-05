@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sirin",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sirin/Minitaur Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sirin/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sirin/Sirin Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sirin/Sirin Square.wav"
+    }
+  ]
+}

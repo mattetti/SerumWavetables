@@ -1,0 +1,14 @@
+{
+  "name": "Little Brat",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Little Brat"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Octaves/Octaves Sq b.wav"
+    }
+  ]
+}

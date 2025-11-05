@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Casio",
+  "instrument": "RZ2 Primes Spectrum",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 1 MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 2 MS.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 3 MS.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ2 Primes Spectrum/RZ2 Primes Spectrum 4 MS.wav"
+    }
+  ]
+}

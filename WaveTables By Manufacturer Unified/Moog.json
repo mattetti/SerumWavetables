@@ -1,0 +1,522 @@
+{
+  "manufacturer": "Moog",
+  "total_frames": 129,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Animoog/Animoog ArpModCplx.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Animoog/Animoog BrightRude.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Animoog/Animoog PrimeSweep.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Animoog/JP-8000 X-Mod Bite b single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "CS/Mini_TriSaw_Oct_Sweep_4.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Digital/Animoog ArpModCplx.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Digital/Animoog PrimeSweep.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Generated/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 8,
+      "source": "JP/Animoog DigiNoiseRS.wav"
+    },
+    {
+      "frame": 9,
+      "source": "JP/Animoog Vocoder Sweep.wav"
+    },
+    {
+      "frame": 10,
+      "source": "JX/Mini SyncSub 05.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Little/Little Phatty Momma Square.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Little/Little Phatty Nasal Pulse.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Little/Little Phatty Rude French.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Little/Minimoog SawTriangle.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Little/Minimoog Super Sync 17.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Little/Minimoog Sync Bass 1.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Little/Sub Phatty Triangle Teeth b.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Little Phatty/Little Phatty Blatt Pulse.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Little Phatty/Little Phatty Sync Pulse.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Little Phatty/Little Phatty Thinny.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Lush/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 22,
+      "source": "M/Minimoog Triangle.wav"
+    },
+    {
+      "frame": 23,
+      "source": "M/Minitaur Square.wav"
+    },
+    {
+      "frame": 24,
+      "source": "M/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Mini/Mini Sync 02.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Mini/Mini Sync 03.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Mini/Mini Sync 05.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Mini/Mini Sync 06.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Mini/Mini Sync 07.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Mini/Mini Sync 08.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Mini/Mini Sync 09.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Mini/Mini Sync 10.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Mini/Mini Sync 11.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Mini/Mini_Filt_Saw.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Mini/Mini_Filt_Square.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Mini/Mini_Sync_04.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Mini/Mini_TriSaw_Filt.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Mini/Mini_TriSaw_Sync_Filt.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Mini/Mini_Tri_Sync_Filt.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Mini/Mini_Wide_Pulses_Filt.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Mini SyncSub/Mini SyncSub 02.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Mini SyncSub/Mini SyncSub 03.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Mini SyncSub/Mini SyncSub 04.wav"
+    },
+    {
+      "frame": 44,
+      "source": "Mini SyncSub/Mini SyncSub 06.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Mini SyncSub/Mini SyncSub 07.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Mini SyncSub/Mini SyncSub 09.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Mini SyncSub/Mini SyncSub 10.wav"
+    },
+    {
+      "frame": 48,
+      "source": "Mini_3Osc_Filt/Mini_3Osc_Filt_1.wav"
+    },
+    {
+      "frame": 49,
+      "source": "Mini_3Osc_Filt/Mini_3Osc_Filt_2.wav"
+    },
+    {
+      "frame": 50,
+      "source": "Mini_Tri/Mini_TriSaw_Filt.wav"
+    },
+    {
+      "frame": 51,
+      "source": "Mini_Tri/Mini_Tri_Sync_Filt.wav"
+    },
+    {
+      "frame": 52,
+      "source": "Minimoog/Minimoog Funky Square.wav"
+    },
+    {
+      "frame": 53,
+      "source": "Minimoog/Minimoog Pulse Narrow.wav"
+    },
+    {
+      "frame": 54,
+      "source": "Minimoog/Minimoog Pulse Wide.wav"
+    },
+    {
+      "frame": 55,
+      "source": "Minimoog/Minimoog Saw.wav"
+    },
+    {
+      "frame": 56,
+      "source": "Minimoog/Minimoog Square.wav"
+    },
+    {
+      "frame": 57,
+      "source": "Minimoog/Minimoog Triangle.wav"
+    },
+    {
+      "frame": 58,
+      "source": "Minimoog/Sub Phatty Sync Morph d.wav"
+    },
+    {
+      "frame": 59,
+      "source": "Minimoog S/Minimoog SawTriangle.wav"
+    },
+    {
+      "frame": 60,
+      "source": "Minimoog S/Minimoog Square.wav"
+    },
+    {
+      "frame": 61,
+      "source": "Minimoog Saw/Minimoog Saw.wav"
+    },
+    {
+      "frame": 62,
+      "source": "Minimoog Saw/Minimoog SawTriangle.wav"
+    },
+    {
+      "frame": 63,
+      "source": "Minitaur S/Minitaur Saw.wav"
+    },
+    {
+      "frame": 64,
+      "source": "Minitaur S/Minitaur Square.wav"
+    },
+    {
+      "frame": 65,
+      "source": "Moog/Moog 55 Pulse.wav"
+    },
+    {
+      "frame": 66,
+      "source": "Moog/Moog Modular Saw.wav"
+    },
+    {
+      "frame": 67,
+      "source": "Moog/Moog Modular Square.wav"
+    },
+    {
+      "frame": 68,
+      "source": "Moog/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 69,
+      "source": "Moog Modular/Moog Modular Sine.wav"
+    },
+    {
+      "frame": 70,
+      "source": "Moog Modular/Moog Modular Square.wav"
+    },
+    {
+      "frame": 71,
+      "source": "Moog Modular/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 72,
+      "source": "Moog Modular S/Moog Modular Saw.wav"
+    },
+    {
+      "frame": 73,
+      "source": "Moog Modular S/Moog Modular Square.wav"
+    },
+    {
+      "frame": 74,
+      "source": "Octaves/Sub Phatty Octave Squares a.wav"
+    },
+    {
+      "frame": 75,
+      "source": "S/Sub 37 Triangle.wav"
+    },
+    {
+      "frame": 76,
+      "source": "S/Sub Phatty Triangle Sync a.wav"
+    },
+    {
+      "frame": 77,
+      "source": "Sirin/Minitaur Square.wav"
+    },
+    {
+      "frame": 78,
+      "source": "Sirin/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 79,
+      "source": "Sirin/Sirin Saw.wav"
+    },
+    {
+      "frame": 80,
+      "source": "Sirin/Sirin Square.wav"
+    },
+    {
+      "frame": 81,
+      "source": "Slim/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 82,
+      "source": "Slim/Slim Phatty Tri.wav"
+    },
+    {
+      "frame": 83,
+      "source": "Slim Phatty/Slim Phatty Pulse.wav"
+    },
+    {
+      "frame": 84,
+      "source": "Slim Phatty/Slim Phatty Saw.wav"
+    },
+    {
+      "frame": 85,
+      "source": "Slim Phatty/Slim Phatty Square.wav"
+    },
+    {
+      "frame": 86,
+      "source": "Slim Phatty/Slim Phatty Tri.wav"
+    },
+    {
+      "frame": 87,
+      "source": "Slim Phatty S/Slim Phatty Saw.wav"
+    },
+    {
+      "frame": 88,
+      "source": "Slim Phatty S/Slim Phatty Square.wav"
+    },
+    {
+      "frame": 89,
+      "source": "Sub/Sub 37 Pulse.wav"
+    },
+    {
+      "frame": 90,
+      "source": "Sub/Sub 37 Saw.wav"
+    },
+    {
+      "frame": 91,
+      "source": "Sub/Sub 37 Square.wav"
+    },
+    {
+      "frame": 92,
+      "source": "Sub/Sub 37 Triangle.wav"
+    },
+    {
+      "frame": 93,
+      "source": "Sub/Sub Phatty Octave Saws.wav"
+    },
+    {
+      "frame": 94,
+      "source": "Sub/Sub Phatty Sync Morph b.wav"
+    },
+    {
+      "frame": 95,
+      "source": "Sub/Sub Phatty Thin Sync a.wav"
+    },
+    {
+      "frame": 96,
+      "source": "Sub/Sub Phatty Triangle Sync b.wav"
+    },
+    {
+      "frame": 97,
+      "source": "Sub/Sub Phatty TriangleDrive.wav"
+    },
+    {
+      "frame": 98,
+      "source": "Sub/Sub_Phatty_Thin_Sync_b_single.wav"
+    },
+    {
+      "frame": 99,
+      "source": "Sub 37 S/Sub 37 Saw.wav"
+    },
+    {
+      "frame": 100,
+      "source": "Sub 37 S/Sub 37 Square.wav"
+    },
+    {
+      "frame": 101,
+      "source": "Sub Phatty/Sub Phatty PWM e.wav"
+    },
+    {
+      "frame": 102,
+      "source": "Sub Phatty/Sub Phatty Saw.wav"
+    },
+    {
+      "frame": 103,
+      "source": "Sub Phatty/Sub Phatty Square.wav"
+    },
+    {
+      "frame": 104,
+      "source": "Sub Phatty/Sub Phatty Triangle.wav"
+    },
+    {
+      "frame": 105,
+      "source": "Sub Phatty Overdriven Tri/Sub Phatty Overdriven Tri a.wav"
+    },
+    {
+      "frame": 106,
+      "source": "Sub Phatty Overdriven Tri/Sub Phatty Overdriven Tri b.wav"
+    },
+    {
+      "frame": 107,
+      "source": "Sub Phatty PWM/Sub Phatty PWM a.wav"
+    },
+    {
+      "frame": 108,
+      "source": "Sub Phatty PWM/Sub Phatty PWM e.wav"
+    },
+    {
+      "frame": 109,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync a.wav"
+    },
+    {
+      "frame": 110,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync b.wav"
+    },
+    {
+      "frame": 111,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync c.wav"
+    },
+    {
+      "frame": 112,
+      "source": "Sub Phatty Sync Drive/Sub Phatty Sync Drive a.wav"
+    },
+    {
+      "frame": 113,
+      "source": "Sub Phatty Sync Drive/Sub Phatty Sync Drive c.wav"
+    },
+    {
+      "frame": 114,
+      "source": "Sub Phatty Sync Drive/Sub Phatty Sync Drive d.wav"
+    },
+    {
+      "frame": 115,
+      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph a.wav"
+    },
+    {
+      "frame": 116,
+      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph c.wav"
+    },
+    {
+      "frame": 117,
+      "source": "Sub Phatty Tri/Sub Phatty TriOverdriven Morph.wav"
+    },
+    {
+      "frame": 118,
+      "source": "Sub Phatty Tri/Sub Phatty TriSaw.wav"
+    },
+    {
+      "frame": 119,
+      "source": "Sub Phatty Tri/Sub Phatty Triangle.wav"
+    },
+    {
+      "frame": 120,
+      "source": "Sub_Phatty/Sub_Phatty_Sub_Drive_b_Single.wav"
+    },
+    {
+      "frame": 121,
+      "source": "Sub_Phatty/Sub_Phatty_Triangle_Teeth_b_Single.wav"
+    },
+    {
+      "frame": 122,
+      "source": "Sunrizer/Animoog SawSyncPrimes2.wav"
+    },
+    {
+      "frame": 123,
+      "source": "Voyager/Moog Modular Sine.wav"
+    },
+    {
+      "frame": 124,
+      "source": "Voyager/Moog Modular Triangle.wav"
+    },
+    {
+      "frame": 125,
+      "source": "Voyager/Voyager Fat Saw.wav"
+    },
+    {
+      "frame": 126,
+      "source": "Voyager/Voyager Narrow Saw.wav"
+    },
+    {
+      "frame": 127,
+      "source": "Voyager/Voyager Square Brite.wav"
+    },
+    {
+      "frame": 128,
+      "source": "Voyager/Voyager Square Dark.wav"
+    }
+  ]
+}

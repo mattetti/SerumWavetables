@@ -1,0 +1,14 @@
+{
+  "name": "SID Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "SID Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SID/2bit Saw.wav"
+    }
+  ]
+}

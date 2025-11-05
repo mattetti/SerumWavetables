@@ -1,0 +1,26 @@
+{
+  "name": "Ferocious",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Ferocious"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2/FM8 Edge 3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2/Op Noise Wave.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2/Op Sharp 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ2/RZ2 Pitched Noise 1 MS.wav"
+    }
+  ]
+}

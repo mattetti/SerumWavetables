@@ -1,0 +1,22 @@
+{
+  "name": "Raspy",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Raspy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wcreator/Wcreator 3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Wcreator/Wcreator 5.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Wcreator/Wcreator 7 a.wav"
+    }
+  ]
+}

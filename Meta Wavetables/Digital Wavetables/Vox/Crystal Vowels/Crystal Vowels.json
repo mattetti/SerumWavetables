@@ -1,0 +1,22 @@
+{
+  "name": "Crystal Vowels",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Crystal Vowels"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "PPG/JD-800 042 Doo.wav"
+    },
+    {
+      "frame": 1,
+      "source": "PPG/Prophet VS 75 Vocal1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 2.wav"
+    }
+  ]
+}

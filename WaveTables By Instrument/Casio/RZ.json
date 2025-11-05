@@ -1,0 +1,51 @@
+{
+  "manufacturer": "Casio",
+  "instrument": "RZ",
+  "total_frames": 11,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ/RZ1 Formant 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ/RZ1 Formant 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ/RZ1 Hoover 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ/RZ1 Hoover 2.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ/RZ1 Syn Mix 1.wav"
+    },
+    {
+      "frame": 5,
+      "source": "RZ/RZ2 Duo Saw Comb Funda MS.wav"
+    },
+    {
+      "frame": 6,
+      "source": "RZ/RZ2 Numbered 2 Comb 1 MS.wav"
+    },
+    {
+      "frame": 7,
+      "source": "RZ/RZ2 Numbered 2 Comb 2 MS.wav"
+    },
+    {
+      "frame": 8,
+      "source": "RZ/RZ2 Pulse Comb MS.wav"
+    },
+    {
+      "frame": 9,
+      "source": "RZ/RZ2 Pulse Primes 1 MS.wav"
+    },
+    {
+      "frame": 10,
+      "source": "RZ/RZ2 Pulse Primes 2 MS.wav"
+    }
+  ]
+}

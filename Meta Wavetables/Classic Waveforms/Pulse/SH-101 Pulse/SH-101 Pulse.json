@@ -1,0 +1,18 @@
+{
+  "name": "SH-101 Pulse",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "SH-101 Pulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SH-101/SH-101 Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SH-101/SH-101 Super Pulse.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "OB-6 Sub",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "OB-6 Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB6/OB6 Sub Oct.wav"
+    }
+  ]
+}

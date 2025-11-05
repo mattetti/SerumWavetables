@@ -1,0 +1,43 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Circuit MonoStation",
+  "total_frames": 9,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Novation Circuit MonoStation TriDirty.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation PWM 01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation PWM 0A.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SawDirty.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SinDirty.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SqrDirty.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation SubOsc.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation Tri.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation TriDirty.wav"
+    }
+  ]
+}

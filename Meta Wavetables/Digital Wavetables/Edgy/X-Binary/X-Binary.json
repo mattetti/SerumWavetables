@@ -1,0 +1,26 @@
+{
+  "name": "X-Binary",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "X-Binary"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/Blue_Digiwave_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM/FM Attack Bell.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM/RZ2 Pitched Noise 2 MS.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM/Sunrizer_Drive_2_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Numerology",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Numerology"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Lazerbass 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Lazerbass/RZ1 Mixed Comb 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Lazerbass/RZ1 Mixed Comb 2.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Lazerbass/RZ1 Numbered 1.wav"
+    }
+  ]
+}

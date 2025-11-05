@@ -1,0 +1,14 @@
+{
+  "name": "Cobalt8 Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Cobalt8 Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Cobalt8BasicShapes/Cobalt8BasicShapes_03.wav"
+    }
+  ]
+}

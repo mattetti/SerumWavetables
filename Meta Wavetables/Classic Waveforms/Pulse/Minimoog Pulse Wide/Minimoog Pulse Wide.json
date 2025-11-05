@@ -1,0 +1,14 @@
+{
+  "name": "Minimoog Pulse Wide",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Minimoog Pulse Wide"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minimoog/Minimoog Pulse Wide.wav"
+    }
+  ]
+}

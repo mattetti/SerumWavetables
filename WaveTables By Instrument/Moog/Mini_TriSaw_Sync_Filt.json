@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Mini_TriSaw_Sync_Filt",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini/Mini_TriSaw_Sync_Filt.wav"
+    }
+  ]
+}

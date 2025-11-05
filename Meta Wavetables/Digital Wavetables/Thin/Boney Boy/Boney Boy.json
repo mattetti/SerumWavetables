@@ -1,0 +1,18 @@
+{
+  "name": "Boney Boy",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Boney Boy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub/Sub Phatty Thin Sync a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub/Sub_Phatty_Thin_Sync_b_single.wav"
+    }
+  ]
+}

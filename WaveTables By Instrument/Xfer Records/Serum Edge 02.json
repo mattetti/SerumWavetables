@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum Edge 02",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Serum Edge 02.wav"
+    }
+  ]
+}

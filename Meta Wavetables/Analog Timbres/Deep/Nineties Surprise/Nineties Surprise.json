@@ -1,0 +1,18 @@
+{
+  "name": "Nineties Surprise",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "Nineties Surprise"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD/JD-800 036 FunkBass1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD/JD_800_023_Synbass_single.wav"
+    }
+  ]
+}

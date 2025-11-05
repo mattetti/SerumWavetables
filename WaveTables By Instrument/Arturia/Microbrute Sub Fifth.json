@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Microbrute Sub Fifth",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth e.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth f.wav"
+    }
+  ]
+}

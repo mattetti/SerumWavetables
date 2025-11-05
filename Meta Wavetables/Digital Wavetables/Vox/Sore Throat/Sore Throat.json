@@ -1,0 +1,34 @@
+{
+  "name": "Sore Throat",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Sore Throat"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue FatB1/Prologue FatB10 -3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue FatB1/Prologue FatB12 -3.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue FatB1/Prologue FatB13 -3.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue FatB1/Prologue FatB14 -3.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue FatB1/Prologue FatB15 -3.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue FatB1/Prologue FatB16 -3.wav"
+    }
+  ]
+}

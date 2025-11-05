@@ -1,0 +1,51 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "RZ2",
+  "total_frames": 11,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2/Op Harmonics 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2/Op Noise Wave.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2/Op Organ 1 Dirty.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ2/Op Organ 4.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ2/Op Sharp 1.wav"
+    },
+    {
+      "frame": 5,
+      "source": "RZ2/RZ2 Numbered 1 Funda MS.wav"
+    },
+    {
+      "frame": 6,
+      "source": "RZ2/RZ2 Numbered 2 MS.wav"
+    },
+    {
+      "frame": 7,
+      "source": "RZ2/RZ2 Pitched Noise 1 MS.wav"
+    },
+    {
+      "frame": 8,
+      "source": "RZ2/RZ2 Primes Spectrum 5 MS.wav"
+    },
+    {
+      "frame": 9,
+      "source": "RZ2/RZ2 Primes Spectrum 6 MS.wav"
+    },
+    {
+      "frame": 10,
+      "source": "RZ2/RZ2 Sick Pitch 2 Funda MS.wav"
+    }
+  ]
+}

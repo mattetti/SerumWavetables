@@ -1,0 +1,22 @@
+{
+  "name": "Green Envy",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Green Envy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Absynth/Absynth Dirty Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Absynth/Absynth Fractal FM.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/JP_8000_Feedback_1_single.wav"
+    }
+  ]
+}

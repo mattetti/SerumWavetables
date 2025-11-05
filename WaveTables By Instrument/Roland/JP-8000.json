@@ -1,0 +1,75 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8000",
+  "total_frames": 17,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/JP-8000 X-Mod Bite a single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000/Digital_Blue_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP-8000/JD-800 033 Nasty.wav"
+    },
+    {
+      "frame": 3,
+      "source": "JP-8000/JP-8000 Supersaw a.wav"
+    },
+    {
+      "frame": 4,
+      "source": "JP-8000/JP-8000 Synced Squares.wav"
+    },
+    {
+      "frame": 5,
+      "source": "JP-8000/JP-8000 Synced Tri b.wav"
+    },
+    {
+      "frame": 6,
+      "source": "JP-8000/JP-8000 Thin Sync.wav"
+    },
+    {
+      "frame": 7,
+      "source": "JP-8000/JP-8000 Triangle a.wav"
+    },
+    {
+      "frame": 8,
+      "source": "JP-8000/JP-8000 X-Mod 3.wav"
+    },
+    {
+      "frame": 9,
+      "source": "JP-8000/JP-8000 X-Mod Bite b single.wav"
+    },
+    {
+      "frame": 10,
+      "source": "JP-8000/Little Phatty Electrobaby.wav"
+    },
+    {
+      "frame": 11,
+      "source": "JP-8000/Massive Multiplex.wav"
+    },
+    {
+      "frame": 12,
+      "source": "JP-8000/Massive_Stront_Phase_a_single.wav"
+    },
+    {
+      "frame": 13,
+      "source": "JP-8000/Massive_Tube_Scream_b_single.wav"
+    },
+    {
+      "frame": 14,
+      "source": "JP-8000/Prophet VS 42.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Omega/JP-8000 Ring SawTri.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Sub/JP-8000 Triangle.wav"
+    }
+  ]
+}

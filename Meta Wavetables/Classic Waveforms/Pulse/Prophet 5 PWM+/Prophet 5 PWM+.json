@@ -1,0 +1,74 @@
+{
+  "name": "Prophet 5 PWM+",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Prophet 5 PWM+"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_01.wav"
+    },
+    {
+      "frame": 2,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_02.wav"
+    },
+    {
+      "frame": 3,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_03.wav"
+    },
+    {
+      "frame": 4,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_04.wav"
+    },
+    {
+      "frame": 5,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_06.wav"
+    },
+    {
+      "frame": 7,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_07.wav"
+    },
+    {
+      "frame": 8,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_09.wav"
+    },
+    {
+      "frame": 10,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_10.wav"
+    },
+    {
+      "frame": 11,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_11.wav"
+    },
+    {
+      "frame": 12,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_12.wav"
+    },
+    {
+      "frame": 13,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_13.wav"
+    },
+    {
+      "frame": 14,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_14.wav"
+    },
+    {
+      "frame": 15,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_15.wav"
+    }
+  ]
+}

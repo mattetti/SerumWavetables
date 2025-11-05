@@ -1,0 +1,26 @@
+{
+  "name": "Juno 60 SubPulse",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "Juno 60 SubPulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 25.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 50.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 75.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 99.wav"
+    }
+  ]
+}

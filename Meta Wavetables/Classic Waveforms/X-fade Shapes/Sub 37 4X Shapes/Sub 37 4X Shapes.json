@@ -1,0 +1,26 @@
+{
+  "name": "Sub 37 4X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Sub 37 4X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub/Sub 37 Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub/Sub 37 Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sub/Sub 37 Square.wav"
+    },
+    {
+      "frame": 3,
+      "source": "S/Sub 37 Triangle.wav"
+    }
+  ]
+}

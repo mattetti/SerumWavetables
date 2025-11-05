@@ -1,0 +1,22 @@
+{
+  "name": "Sick Pitch",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Sick Pitch"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 1 MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 2 MS.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2 Sick Pitch/RZ2 Sick Pitch 3 MS.wav"
+    }
+  ]
+}

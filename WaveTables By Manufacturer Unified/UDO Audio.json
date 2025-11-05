@@ -1,0 +1,142 @@
+{
+  "manufacturer": "UDO Audio",
+  "total_frames": 34,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Super6/Super6 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Super6/Super6 Sin.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Super6/Super6 Sqr.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Super6/Super6 Tri.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Super6 Digi/Super6 Digi01.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Super6 Digi/Super6 Digi02.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Super6 Digi/Super6 Digi04.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Super6 Digi/Super6 Digi08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Super6 Digi/Super6 Digi09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Super6 Digi/Super6 Digi10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Super6 Digi/Super6 Digi11.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Super6 Digi/Super6 Digi12.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Super6 Digi/Super6 Digi13.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Super6 Digi/Super6 Digi14.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Super6 Digi/Super6 Digi15.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Super6 Digi/Super6 Digi16.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Super6 PWM/Super6 PWM00.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Super6 PWM/Super6 PWM01.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Super6 PWM/Super6 PWM02.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Super6 PWM/Super6 PWM03.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Super6 PWM/Super6 PWM04.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Super6 PWM/Super6 PWM05.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Super6 PWM/Super6 PWM06.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Super6 PWM/Super6 PWM07.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Super6 PWM/Super6 PWM08.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Super6 PWM/Super6 PWM09.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Super6 PWM/Super6 PWM10.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Super6 PWM/Super6 PWM11.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Super6 PWM/Super6 PWM12.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Super6 PWM/Super6 PWM13.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Super6 PWM/Super6 PWM15.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Super6 PWM/Super6 PWM17.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Super6 S/Super6 Saw.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Super6 S/Super6 Sqr.wav"
+    }
+  ]
+}

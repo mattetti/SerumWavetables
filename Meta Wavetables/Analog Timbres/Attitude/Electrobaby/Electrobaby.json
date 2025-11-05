@@ -1,0 +1,14 @@
+{
+  "name": "Electrobaby",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Electrobaby"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000/Little Phatty Electrobaby.wav"
+    }
+  ]
+}

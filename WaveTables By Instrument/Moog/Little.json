@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Little",
+  "total_frames": 7,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Little/Little Phatty Momma Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Little/Little Phatty Nasal Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Little/Little Phatty Rude French.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Little/Minimoog SawTriangle.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Little/Minimoog Super Sync 17.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Little/Minimoog Sync Bass 1.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Little/Sub Phatty Triangle Teeth b.wav"
+    }
+  ]
+}

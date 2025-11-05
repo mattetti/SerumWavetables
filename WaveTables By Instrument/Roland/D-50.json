@@ -1,0 +1,147 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "D-50",
+  "total_frames": 35,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "D-50/D-50 Normal PWM 01 MULTI.wav"
+    },
+    {
+      "frame": 1,
+      "source": "D-50/D-50 Normal PWM 02 MULTI.wav"
+    },
+    {
+      "frame": 2,
+      "source": "D-50/D-50 Normal PWM 03 MULTI.wav"
+    },
+    {
+      "frame": 3,
+      "source": "D-50/D-50 Normal PWM 04 MULTI.wav"
+    },
+    {
+      "frame": 4,
+      "source": "D-50/D-50 Normal PWM 05 MULTI.wav"
+    },
+    {
+      "frame": 5,
+      "source": "D-50/D-50 Normal PWM 06 MULTI.wav"
+    },
+    {
+      "frame": 6,
+      "source": "D-50/D-50 Normal PWM 07 MULTI.wav"
+    },
+    {
+      "frame": 7,
+      "source": "D-50/D-50 Normal PWM 08 MULTI.wav"
+    },
+    {
+      "frame": 8,
+      "source": "D-50/D-50 Normal PWM 09 MULTI.wav"
+    },
+    {
+      "frame": 9,
+      "source": "D-50/D-50 Normal PWM 10 MULTI.wav"
+    },
+    {
+      "frame": 10,
+      "source": "D-50/D-50 Normal PWM 11 MULTI.wav"
+    },
+    {
+      "frame": 11,
+      "source": "D-50/D-50 Normal PWM 12 MULTI.wav"
+    },
+    {
+      "frame": 12,
+      "source": "D-50/D-50 Normal PWM 13 MULTI.wav"
+    },
+    {
+      "frame": 13,
+      "source": "D-50/D-50 Normal PWM 14 MULTI.wav"
+    },
+    {
+      "frame": 14,
+      "source": "D-50/D-50 Normal PWM 15 MULTI.wav"
+    },
+    {
+      "frame": 15,
+      "source": "D-50/D-50 Normal Saw 00b MULTI.wav"
+    },
+    {
+      "frame": 16,
+      "source": "D-50/D-50 Normal Saw 03 MULTI.wav"
+    },
+    {
+      "frame": 17,
+      "source": "D-50/D-50 Normal Saw 04 MULTI.wav"
+    },
+    {
+      "frame": 18,
+      "source": "D-50/D-50 Normal Saw 05 MULTI.wav"
+    },
+    {
+      "frame": 19,
+      "source": "D-50/D-50 Normal Saw 06 MULTI.wav"
+    },
+    {
+      "frame": 20,
+      "source": "D-50/D-50 Normal Saw 07 MULTI.wav"
+    },
+    {
+      "frame": 21,
+      "source": "D-50/D-50 Normal Saw 08 MULTI.wav"
+    },
+    {
+      "frame": 22,
+      "source": "D-50/D-50 Normal Saw 09 MULTI.wav"
+    },
+    {
+      "frame": 23,
+      "source": "D-50/D-50 Normal Saw 10 MULTI.wav"
+    },
+    {
+      "frame": 24,
+      "source": "D-50/D-50 Normal Saw 11 MULTI.wav"
+    },
+    {
+      "frame": 25,
+      "source": "D-50/D-50 Normal Saw 12 MULTI.wav"
+    },
+    {
+      "frame": 26,
+      "source": "D-50/D-50 Normal Saw 13 MULTI.wav"
+    },
+    {
+      "frame": 27,
+      "source": "D-50/D-50 Normal Saw 14 MULTI.wav"
+    },
+    {
+      "frame": 28,
+      "source": "D-50/D-50 Normal Saw 15 MULTI.wav"
+    },
+    {
+      "frame": 29,
+      "source": "D-50/D-50 Normal Saw 16 MULTI.wav"
+    },
+    {
+      "frame": 30,
+      "source": "D-50/D-50 PWM Normal 00 redux.wav"
+    },
+    {
+      "frame": 31,
+      "source": "D-50/D-50 Saw Normal 00 pitched.wav"
+    },
+    {
+      "frame": 32,
+      "source": "D-50/D-50 Square 1.wav"
+    },
+    {
+      "frame": 33,
+      "source": "D-50/D-50 Square 2.wav"
+    },
+    {
+      "frame": 34,
+      "source": "D-50/JP-8000 Triangle a.wav"
+    }
+  ]
+}

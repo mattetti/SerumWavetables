@@ -1,0 +1,22 @@
+{
+  "name": "Purple Partials",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Purple Partials"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wcreator/Wcreator 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Wcreator/Wcreator 6 bn.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Wcreator/Wcreator 8 c.wav"
+    }
+  ]
+}

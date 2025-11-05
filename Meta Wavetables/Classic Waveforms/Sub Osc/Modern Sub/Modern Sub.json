@@ -1,0 +1,14 @@
+{
+  "name": "Modern Sub",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "Modern Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lush/Lush Modern Sub Square MS.wav"
+    }
+  ]
+}

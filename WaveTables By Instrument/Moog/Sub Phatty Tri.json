@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub Phatty Tri",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty Tri/Sub Phatty TriOverdriven Morph.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub Phatty Tri/Sub Phatty TriSaw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sub Phatty Tri/Sub Phatty Triangle.wav"
+    }
+  ]
+}

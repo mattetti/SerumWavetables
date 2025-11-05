@@ -1,0 +1,30 @@
+{
+  "name": "Prophet 5 PWM",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Prophet 5 PWM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 5 Pulse 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 5 Pulse 25.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet/Prophet 5 Pulse 50.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prophet/Prophet 5 Pulse 75.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prophet/Prophet 5 Square.wav"
+    }
+  ]
+}

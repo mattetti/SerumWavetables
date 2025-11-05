@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf I3",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf I3/Waldorf I35 45.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf I3/Waldorf I38 44.wav"
+    }
+  ]
+}

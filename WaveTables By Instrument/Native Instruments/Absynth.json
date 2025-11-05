@@ -1,0 +1,71 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Absynth",
+  "total_frames": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Absynth/Absynth Buzzer.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Absynth/Absynth Crystal Wave.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/Absynth Dirty Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Absynth/Absynth Formant Ah a.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Absynth/Absynth Formant Ah c.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Absynth/Absynth Fractal FM.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Absynth/Absynth Rubber Wave.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Absynth/FM 6th Formant.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Absynth/JD-800 035 FineWine.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Absynth/JD-800 052 Gamelan1.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Absynth/JD-800 053 Gamelan2 (single).wav"
+    },
+    {
+      "frame": 11,
+      "source": "Absynth/JD-800 062 Crystal.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Absynth/JP_8000_Feedback_1_single.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Absynth/PPG 4 VowelBell.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Absynth/Spectral Sine Dirt c.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Absynth/ZB Stepped PulseSaw 2.wav"
+    }
+  ]
+}

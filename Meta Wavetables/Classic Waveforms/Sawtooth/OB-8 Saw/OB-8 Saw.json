@@ -1,0 +1,18 @@
+{
+  "name": "OB-8 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "OB-8 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB-8/OB-8 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "MonoPoly/OB-8 Triangle.wav"
+    }
+  ]
+}

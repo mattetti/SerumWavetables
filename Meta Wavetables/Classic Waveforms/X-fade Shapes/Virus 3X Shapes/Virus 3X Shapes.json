@@ -1,0 +1,14 @@
+{
+  "name": "Virus 3X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Virus 3X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Virus S/Virus Sine.wav"
+    }
+  ]
+}

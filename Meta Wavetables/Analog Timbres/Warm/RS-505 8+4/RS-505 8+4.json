@@ -1,0 +1,22 @@
+{
+  "name": "RS-505 8+4",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "RS-505 8+4"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Paraphonic/Paraphonic 8+4.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Paraphonic/Paraphonic ConBass+Tuba+Cello.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Paraphonic/Paraphonic ConBass+Tuba.wav"
+    }
+  ]
+}

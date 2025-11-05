@@ -1,0 +1,18 @@
+{
+  "name": "Minimoog Pulse Narrow",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Minimoog Pulse Narrow"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minimoog/Minimoog Pulse Narrow.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minimoog S/Minimoog Square.wav"
+    }
+  ]
+}

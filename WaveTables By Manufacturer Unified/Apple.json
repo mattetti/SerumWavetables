@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Apple",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ES2/Analog_Plastic_Sync_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ES2/ES2 Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ES2/ES2 Square.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ES2/OB-8 Saw No. 5.wav"
+    }
+  ]
+}

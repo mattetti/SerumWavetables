@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "P3O1TrSwSq00",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P3O1TrSwSq/P3O1TrSwSq00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P3O1TrSwSq0/P3O1TrSwSq00.wav"
+    }
+  ]
+}

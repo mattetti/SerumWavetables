@@ -1,0 +1,14 @@
+{
+  "name": "Sirin Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Sirin Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sirin/Sirin Square.wav"
+    }
+  ]
+}

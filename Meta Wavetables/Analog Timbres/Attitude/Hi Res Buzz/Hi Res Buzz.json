@@ -1,0 +1,18 @@
+{
+  "name": "Hi Res Buzz",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Hi Res Buzz"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "O/OB-8 Hi Res Tracking 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "O/Omega Edge Buzz-IL.wav"
+    }
+  ]
+}

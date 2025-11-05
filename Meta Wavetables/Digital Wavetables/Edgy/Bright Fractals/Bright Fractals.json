@@ -1,0 +1,14 @@
+{
+  "name": "Bright Fractals",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Bright Fractals"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Animoog/Animoog BrightRude.wav"
+    }
+  ]
+}

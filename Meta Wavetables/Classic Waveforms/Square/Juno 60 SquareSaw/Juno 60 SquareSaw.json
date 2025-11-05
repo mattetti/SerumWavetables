@@ -1,0 +1,14 @@
+{
+  "name": "Juno 60 SquareSaw",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Juno 60 SquareSaw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 S/Juno 60 SquareSaw.wav"
+    }
+  ]
+}

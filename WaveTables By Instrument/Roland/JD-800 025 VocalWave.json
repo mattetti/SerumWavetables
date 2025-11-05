@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD-800 025 VocalWave",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Female/JD-800 025 VocalWave.wav"
+    }
+  ]
+}

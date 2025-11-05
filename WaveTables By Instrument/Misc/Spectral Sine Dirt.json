@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Spectral Sine Dirt",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt c.wav"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub Phatty Sub Sync",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sub Phatty Sub Sync/Sub Phatty Sub Sync c.wav"
+    }
+  ]
+}

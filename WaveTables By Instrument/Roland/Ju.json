@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "Ju",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Ju/Juno 106 Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Ju/Jupiter_8_Sine_single.wav"
+    }
+  ]
+}

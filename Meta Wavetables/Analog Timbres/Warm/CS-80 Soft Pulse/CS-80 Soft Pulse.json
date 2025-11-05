@@ -1,0 +1,18 @@
+{
+  "name": "CS-80 Soft Pulse",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "CS-80 Soft Pulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS_80/CS_80_Deep_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS_80/CS_80_Pulse_Gain_Fix.wav"
+    }
+  ]
+}

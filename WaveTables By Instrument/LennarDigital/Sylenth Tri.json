@@ -1,0 +1,23 @@
+{
+  "manufacturer": "LennarDigital",
+  "instrument": "Sylenth Tri",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sylenth Tri/Sylenth TriPulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sylenth Tri/Sylenth TriSaw Oct.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sylenth Tri/Sylenth TriSaw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sylenth Tri/Sylenth Triangle.wav"
+    }
+  ]
+}

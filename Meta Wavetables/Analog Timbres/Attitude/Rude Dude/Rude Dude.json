@@ -1,0 +1,22 @@
+{
+  "name": "Rude Dude",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Rude Dude"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Little/Little Phatty Rude French.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Little/Minimoog Super Sync 17.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Little/Sub Phatty Triangle Teeth b.wav"
+    }
+  ]
+}

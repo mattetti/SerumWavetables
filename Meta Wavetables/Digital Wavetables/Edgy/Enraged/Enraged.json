@@ -1,0 +1,26 @@
+{
+  "name": "Enraged",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Enraged"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/FM8 Edge 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/FM8 Edge 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ZB/ZB Rich Wave a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ZB/ZB Rich Wave d.wav"
+    }
+  ]
+}

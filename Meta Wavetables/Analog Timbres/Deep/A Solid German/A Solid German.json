@@ -1,0 +1,22 @@
+{
+  "name": "A Solid German",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "A Solid German"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/Waldorf Pulse Bright Saw.wav"
+    }
+  ]
+}

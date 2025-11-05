@@ -1,0 +1,14 @@
+{
+  "name": "Muscular",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Muscular"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SH-101/SH-101 Super Click.wav"
+    }
+  ]
+}

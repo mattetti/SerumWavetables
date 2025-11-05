@@ -1,0 +1,26 @@
+{
+  "name": "Thorny FM",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Thorny FM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/FM8 Sharp 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM8 Sharp/FM8 Sharp 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM8 Sharp/FM8 Sharp 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM8 Sharp/FM8 Sharp 07.wav"
+    }
+  ]
+}

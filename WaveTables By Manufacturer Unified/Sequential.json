@@ -1,0 +1,182 @@
+{
+  "manufacturer": "Sequential",
+  "total_frames": 44,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2/Rev2 PWM 50.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Rev2/Rev2 Saw 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Rev2/Rev2 SawTri 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Rev2/Rev2 Triangle 2.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Rev2 PWM/Rev2 PWM 00.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Rev2 PWM/Rev2 PWM 05.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Rev2 PWM/Rev2 PWM 11.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Rev2 PWM/Rev2 PWM 17.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Rev2 PWM/Rev2 PWM 23.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Rev2 PWM/Rev2 PWM 30.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Rev2 PWM/Rev2 PWM 36.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Rev2 PWM/Rev2 PWM 42.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Rev2 PWM/Rev2 PWM 50.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Rev2 Triangle/Rev2 Triangle 1.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Rev2 Triangle/Rev2 Triangle 2.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Rev2 Triangle/Rev2 Triangle 3.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Rev2 Triangle/Rev2 Triangle 4.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Take5/Prophet 10 Tri.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Take5/Take5 PWM00.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Take5/Take5 PWM05.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Take5/Take5 PWM10.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Take5/Take5 PWM15.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Take5/Take5SnSwSq00.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Take5/Take5SnSwSq01.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Take5/Take5SnSwSq05.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Take5/Take5SnSwSq06.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Take5/Take5SnSwSq07.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Take5/Take5SnSwSq09.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Take5/Take5SnSwSq14.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Take5S/Take5SnSwSq00.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Take5S/Take5SubOsc.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Take5SnSwSq/Take5SnSwSq07.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Take5SnSwSq/Take5SnSwSq14.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Take5SnSwSq0/Take5SnSwSq00.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Take5SnSwSq0/Take5SnSwSq03.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Tetra/Tetra Saw.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Tetra/Tetra SawTri.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Tetra/Tetra Triangle.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Tetra Pulse/Tetra Pulse 07.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Tetra Pulse/Tetra Pulse 12.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Tetra Pulse/Tetra Pulse 22.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Tetra Pulse/Tetra Pulse 35.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Tetra Pulse/Tetra Pulse 42.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Tetra Pulse/Tetra Pulse 50.wav"
+    }
+  ]
+}

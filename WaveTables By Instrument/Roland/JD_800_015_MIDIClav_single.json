@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD_800_015_MIDIClav_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/JD_800_015_MIDIClav_single.wav"
+    }
+  ]
+}

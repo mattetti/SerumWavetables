@@ -1,0 +1,46 @@
+{
+  "name": "Modulation Index",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Modulation Index"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue SineC/Prologue SineC01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue SineC/Prologue SineC03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue SineC/Prologue SineC04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue SineC/Prologue SineC05.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue SineC/Prologue SineC06.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue SineC/Prologue SineC07.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue SineC/Prologue SineC08.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue SineC/Prologue SineC09.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue SineC/Prologue SineC10.wav"
+    }
+  ]
+}

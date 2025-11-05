@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet VS 42",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Digital/Prophet VS 42.wav"
+    }
+  ]
+}

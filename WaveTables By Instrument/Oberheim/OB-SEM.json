@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB-SEM",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB-SEM/OB-SEM Pulse 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB-SEM/OB-SEM Pulse 25.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB-SEM/OB-SEM Pulse 75.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB-SEM/OB-SEM Pulse 99.wav"
+    },
+    {
+      "frame": 4,
+      "source": "OB-SEM/OB-SEM Saw.wav"
+    },
+    {
+      "frame": 5,
+      "source": "OB-SEM/OB-SEM Square.wav"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Sub Phatty",
+  "total_frames": 7,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "S/Sub Phatty Triangle Sync a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sub/Sub Phatty Sync Morph b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sub/Sub Phatty Triangle Sync b.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sub Phatty/Sub Phatty PWM e.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sub Phatty/Sub Phatty Saw.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Sub Phatty/Sub Phatty Square.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Sub Phatty/Sub Phatty Triangle.wav"
+    }
+  ]
+}

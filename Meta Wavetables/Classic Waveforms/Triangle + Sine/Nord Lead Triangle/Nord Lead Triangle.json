@@ -1,0 +1,18 @@
+{
+  "name": "Nord Lead Triangle",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Nord Lead Triangle"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Nord Rack 2 Tri.wav"
+    },
+    {
+      "frame": 1,
+      "source": "No/Novation Circuit MonoStation TriDirty.wav"
+    }
+  ]
+}

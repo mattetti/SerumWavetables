@@ -1,0 +1,14 @@
+{
+  "name": "JP-8000 Supersaw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "JP-8000 Supersaw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/JP_8000_Supersaw_b_single.wav"
+    }
+  ]
+}

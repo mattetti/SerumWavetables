@@ -1,0 +1,71 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue Square",
+  "total_frames": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue Square/Prologue Square01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue Square/Prologue Square02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue Square/Prologue Square03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue Square/Prologue Square04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue Square/Prologue Square05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue Square/Prologue Square06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue Square/Prologue Square07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue Square/Prologue Square08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue Square/Prologue Square09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prologue Square/Prologue Square10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Prologue Square/Prologue Square11.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Prologue Square/Prologue Square12.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Prologue Square/Prologue Square13.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Prologue Square/Prologue Square14.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Prologue Square/Prologue Square15.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Prologue Square/Prologue Square16.wav"
+    }
+  ]
+}
