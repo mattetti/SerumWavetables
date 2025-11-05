@@ -1,7 +1,7 @@
 {
   "manufacturer": "Misc",
   "instrument": "Lazerbass",
-  "total_frames": 20,
+  "total_frames": 17,
   "frames": [
     {
       "frame": 0,
@@ -29,59 +29,47 @@
     },
     {
       "frame": 6,
-      "source": "Lazerbass/Lazerbass Pulse 1 Multi 2 14.wav"
-    },
-    {
-      "frame": 7,
-      "source": "Lazerbass/Lazerbass Pulse 2 Multi 2 09.wav"
-    },
-    {
-      "frame": 8,
       "source": "Lazerbass/Lazerbass Pulse 3 Multi 2 15.wav"
     },
     {
-      "frame": 9,
+      "frame": 7,
       "source": "Lazerbass/Lazerbass Spectral 1 a.wav"
     },
     {
-      "frame": 10,
+      "frame": 8,
       "source": "Lazerbass/Lazerbass Spectral 1 b.wav"
     },
     {
-      "frame": 11,
+      "frame": 9,
       "source": "Lazerbass/Lazerbass Sq Multi 2 07 C.wav"
     },
     {
-      "frame": 12,
+      "frame": 10,
       "source": "Lazerbass/Lazerbass Sq Multi 2 12.wav"
     },
     {
-      "frame": 13,
+      "frame": 11,
       "source": "Lazerbass/Lazerbass Transistor.wav"
     },
     {
-      "frame": 14,
+      "frame": 12,
       "source": "Lazerbass/Lazerbass Vocal Wave.wav"
     },
     {
-      "frame": 15,
+      "frame": 13,
       "source": "Lazerbass/RZ1 Mixed Comb 1.wav"
     },
     {
-      "frame": 16,
+      "frame": 14,
       "source": "Lazerbass/RZ1 Mixed Comb 2.wav"
     },
     {
-      "frame": 17,
+      "frame": 15,
       "source": "Lazerbass/RZ1 Numbered 1.wav"
     },
     {
-      "frame": 18,
+      "frame": 16,
       "source": "Lazerbass/RZ1 Syn Dis 4.wav"
-    },
-    {
-      "frame": 19,
-      "source": "Lazerbass/ZB Rich Wave c.wav"
     }
   ]
 }

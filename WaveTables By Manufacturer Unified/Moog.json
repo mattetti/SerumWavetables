@@ -1,6 +1,6 @@
 {
   "manufacturer": "Moog",
-  "total_frames": 129,
+  "total_frames": 127,
   "frames": [
     {
       "frame": 0,
@@ -464,58 +464,50 @@
     },
     {
       "frame": 115,
-      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph a.wav"
-    },
-    {
-      "frame": 116,
-      "source": "Sub Phatty Sync Morph/Sub Phatty Sync Morph c.wav"
-    },
-    {
-      "frame": 117,
       "source": "Sub Phatty Tri/Sub Phatty TriOverdriven Morph.wav"
     },
     {
-      "frame": 118,
+      "frame": 116,
       "source": "Sub Phatty Tri/Sub Phatty TriSaw.wav"
     },
     {
-      "frame": 119,
+      "frame": 117,
       "source": "Sub Phatty Tri/Sub Phatty Triangle.wav"
     },
     {
-      "frame": 120,
+      "frame": 118,
       "source": "Sub_Phatty/Sub_Phatty_Sub_Drive_b_Single.wav"
     },
     {
-      "frame": 121,
+      "frame": 119,
       "source": "Sub_Phatty/Sub_Phatty_Triangle_Teeth_b_Single.wav"
     },
     {
-      "frame": 122,
+      "frame": 120,
       "source": "Sunrizer/Animoog SawSyncPrimes2.wav"
     },
     {
-      "frame": 123,
+      "frame": 121,
       "source": "Voyager/Moog Modular Sine.wav"
     },
     {
-      "frame": 124,
+      "frame": 122,
       "source": "Voyager/Moog Modular Triangle.wav"
     },
     {
-      "frame": 125,
+      "frame": 123,
       "source": "Voyager/Voyager Fat Saw.wav"
     },
     {
-      "frame": 126,
+      "frame": 124,
       "source": "Voyager/Voyager Narrow Saw.wav"
     },
     {
-      "frame": 127,
+      "frame": 125,
       "source": "Voyager/Voyager Square Brite.wav"
     },
     {
-      "frame": 128,
+      "frame": 126,
       "source": "Voyager/Voyager Square Dark.wav"
     }
   ]

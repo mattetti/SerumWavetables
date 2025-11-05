@@ -1,6 +1,6 @@
 {
   "manufacturer": "Korg",
-  "total_frames": 163,
+  "total_frames": 161,
   "frames": [
     {
       "frame": 0,
@@ -8,650 +8,642 @@
     },
     {
       "frame": 1,
-      "source": "MS-20/MS-20 Narrow Pulse.wav"
-    },
-    {
-      "frame": 2,
-      "source": "MS-20/MS-20 Pulse.wav"
-    },
-    {
-      "frame": 3,
       "source": "MS-20/MS-20 Square.wav"
     },
     {
-      "frame": 4,
+      "frame": 2,
       "source": "MS-20/MS-20 Triangle.wav"
     },
     {
-      "frame": 5,
+      "frame": 3,
       "source": "MS-20/Virus Triangle.wav"
     },
     {
-      "frame": 6,
+      "frame": 4,
       "source": "MonoPoly/JX-3P Thin Pulse.wav"
     },
     {
-      "frame": 7,
+      "frame": 5,
       "source": "MonoPoly/MonoPoly Bright and Thin.wav"
     },
     {
-      "frame": 8,
+      "frame": 6,
       "source": "MonoPoly/MonoPoly Pulse.wav"
     },
     {
-      "frame": 9,
+      "frame": 7,
       "source": "MonoPoly/MonoPoly Slaved Pulses.wav"
     },
     {
-      "frame": 10,
+      "frame": 8,
       "source": "MonoPoly/MonoPoly Square.wav"
     },
     {
-      "frame": 11,
+      "frame": 9,
       "source": "MonoPoly/MonoPoly Triangle.wav"
     },
     {
-      "frame": 12,
+      "frame": 10,
       "source": "MonoPoly/OB-8 Triangle.wav"
     },
     {
-      "frame": 13,
+      "frame": 11,
       "source": "MonoPoly/Omega Edge Buzz.wav"
     },
     {
-      "frame": 14,
+      "frame": 12,
       "source": "MonoPoly Slaved/MonoPoly Slaved Pulses.wav"
     },
     {
-      "frame": 15,
+      "frame": 13,
       "source": "MonoPoly Slaved/MonoPoly Slaved Triangles.wav"
     },
     {
-      "frame": 16,
+      "frame": 14,
       "source": "Prologue/Prologue Saw00.wav"
     },
     {
-      "frame": 17,
+      "frame": 15,
       "source": "Prologue/Prologue SineA01.wav"
     },
     {
-      "frame": 18,
+      "frame": 16,
       "source": "Prologue/Prologue Square01.wav"
     },
     {
-      "frame": 19,
+      "frame": 17,
       "source": "Prologue/Prologue Square16.wav"
     },
     {
-      "frame": 20,
+      "frame": 18,
       "source": "Prologue/Prologue Tri01.wav"
     },
     {
-      "frame": 21,
+      "frame": 19,
       "source": "Prologue DecB/Prologue DecB03.wav"
     },
     {
-      "frame": 22,
+      "frame": 20,
       "source": "Prologue DecB/Prologue DecB04.wav"
     },
     {
-      "frame": 23,
+      "frame": 21,
       "source": "Prologue DecB/Prologue DecB05.wav"
     },
     {
-      "frame": 24,
+      "frame": 22,
       "source": "Prologue DecB/Prologue DecB06.wav"
     },
     {
-      "frame": 25,
+      "frame": 23,
       "source": "Prologue DecB/Prologue DecB09.wav"
     },
     {
-      "frame": 26,
+      "frame": 24,
       "source": "Prologue DecB/Prologue DecB15.wav"
     },
     {
-      "frame": 27,
+      "frame": 25,
       "source": "Prologue FatA/Prologue FatA01.wav"
     },
     {
-      "frame": 28,
+      "frame": 26,
       "source": "Prologue FatA/Prologue FatA05.wav"
     },
     {
-      "frame": 29,
+      "frame": 27,
       "source": "Prologue FatA/Prologue FatA09.wav"
     },
     {
-      "frame": 30,
+      "frame": 28,
       "source": "Prologue FatA/Prologue FatA13.wav"
     },
     {
-      "frame": 31,
+      "frame": 29,
       "source": "Prologue FatA/Prologue FatA16.wav"
     },
     {
-      "frame": 32,
+      "frame": 30,
       "source": "Prologue FatB1/Prologue FatB10 -3.wav"
     },
     {
-      "frame": 33,
+      "frame": 31,
       "source": "Prologue FatB1/Prologue FatB12 -3.wav"
     },
     {
-      "frame": 34,
+      "frame": 32,
       "source": "Prologue FatB1/Prologue FatB13 -3.wav"
     },
     {
-      "frame": 35,
+      "frame": 33,
       "source": "Prologue FatB1/Prologue FatB14 -3.wav"
     },
     {
-      "frame": 36,
+      "frame": 34,
       "source": "Prologue FatB1/Prologue FatB15 -3.wav"
     },
     {
-      "frame": 37,
+      "frame": 35,
       "source": "Prologue FatB1/Prologue FatB16 -3.wav"
     },
     {
-      "frame": 38,
+      "frame": 36,
       "source": "Prologue Saw/Prologue Saw08.wav"
     },
     {
-      "frame": 39,
+      "frame": 37,
       "source": "Prologue Saw/Prologue SawComp01.wav"
     },
     {
-      "frame": 40,
+      "frame": 38,
       "source": "Prologue Saw0/Prologue Saw00Thinned.wav"
     },
     {
-      "frame": 41,
+      "frame": 39,
       "source": "Prologue Saw0/Prologue Saw02.wav"
     },
     {
-      "frame": 42,
+      "frame": 40,
       "source": "Prologue Saw0/Prologue Saw03.wav"
     },
     {
-      "frame": 43,
+      "frame": 41,
       "source": "Prologue Saw0/Prologue Saw04.wav"
     },
     {
-      "frame": 44,
+      "frame": 42,
       "source": "Prologue Saw0/Prologue Saw05.wav"
     },
     {
-      "frame": 45,
+      "frame": 43,
       "source": "Prologue SawA/Prologue SawA04+3.wav"
     },
     {
-      "frame": 46,
+      "frame": 44,
       "source": "Prologue SawA/Prologue SawA05+3.wav"
     },
     {
-      "frame": 47,
+      "frame": 45,
       "source": "Prologue SawA/Prologue SawA07+3.wav"
     },
     {
-      "frame": 48,
+      "frame": 46,
       "source": "Prologue SawA/Prologue SawA09+3.wav"
     },
     {
-      "frame": 49,
+      "frame": 47,
       "source": "Prologue SawA/Prologue SawA11+3.wav"
     },
     {
-      "frame": 50,
+      "frame": 48,
       "source": "Prologue SawB/Prologue SawB04.wav"
     },
     {
-      "frame": 51,
+      "frame": 49,
       "source": "Prologue SawB/Prologue SawB06.wav"
     },
     {
-      "frame": 52,
+      "frame": 50,
       "source": "Prologue SawB/Prologue SawB07.wav"
     },
     {
-      "frame": 53,
+      "frame": 51,
       "source": "Prologue SawB/Prologue SawB08.wav"
     },
     {
-      "frame": 54,
+      "frame": 52,
       "source": "Prologue SawB/Prologue SawB09.wav"
     },
     {
-      "frame": 55,
+      "frame": 53,
       "source": "Prologue SawB/Prologue SawB10.wav"
     },
     {
-      "frame": 56,
+      "frame": 54,
       "source": "Prologue SawB/Prologue SawB11.wav"
     },
     {
-      "frame": 57,
+      "frame": 55,
       "source": "Prologue SawB/Prologue SawB12.wav"
     },
     {
-      "frame": 58,
+      "frame": 56,
       "source": "Prologue SawB/Prologue SawB13.wav"
     },
     {
-      "frame": 59,
+      "frame": 57,
       "source": "Prologue SawB/Prologue SawB14.wav"
     },
     {
-      "frame": 60,
+      "frame": 58,
       "source": "Prologue SawB/Prologue SawB15.wav"
     },
     {
-      "frame": 61,
+      "frame": 59,
       "source": "Prologue SawB/Prologue SawB16.wav"
     },
     {
-      "frame": 62,
+      "frame": 60,
       "source": "Prologue SineA/Prologue SineA01.wav"
     },
     {
-      "frame": 63,
+      "frame": 61,
       "source": "Prologue SineA/Prologue SineA04.wav"
     },
     {
-      "frame": 64,
+      "frame": 62,
       "source": "Prologue SineA/Prologue SineA06.wav"
     },
     {
-      "frame": 65,
+      "frame": 63,
       "source": "Prologue SineA/Prologue SineA07.wav"
     },
     {
-      "frame": 66,
+      "frame": 64,
       "source": "Prologue SineA/Prologue SineA08.wav"
     },
     {
-      "frame": 67,
+      "frame": 65,
       "source": "Prologue SineA/Prologue SineA09.wav"
     },
     {
-      "frame": 68,
+      "frame": 66,
       "source": "Prologue SineA/Prologue SineA10.wav"
     },
     {
-      "frame": 69,
+      "frame": 67,
       "source": "Prologue SineA/Prologue SineA11.wav"
     },
     {
-      "frame": 70,
+      "frame": 68,
       "source": "Prologue SineA/Prologue SineA12.wav"
     },
     {
-      "frame": 71,
+      "frame": 69,
       "source": "Prologue SineA/Prologue SineA13.wav"
     },
     {
-      "frame": 72,
+      "frame": 70,
       "source": "Prologue SineA/Prologue SineA14.wav"
     },
     {
-      "frame": 73,
+      "frame": 71,
       "source": "Prologue SineA/Prologue SineA15.wav"
     },
     {
-      "frame": 74,
+      "frame": 72,
       "source": "Prologue SineA/Prologue SineA16.wav"
     },
     {
-      "frame": 75,
+      "frame": 73,
       "source": "Prologue SineB/Prologue SineB01.wav"
     },
     {
-      "frame": 76,
+      "frame": 74,
       "source": "Prologue SineB/Prologue SineB03.wav"
     },
     {
-      "frame": 77,
+      "frame": 75,
       "source": "Prologue SineB/Prologue SineB06.wav"
     },
     {
-      "frame": 78,
+      "frame": 76,
       "source": "Prologue SineB/Prologue SineB07.wav"
     },
     {
-      "frame": 79,
+      "frame": 77,
       "source": "Prologue SineB/Prologue SineB08.wav"
     },
     {
-      "frame": 80,
+      "frame": 78,
       "source": "Prologue SineB/Prologue SineB09.wav"
     },
     {
-      "frame": 81,
+      "frame": 79,
       "source": "Prologue SineB/Prologue SineB10.wav"
     },
     {
-      "frame": 82,
+      "frame": 80,
       "source": "Prologue SineB/Prologue SineB11.wav"
     },
     {
-      "frame": 83,
+      "frame": 81,
       "source": "Prologue SineB/Prologue SineB12.wav"
     },
     {
-      "frame": 84,
+      "frame": 82,
       "source": "Prologue SineB/Prologue SineB13.wav"
     },
     {
-      "frame": 85,
+      "frame": 83,
       "source": "Prologue SineB/Prologue SineB14.wav"
     },
     {
-      "frame": 86,
+      "frame": 84,
       "source": "Prologue SineB/Prologue SineB15.wav"
     },
     {
-      "frame": 87,
+      "frame": 85,
       "source": "Prologue SineB/Prologue SineB16.wav"
     },
     {
-      "frame": 88,
+      "frame": 86,
       "source": "Prologue SineC/Prologue SineC01.wav"
     },
     {
-      "frame": 89,
+      "frame": 87,
       "source": "Prologue SineC/Prologue SineC03.wav"
     },
     {
-      "frame": 90,
+      "frame": 88,
       "source": "Prologue SineC/Prologue SineC04.wav"
     },
     {
-      "frame": 91,
+      "frame": 89,
       "source": "Prologue SineC/Prologue SineC05.wav"
     },
     {
-      "frame": 92,
+      "frame": 90,
       "source": "Prologue SineC/Prologue SineC06.wav"
     },
     {
-      "frame": 93,
+      "frame": 91,
       "source": "Prologue SineC/Prologue SineC07.wav"
     },
     {
-      "frame": 94,
+      "frame": 92,
       "source": "Prologue SineC/Prologue SineC08.wav"
     },
     {
-      "frame": 95,
+      "frame": 93,
       "source": "Prologue SineC/Prologue SineC09.wav"
     },
     {
-      "frame": 96,
+      "frame": 94,
       "source": "Prologue SineC/Prologue SineC10.wav"
     },
     {
-      "frame": 97,
+      "frame": 95,
       "source": "Prologue SineD/Prologue SineD01.wav"
     },
     {
-      "frame": 98,
+      "frame": 96,
       "source": "Prologue SineD/Prologue SineD02.wav"
     },
     {
-      "frame": 99,
+      "frame": 97,
       "source": "Prologue SineD/Prologue SineD03.wav"
     },
     {
-      "frame": 100,
+      "frame": 98,
       "source": "Prologue SineD/Prologue SineD04.wav"
     },
     {
-      "frame": 101,
+      "frame": 99,
       "source": "Prologue SineD/Prologue SineD05.wav"
     },
     {
-      "frame": 102,
+      "frame": 100,
       "source": "Prologue SineD/Prologue SineD06.wav"
     },
     {
-      "frame": 103,
+      "frame": 101,
       "source": "Prologue SineD/Prologue SineD07.wav"
     },
     {
-      "frame": 104,
+      "frame": 102,
       "source": "Prologue SineD/Prologue SineD08.wav"
     },
     {
-      "frame": 105,
+      "frame": 103,
       "source": "Prologue SineD/Prologue SineD09.wav"
     },
     {
-      "frame": 106,
+      "frame": 104,
       "source": "Prologue SineD/Prologue SineD10.wav"
     },
     {
-      "frame": 107,
+      "frame": 105,
       "source": "Prologue SineD/Prologue SineD11.wav"
     },
     {
-      "frame": 108,
+      "frame": 106,
       "source": "Prologue SqA/Prologue SqA03.wav"
     },
     {
-      "frame": 109,
+      "frame": 107,
       "source": "Prologue SqA/Prologue SqA04.wav"
     },
     {
-      "frame": 110,
+      "frame": 108,
       "source": "Prologue SqA/Prologue SqA05.wav"
     },
     {
-      "frame": 111,
+      "frame": 109,
       "source": "Prologue SqA/Prologue SqA06.wav"
     },
     {
-      "frame": 112,
+      "frame": 110,
       "source": "Prologue SqA/Prologue SqA07.wav"
     },
     {
-      "frame": 113,
+      "frame": 111,
       "source": "Prologue SqA/Prologue SqA08.wav"
     },
     {
-      "frame": 114,
+      "frame": 112,
       "source": "Prologue SqA/Prologue SqA09.wav"
     },
     {
-      "frame": 115,
+      "frame": 113,
       "source": "Prologue SqA/Prologue SqA10.wav"
     },
     {
-      "frame": 116,
+      "frame": 114,
       "source": "Prologue SqA/Prologue SqA11.wav"
     },
     {
-      "frame": 117,
+      "frame": 115,
       "source": "Prologue SqA/Prologue SqA12.wav"
     },
     {
-      "frame": 118,
+      "frame": 116,
       "source": "Prologue SqA/Prologue SqA13.wav"
     },
     {
-      "frame": 119,
+      "frame": 117,
       "source": "Prologue SqA/Prologue SqA14.wav"
     },
     {
-      "frame": 120,
+      "frame": 118,
       "source": "Prologue SqA/Prologue SqA15.wav"
     },
     {
-      "frame": 121,
+      "frame": 119,
       "source": "Prologue SqA/Prologue SqA16.wav"
     },
     {
-      "frame": 122,
+      "frame": 120,
       "source": "Prologue SqB/Prologue SqB03.wav"
     },
     {
-      "frame": 123,
+      "frame": 121,
       "source": "Prologue SqB/Prologue SqB04.wav"
     },
     {
-      "frame": 124,
+      "frame": 122,
       "source": "Prologue SqB/Prologue SqB05.wav"
     },
     {
-      "frame": 125,
+      "frame": 123,
       "source": "Prologue SqB/Prologue SqB06.wav"
     },
     {
-      "frame": 126,
+      "frame": 124,
       "source": "Prologue SqB/Prologue SqB07.wav"
     },
     {
-      "frame": 127,
+      "frame": 125,
       "source": "Prologue SqB/Prologue SqB08.wav"
     },
     {
-      "frame": 128,
+      "frame": 126,
       "source": "Prologue SqB/Prologue SqB09.wav"
     },
     {
-      "frame": 129,
+      "frame": 127,
       "source": "Prologue SqB/Prologue SqB10.wav"
     },
     {
-      "frame": 130,
+      "frame": 128,
       "source": "Prologue SqB/Prologue SqB11.wav"
     },
     {
-      "frame": 131,
+      "frame": 129,
       "source": "Prologue SqB/Prologue SqB12.wav"
     },
     {
-      "frame": 132,
+      "frame": 130,
       "source": "Prologue SqB/Prologue SqB13.wav"
     },
     {
-      "frame": 133,
+      "frame": 131,
       "source": "Prologue SqB/Prologue SqB14.wav"
     },
     {
-      "frame": 134,
+      "frame": 132,
       "source": "Prologue SqB/Prologue SqB15.wav"
     },
     {
-      "frame": 135,
+      "frame": 133,
       "source": "Prologue SqB/Prologue SqB16.wav"
     },
     {
-      "frame": 136,
+      "frame": 134,
       "source": "Prologue Square/Prologue Square01.wav"
     },
     {
-      "frame": 137,
+      "frame": 135,
       "source": "Prologue Square/Prologue Square02.wav"
     },
     {
-      "frame": 138,
+      "frame": 136,
       "source": "Prologue Square/Prologue Square03.wav"
     },
     {
-      "frame": 139,
+      "frame": 137,
       "source": "Prologue Square/Prologue Square04.wav"
     },
     {
-      "frame": 140,
+      "frame": 138,
       "source": "Prologue Square/Prologue Square05.wav"
     },
     {
-      "frame": 141,
+      "frame": 139,
       "source": "Prologue Square/Prologue Square06.wav"
     },
     {
-      "frame": 142,
+      "frame": 140,
       "source": "Prologue Square/Prologue Square07.wav"
     },
     {
-      "frame": 143,
+      "frame": 141,
       "source": "Prologue Square/Prologue Square08.wav"
     },
     {
-      "frame": 144,
+      "frame": 142,
       "source": "Prologue Square/Prologue Square09.wav"
     },
     {
-      "frame": 145,
+      "frame": 143,
       "source": "Prologue Square/Prologue Square10.wav"
     },
     {
-      "frame": 146,
+      "frame": 144,
       "source": "Prologue Square/Prologue Square11.wav"
     },
     {
-      "frame": 147,
+      "frame": 145,
       "source": "Prologue Square/Prologue Square12.wav"
     },
     {
-      "frame": 148,
+      "frame": 146,
       "source": "Prologue Square/Prologue Square13.wav"
     },
     {
-      "frame": 149,
+      "frame": 147,
       "source": "Prologue Square/Prologue Square14.wav"
     },
     {
-      "frame": 150,
+      "frame": 148,
       "source": "Prologue Square/Prologue Square15.wav"
     },
     {
-      "frame": 151,
+      "frame": 149,
       "source": "Prologue Square/Prologue Square16.wav"
     },
     {
-      "frame": 152,
+      "frame": 150,
       "source": "Prologue SquareComp/Prologue SquareComp01.wav"
     },
     {
-      "frame": 153,
+      "frame": 151,
       "source": "Prologue SquareComp/Prologue SquareComp13.wav"
     },
     {
-      "frame": 154,
+      "frame": 152,
       "source": "Prologue Tri0/Prologue Tri01.wav"
     },
     {
-      "frame": 155,
+      "frame": 153,
       "source": "Prologue Tri0/Prologue Tri02.wav"
     },
     {
-      "frame": 156,
+      "frame": 154,
       "source": "Prologue Tri0/Prologue Tri03.wav"
     },
     {
-      "frame": 157,
+      "frame": 155,
       "source": "Prologue Tri0/Prologue Tri04.wav"
     },
     {
-      "frame": 158,
+      "frame": 156,
       "source": "Prologue Tri0/Prologue Tri05.wav"
     },
     {
-      "frame": 159,
+      "frame": 157,
       "source": "Prologue Tri0/Prologue Tri06.wav"
     },
     {
-      "frame": 160,
+      "frame": 158,
       "source": "Prologue Tri0/Prologue Tri07.wav"
     },
     {
-      "frame": 161,
+      "frame": 159,
       "source": "Prologue Tri0/Prologue Tri08.wav"
     },
     {
-      "frame": 162,
+      "frame": 160,
       "source": "Prologue Tri0/Prologue Tri09.wav"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "manufacturer": "Roland",
   "instrument": "D-50",
-  "total_frames": 35,
+  "total_frames": 32,
   "frames": [
     {
       "frame": 0,
@@ -130,18 +130,6 @@
     {
       "frame": 31,
       "source": "D-50/D-50 Saw Normal 00 pitched.wav"
-    },
-    {
-      "frame": 32,
-      "source": "D-50/D-50 Square 1.wav"
-    },
-    {
-      "frame": 33,
-      "source": "D-50/D-50 Square 2.wav"
-    },
-    {
-      "frame": 34,
-      "source": "D-50/JP-8000 Triangle a.wav"
     }
   ]
 }

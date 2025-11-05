@@ -1,7 +1,7 @@
 {
   "manufacturer": "Roland",
   "instrument": "JD-800",
-  "total_frames": 38,
+  "total_frames": 37,
   "frames": [
     {
       "frame": 0,
@@ -9,150 +9,146 @@
     },
     {
       "frame": 1,
-      "source": "JD-800/Absynth Fractal Vowel.wav"
-    },
-    {
-      "frame": 2,
       "source": "JD-800/Absynth Fractalizer (nasal).wav"
     },
     {
-      "frame": 3,
+      "frame": 2,
       "source": "JD-800/Digital_Blue_single.wav"
     },
     {
-      "frame": 4,
+      "frame": 3,
       "source": "JD-800/FM 6th Formant.wav"
     },
     {
-      "frame": 5,
+      "frame": 4,
       "source": "JD-800/FM Mechanic 1.wav"
     },
     {
-      "frame": 6,
+      "frame": 5,
       "source": "JD-800/JD-800 014 WireStr.wav"
     },
     {
-      "frame": 7,
+      "frame": 6,
       "source": "JD-800/JD-800 016 SparkVox1.wav"
     },
     {
-      "frame": 8,
+      "frame": 7,
       "source": "JD-800/JD-800 017 SparkVox2.wav"
     },
     {
-      "frame": 9,
+      "frame": 8,
       "source": "JD-800/JD-800 021 BrightDigi.wav"
     },
     {
-      "frame": 10,
+      "frame": 9,
       "source": "JD-800/JD-800 022 Cutters.wav"
     },
     {
-      "frame": 11,
+      "frame": 10,
       "source": "JD-800/JD-800 026 WallyWave.wav"
     },
     {
-      "frame": 12,
+      "frame": 11,
       "source": "JD-800/JD-800 027 Bruskylp.wav"
     },
     {
-      "frame": 13,
+      "frame": 12,
       "source": "JD-800/JD-800 032 Wave Scan.wav"
     },
     {
-      "frame": 14,
+      "frame": 13,
       "source": "JD-800/JD-800 033 Nasty.wav"
     },
     {
-      "frame": 15,
+      "frame": 14,
       "source": "JD-800/JD-800 034 WaveTable.wav"
     },
     {
-      "frame": 16,
+      "frame": 15,
       "source": "JD-800/JD-800 035 FineWine.wav"
     },
     {
-      "frame": 17,
+      "frame": 16,
       "source": "JD-800/JD-800 038 StratSust (single).wav"
     },
     {
-      "frame": 18,
+      "frame": 17,
       "source": "JD-800/JD-800 040 FullOrgan.wav"
     },
     {
-      "frame": 19,
+      "frame": 18,
       "source": "JD-800/JD-800 041 FullDraw single 2.wav"
     },
     {
-      "frame": 20,
+      "frame": 19,
       "source": "JD-800/JD-800 050 AgogoBells (single).wav"
     },
     {
-      "frame": 21,
+      "frame": 20,
       "source": "JD-800/JD-800 052 Gamelan1.wav"
     },
     {
-      "frame": 22,
+      "frame": 21,
       "source": "JD-800/JD-800 053 Gamelan2 (single).wav"
     },
     {
-      "frame": 23,
+      "frame": 22,
       "source": "JD-800/JD-800 054 Gamelan3 (single).wav"
     },
     {
-      "frame": 24,
+      "frame": 23,
       "source": "JD-800/JD-800 062 Crystal.wav"
     },
     {
-      "frame": 25,
+      "frame": 24,
       "source": "JD-800/JD-800 066 BellWave.wav"
     },
     {
-      "frame": 26,
+      "frame": 25,
       "source": "JD-800/JD-800 067 OrgBell.wav"
     },
     {
-      "frame": 27,
+      "frame": 26,
       "source": "JD-800/JD-800 068 ScrapeGut.wav"
     },
     {
-      "frame": 28,
+      "frame": 27,
       "source": "JD-800/JD-800 073 ClearKeys.wav"
     },
     {
-      "frame": 29,
+      "frame": 28,
       "source": "JD-800/JD-800 FATSaw.wav"
     },
     {
-      "frame": 30,
+      "frame": 29,
       "source": "JD-800/JD-800 SynSaw.wav"
     },
     {
-      "frame": 31,
+      "frame": 30,
       "source": "JD-800/JP-8000 Synced Tri a.wav"
     },
     {
-      "frame": 32,
+      "frame": 31,
       "source": "JD-800/JP-8000 X-Mod Bite b single.wav"
     },
     {
-      "frame": 33,
+      "frame": 32,
       "source": "JD-800/Op Organ 1 Pure.wav"
     },
     {
-      "frame": 34,
+      "frame": 33,
       "source": "JD-800/Op Organ 5.wav"
     },
     {
-      "frame": 35,
+      "frame": 34,
       "source": "JD-800/Op Thin Vox 1.wav"
     },
     {
-      "frame": 36,
+      "frame": 35,
       "source": "JD-800/Prophet VS 86 Hack2.wav"
     },
     {
-      "frame": 37,
+      "frame": 36,
       "source": "JD-800/Waldorf R27 10.wav"
     }
   ]
