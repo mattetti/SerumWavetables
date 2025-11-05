@@ -45,7 +45,6 @@ Meta tables are special wavetables constructed from different individual frames,
 These wavetables are optimized for disk space efficiency:
 
 - Wavetables contain fewer frames than typical because **Serum's interpolation** fills in the gaps
-- To enable smooth morphing: Open the wavetable editor in Serum and activate **interpolation**
 - This approach reduces disk usage while maintaining high sound quality through Serum's built-in interpolation engine
 
 Frames are still duplicated across different wavetables for the user's convenience, allowing easy access to specific sounds without needing to reconstruct wavetables from individual frames.
@@ -63,6 +62,5 @@ The JSON files aren't used by Serum but provide useful context and could be used
 ## Usage Tips
 
 1. Use the **Frames** folder to build your own custom wavetables
-2. Enable interpolation in Serum's wavetable editor for smooth morphing if you want to go from frames to frame.
 5. Check the JSON files for additional information about each wavetable's origin and characteristics
 
