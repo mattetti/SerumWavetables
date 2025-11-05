@@ -1,0 +1,59 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf R16",
+  "total_frames": 13,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf R16/Waldorf R16 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf R16/Waldorf R16 05.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf R16/Waldorf R16 10.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf R16/Waldorf R16 15.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Waldorf R16/Waldorf R16 20.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Waldorf R16/Waldorf R16 25.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Waldorf R16/Waldorf R16 30.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Waldorf R16/Waldorf R16 35.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Waldorf R16/Waldorf R16 40.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Waldorf R16/Waldorf R16 45.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Waldorf R16/Waldorf R16 50.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Waldorf R16/Waldorf R16 55.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Waldorf R16/Waldorf R16 60.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Super 6 Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Super 6 Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Super6/Super6 Tri.wav"
+    }
+  ]
+}

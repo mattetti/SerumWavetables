@@ -1,0 +1,30 @@
+{
+  "name": "Shape Feeder",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "Shape Feeder"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Juno 60 Sub Saw Pulse 40.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 12 Muscle Saws a.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet/Prophet_12_Octave_Squares_a_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sub/Sub Phatty Octave Saws.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sub/Sub Phatty Triangle Sync b.wav"
+    }
+  ]
+}

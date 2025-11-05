@@ -1,0 +1,22 @@
+{
+  "name": "Scuffle",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Scuffle"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Massive/Massive Magyr Tube a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Massive/Massive Magyr Tube b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Massive/Massive_Tube_Scream_a_single.wav"
+    }
+  ]
+}

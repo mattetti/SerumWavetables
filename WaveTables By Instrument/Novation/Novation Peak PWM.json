@@ -1,0 +1,43 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Peak PWM",
+  "total_frames": 9,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak PWM/Novation Peak PWM01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak PWM/Novation Peak PWM03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Peak PWM/Novation Peak PWM06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Peak PWM/Novation Peak PWM09.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Peak PWM/Novation Peak PWM12.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Novation Peak PWM/Novation Peak PWM13.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Novation Peak PWM/Novation Peak PWM14.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Novation Peak PWM/Novation Peak PWM15.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Novation Peak PWM/Novation Peak PWM16.wav"
+    }
+  ]
+}

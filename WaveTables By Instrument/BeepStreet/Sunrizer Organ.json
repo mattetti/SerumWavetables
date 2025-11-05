@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Beepstreet",
+  "instrument": "Sunrizer Organ",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sunrizer Organ/Sunrizer Organ a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sunrizer Organ/Sunrizer Organ b.wav"
+    }
+  ]
+}

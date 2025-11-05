@@ -1,0 +1,14 @@
+{
+  "name": "Minibrute TriSaw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Minibrute TriSaw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute TriSaw/Minibrute TriSaw a.wav"
+    }
+  ]
+}

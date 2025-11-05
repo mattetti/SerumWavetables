@@ -1,0 +1,55 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Take5",
+  "total_frames": 12,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Take5/Prophet 10 Tri.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Take5/Take5 PWM00.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Take5/Take5 PWM05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Take5/Take5 PWM10.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Take5/Take5 PWM15.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Take5/Take5SnSwSq00.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Take5/Take5SnSwSq01.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Take5/Take5SnSwSq05.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Take5/Take5SnSwSq06.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Take5/Take5SnSwSq07.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Take5/Take5SnSwSq09.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Take5/Take5SnSwSq14.wav"
+    }
+  ]
+}

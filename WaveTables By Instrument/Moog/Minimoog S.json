@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Minimoog S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minimoog S/Minimoog SawTriangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minimoog S/Minimoog Square.wav"
+    }
+  ]
+}

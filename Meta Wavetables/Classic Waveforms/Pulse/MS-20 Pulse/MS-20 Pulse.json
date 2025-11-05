@@ -1,0 +1,18 @@
+{
+  "name": "MS-20 Pulse",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "MS-20 Pulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MS-20/MS-20 Narrow Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "MS-20/MS-20 Pulse.wav"
+    }
+  ]
+}

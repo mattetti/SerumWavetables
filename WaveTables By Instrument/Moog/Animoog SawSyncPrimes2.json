@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Animoog SawSyncPrimes2",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sunrizer/Animoog SawSyncPrimes2.wav"
+    }
+  ]
+}

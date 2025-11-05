@@ -1,0 +1,50 @@
+{
+  "name": "Jagged Sync",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Jagged Sync"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini/Mini Sync 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Mini/Mini Sync 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Mini/Mini Sync 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Mini/Mini Sync 06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Mini/Mini Sync 07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Mini/Mini Sync 08.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Mini/Mini Sync 09.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Mini/Mini Sync 10.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Mini/Mini Sync 11.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Mini/Mini_Sync_04.wav"
+    }
+  ]
+}

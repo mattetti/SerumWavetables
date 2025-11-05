@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Casio",
+  "instrument": "Casio",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Casio/Casio MT 40 Tone 3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Casio/Casio MT-40 Bass.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Casio/Casio MT-40 Recorder.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Casio/Casio_MT_40_Tone_1_single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Casio/RD_EP7_single.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Casio/Virus PWM a.wav"
+    }
+  ]
+}

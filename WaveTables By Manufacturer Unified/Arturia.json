@@ -1,0 +1,198 @@
+{
+  "manufacturer": "Arturia",
+  "total_frames": 48,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Minibrute Brutallizer.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP/Minibrute Metal Sub 2b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "M/Minibrute Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "M/Minibrute Square.wav"
+    },
+    {
+      "frame": 4,
+      "source": "M/Minibrute Tri.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth a.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth b.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth c.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth d.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth e.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Microbrute Sub Fifth/Microbrute Sub Fifth f.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_b_Gain_Fix.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_c_Gain_Fix.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_d_Gain_Fix.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_e_Gain_Fix.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_f_Gain_Fix.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Microbrute_Sub_Fifth_Metal/Microbrute_Sub_Fifth_Metal_a MS.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Microbrute_Sub_Fifth_Metal/Microbrute_Sub_Fifth_Metal_b MS.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_a MS.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_e MS.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_f MS.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Minibrute/Juno 60 Sub Saw Square.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Minibrute/Minibrute HPFOctaves.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Minibrute/Minibrute Metal Sub 1b.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Minibrute/Minibrute Metal Sub 2a.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Minibrute/Minibrute OctaMetal.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Minibrute/Minibrute Retrorgan a.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Minibrute/Minibrute Retrorgan b.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Minibrute/Minibrute Sine.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Minibrute/Minibrute Square.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Minibrute/Minibrute Tri.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Minibrute/Prophet 12 Thin Drive.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 1a.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 1b.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2a.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2b.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Minibrute S/Minibrute Saw.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Minibrute S/Minibrute Square.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Minibrute Tri/Minibrute Tri Mtl0100 Brute.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Minibrute Tri/Minibrute Tri.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Minibrute Tri Mtl0/Minibrute Tri Mtl050.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Minibrute Tri Mtl0/Minibrute Tri Mtl075.wav"
+    },
+    {
+      "frame": 42,
+      "source": "Minibrute Tri Mtl0100/Minibrute Tri Mtl0100 Brute.wav"
+    },
+    {
+      "frame": 43,
+      "source": "Minibrute Tri Mtl0100/Minibrute Tri Mtl0100.wav"
+    },
+    {
+      "frame": 44,
+      "source": "Minibrute TriSaw/Minibrute TriSaw a.wav"
+    },
+    {
+      "frame": 45,
+      "source": "Minibrute TriSaw/Minibrute TriSaw b.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Minibrute TriSaw/Minibrute TriSaw c.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Sub/Minibrute Metal Sub 1b.wav"
+    }
+  ]
+}

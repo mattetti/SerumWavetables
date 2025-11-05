@@ -1,0 +1,14 @@
+{
+  "name": "Sub Phatty TriSaw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Sub Phatty TriSaw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty Tri/Sub Phatty TriSaw.wav"
+    }
+  ]
+}

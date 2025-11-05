@@ -1,0 +1,14 @@
+{
+  "name": "Sub Phatty TriOverdrive",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Sub Phatty TriOverdrive"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sub Phatty Overdriven Tri/Sub Phatty Overdriven Tri b.wav"
+    }
+  ]
+}

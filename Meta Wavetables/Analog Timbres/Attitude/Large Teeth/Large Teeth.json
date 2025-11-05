@@ -1,0 +1,18 @@
+{
+  "name": "Large Teeth",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Large Teeth"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_a_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_b_single.wav"
+    }
+  ]
+}

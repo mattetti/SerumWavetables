@@ -1,0 +1,54 @@
+{
+  "name": "OB Sync Series",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "OB Sync Series"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB8_SawSync/OB8_SawSync_01_a16.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB8_SawSync/OB8_SawSync_02_a16.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB8_SawSync/OB8_SawSync_03_a16.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB8_SawSync/OB8_SawSync_04_a16.wav"
+    },
+    {
+      "frame": 4,
+      "source": "OB8_SawSync/OB8_SawSync_05_a16.wav"
+    },
+    {
+      "frame": 5,
+      "source": "OB8_SawSync/OB8_SawSync_06_a16.wav"
+    },
+    {
+      "frame": 6,
+      "source": "OB8_SawSync/OB8_SawSync_07_a16.wav"
+    },
+    {
+      "frame": 7,
+      "source": "OB8_SawSync/OB8_SawSync_08_a16.wav"
+    },
+    {
+      "frame": 8,
+      "source": "OB8_SawSync/OB8_SawSync_09_a16.wav"
+    },
+    {
+      "frame": 9,
+      "source": "OB8_SawSync/OB8_SawSync_10_a16.wav"
+    },
+    {
+      "frame": 10,
+      "source": "OB8_SawSync/OB8_SawSync_11_a16.wav"
+    }
+  ]
+}

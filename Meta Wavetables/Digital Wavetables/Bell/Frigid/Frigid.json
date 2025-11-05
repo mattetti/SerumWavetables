@@ -1,0 +1,30 @@
+{
+  "name": "Frigid",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Frigid"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Lazerbass Bell.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Lazerbass/Lazerbass Sq Multi 2 07 C.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Lazerbass/Lazerbass Sq Multi 2 12.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Lazerbass/Massive Sineharmo.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Lazerbass/Massive SineharmoScream.wav"
+    }
+  ]
+}

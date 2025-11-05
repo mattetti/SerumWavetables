@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "P10OscAPWM_0-50_08",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_08.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JX_3P_Metal_Fifth_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JX/JX_3P_Metal_Fifth_single.wav"
+    }
+  ]
+}

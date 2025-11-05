@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB-8 Hi Res Tracking 2",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "O/OB-8 Hi Res Tracking 2.wav"
+    }
+  ]
+}

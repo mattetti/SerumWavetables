@@ -1,0 +1,18 @@
+{
+  "name": "CS-80 Sawft",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "CS-80 Sawft"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS_80/CS_80_Dark_Square_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS_80/CS_80_SawSquare_Gain_Fix.wav"
+    }
+  ]
+}

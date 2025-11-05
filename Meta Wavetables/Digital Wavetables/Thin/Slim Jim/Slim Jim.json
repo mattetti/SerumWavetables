@@ -1,0 +1,14 @@
+{
+  "name": "Slim Jim",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Slim Jim"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf R27/Waldorf R27 30.wav"
+    }
+  ]
+}

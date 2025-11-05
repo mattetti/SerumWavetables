@@ -1,0 +1,14 @@
+{
+  "name": "ARP Odyssey Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "ARP Odyssey Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP/ARP_Odyssey_Square_Fix.wav"
+    }
+  ]
+}

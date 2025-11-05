@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB6 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB6 S/OB6 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB6 S/OB6 Square.wav"
+    }
+  ]
+}

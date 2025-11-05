@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "MonoPoly Slaved",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MonoPoly Slaved/MonoPoly Slaved Pulses.wav"
+    },
+    {
+      "frame": 1,
+      "source": "MonoPoly Slaved/MonoPoly Slaved Triangles.wav"
+    }
+  ]
+}

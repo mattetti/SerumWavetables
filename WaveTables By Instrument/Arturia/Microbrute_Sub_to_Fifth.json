@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Microbrute_Sub_to_Fifth",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_a MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_e MS.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Microbrute_Sub_to_Fifth/Microbrute_Sub_to_Fifth_f MS.wav"
+    }
+  ]
+}

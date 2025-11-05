@@ -1,0 +1,18 @@
+{
+  "name": "JX-8P Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "JX-8P Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JX-8P/JX-8P Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JX-8P/JX-8P Square.wav"
+    }
+  ]
+}

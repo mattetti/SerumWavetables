@@ -1,0 +1,14 @@
+{
+  "name": "Little Phatty Momma Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Little Phatty Momma Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Little/Little Phatty Momma Square.wav"
+    }
+  ]
+}

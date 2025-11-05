@@ -1,0 +1,15 @@
+{
+  "manufacturer": "ARP",
+  "instrument": "ARP 2600 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP 2600 S/ARP 2600 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ARP 2600 S/ARP 2600 Sine.wav"
+    }
+  ]
+}

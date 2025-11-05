@@ -1,0 +1,30 @@
+{
+  "name": "Plastic Bell",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Plastic Bell"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/FM Tristate 1 6 Digi.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/Massive Squelchy 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ZB/Massive Squelchy 3.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ZB/ZB Plastic Bell 1.wav"
+    },
+    {
+      "frame": 4,
+      "source": "ZB/ZB Plastic Bell 2.wav"
+    }
+  ]
+}

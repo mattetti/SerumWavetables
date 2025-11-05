@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum Edge PWM",
+  "total_frames": 7,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum Edge PWM/Serum Edge PWM 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum Edge PWM/Serum Edge PWM 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum Edge PWM/Serum Edge PWM 06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum Edge PWM/Serum Edge PWM 09.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum Edge PWM/Serum Edge PWM 12.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum Edge PWM/Serum Edge PWM 14.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Serum Edge PWM/Serum Edge PWM 16.wav"
+    }
+  ]
+}

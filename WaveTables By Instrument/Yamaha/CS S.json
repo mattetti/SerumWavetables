@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Yamaha",
+  "instrument": "CS S",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS S/CS Saw Sine.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS S/CS Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "CS S/CS Sine.wav"
+    },
+    {
+      "frame": 3,
+      "source": "CS S/CS Square.wav"
+    }
+  ]
+}

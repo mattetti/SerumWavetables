@@ -1,0 +1,51 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf R27",
+  "total_frames": 11,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf R27/Waldorf R27 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf R27/Waldorf R27 15.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf R27/Waldorf R27 20.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf R27/Waldorf R27 25.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Waldorf R27/Waldorf R27 30.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Waldorf R27/Waldorf R27 35.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Waldorf R27/Waldorf R27 40.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Waldorf R27/Waldorf R27 45.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Waldorf R27/Waldorf R27 50.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Waldorf R27/Waldorf R27 55.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Waldorf R27/Waldorf R27 60.wav"
+    }
+  ]
+}

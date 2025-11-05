@@ -1,0 +1,22 @@
+{
+  "name": "Major Tom",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Major Tom"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2 Primes/RZ2 Primes 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2 Primes/RZ2 Primes 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2 Primes/RZ2 Primes 3.wav"
+    }
+  ]
+}

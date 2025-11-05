@@ -1,0 +1,22 @@
+{
+  "name": "Peak Sine",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Peak Sine"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak Sin/Novation Peak Sin.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak Sin/Novation Peak SinShp45.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Peak Sin/Novation Peak SinShp63.wav"
+    }
+  ]
+}

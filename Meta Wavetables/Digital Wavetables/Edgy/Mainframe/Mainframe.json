@@ -1,0 +1,30 @@
+{
+  "name": "Mainframe",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Mainframe"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Edge Bend 05.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Edge/Serum Edge 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Edge/Serum Edge PWM 13.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Edge/Serum Hollow FM 2 07.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Edge/Serum Mirror 17.wav"
+    }
+  ]
+}

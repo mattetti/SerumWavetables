@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Rev2",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2/Rev2 PWM 50.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Rev2/Rev2 Saw 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Rev2/Rev2 SawTri 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Rev2/Rev2 Triangle 2.wav"
+    }
+  ]
+}

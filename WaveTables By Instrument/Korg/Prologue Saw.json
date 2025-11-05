@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue Saw",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue Saw/Prologue Saw08.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue Saw/Prologue SawComp01.wav"
+    }
+  ]
+}

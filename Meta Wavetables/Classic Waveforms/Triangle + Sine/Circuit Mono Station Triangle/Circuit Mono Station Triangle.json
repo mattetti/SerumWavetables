@@ -1,0 +1,14 @@
+{
+  "name": "Circuit Mono Station Triangle",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Circuit Mono Station Triangle"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Circuit MonoStation/Novation Circuit MonoStation Tri.wav"
+    }
+  ]
+}

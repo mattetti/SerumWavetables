@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Commodore",
+  "instrument": "SID",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SID/SID Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SID S/SID Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SID S/SID Square.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "JP-8000 Saw Fat",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "JP-8000 Saw Fat"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8k/JP-8k Fat Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8k/JP-8k Sine Saw.wav"
+    }
+  ]
+}

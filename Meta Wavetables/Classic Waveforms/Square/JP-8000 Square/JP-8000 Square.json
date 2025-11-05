@@ -1,0 +1,18 @@
+{
+  "name": "JP-8000 Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "JP-8000 Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000 S/JP-8000 Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000/JP-8000 Synced Squares.wav"
+    }
+  ]
+}

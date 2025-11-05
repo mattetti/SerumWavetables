@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "6bit",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "6bit/6bit Organ.wav"
+    },
+    {
+      "frame": 1,
+      "source": "6bit/Lazerbass 1.wav"
+    }
+  ]
+}

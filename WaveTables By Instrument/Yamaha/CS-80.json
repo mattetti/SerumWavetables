@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Yamaha",
+  "instrument": "CS-80",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Omega/CS-80 Ring Mod 08.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Omega/CS-80 Ring Mod 10.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Omega/CS-80 Ring Mod 12.wav"
+    }
+  ]
+}

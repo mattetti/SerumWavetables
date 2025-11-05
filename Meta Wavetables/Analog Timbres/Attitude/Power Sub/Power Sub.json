@@ -1,0 +1,18 @@
+{
+  "name": "Power Sub",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Power Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno/Juno 60 Power Sub.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Octaves/Sub Phatty Octave Squares a.wav"
+    }
+  ]
+}

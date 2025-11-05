@@ -1,0 +1,111 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "Juno",
+  "total_frames": 26,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno/Juno 106 Bass Comb.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno/Juno 106 Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno/Juno 106 Sub.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Juno/Juno 60 80s Square Sub.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Juno/Juno 60 Hollow Organ.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Juno/Juno 60 Mean Sub.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Juno/Juno 60 PWM Saw Filter.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Juno/Juno 60 Polybellz.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Juno/Juno 60 Power Sub.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Juno/Juno 60 Pulse 40.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Juno/Juno 60 Pulse 50.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Juno/Juno 60 Pulse 60.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Juno/Juno 60 Pulse 75.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Juno/Juno 60 Pulse 85.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Juno/Juno 60 Pulse 99.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Juno/Juno 60 Pulse Sub.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Juno/Juno 60 Square.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Juno/Juno 60 Sub Saw Square.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Juno/Juno 60 Sub Saw.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Juno/Juno 60 Sub Square.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Juno/Juno 60 Tweezer Res (single).wav"
+    },
+    {
+      "frame": 21,
+      "source": "Juno/Juno_60_Deep_single.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Juno/Minibrute Brutallizer.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Juno/Minimoog Super Sync 01.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Juno/Minimoog Triangle.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Juno/Sub Phatty Octave Squares a.wav"
+    }
+  ]
+}

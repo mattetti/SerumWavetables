@@ -1,0 +1,26 @@
+{
+  "name": "Duocorn",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Duocorn"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Lazerbass Pulse 1 Multi 2 14.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Lazerbass/Lazerbass Pulse 2 Multi 2 09.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Vanguard/Vanguard Sine Saw Drive Single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Lazerbass/ZB Rich Wave c.wav"
+    }
+  ]
+}

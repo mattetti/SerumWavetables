@@ -1,0 +1,14 @@
+{
+  "name": "ARP 2600 Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "ARP 2600 Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP/ARP 2600 Square.wav"
+    }
+  ]
+}

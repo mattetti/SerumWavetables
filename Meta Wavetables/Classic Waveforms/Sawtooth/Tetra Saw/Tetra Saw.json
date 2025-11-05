@@ -1,0 +1,18 @@
+{
+  "name": "Tetra Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Tetra Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Tetra/Tetra Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Tetra/Tetra Triangle.wav"
+    }
+  ]
+}

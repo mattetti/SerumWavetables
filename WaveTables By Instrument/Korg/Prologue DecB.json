@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue DecB",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue DecB/Prologue DecB03.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue DecB/Prologue DecB04.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue DecB/Prologue DecB05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue DecB/Prologue DecB06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue DecB/Prologue DecB09.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue DecB/Prologue DecB15.wav"
+    }
+  ]
+}

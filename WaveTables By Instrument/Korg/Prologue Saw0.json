@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue Saw0",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue Saw0/Prologue Saw00Thinned.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue Saw0/Prologue Saw02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue Saw0/Prologue Saw03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue Saw0/Prologue Saw04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue Saw0/Prologue Saw05.wav"
+    }
+  ]
+}

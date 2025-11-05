@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "P303DigShp0109",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P303DigShp0/P303DigShp0109.wav"
+    }
+  ]
+}

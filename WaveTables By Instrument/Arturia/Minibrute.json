@@ -1,0 +1,63 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute",
+  "total_frames": 14,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "M/Minibrute Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "M/Minibrute Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "M/Minibrute Tri.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Minibrute/Juno 60 Sub Saw Square.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Minibrute/Minibrute HPFOctaves.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Minibrute/Minibrute Metal Sub 1b.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Minibrute/Minibrute Metal Sub 2a.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Minibrute/Minibrute OctaMetal.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Minibrute/Minibrute Retrorgan a.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Minibrute/Minibrute Retrorgan b.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Minibrute/Minibrute Sine.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Minibrute/Minibrute Square.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Minibrute/Minibrute Tri.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Minibrute/Prophet 12 Thin Drive.wav"
+    }
+  ]
+}

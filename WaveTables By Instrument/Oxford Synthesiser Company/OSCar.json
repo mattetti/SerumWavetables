@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Oxford Synthesiser Company",
+  "instrument": "OSCar",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OSCar/OSCar Blown Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OSCar/OSCar Garbage Triangle.wav"
+    }
+  ]
+}

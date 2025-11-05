@@ -1,0 +1,34 @@
+{
+  "name": "Unclean",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Unclean"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral Crush/Spectral Crush 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Spectral Crush/Spectral Crush 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Spectral Crush/Spectral Crush 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Spectral Crush/Spectral Crush 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Spectral Crush/Spectral Crush 05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Spectral Crush/Spectral Crush 06.wav"
+    }
+  ]
+}

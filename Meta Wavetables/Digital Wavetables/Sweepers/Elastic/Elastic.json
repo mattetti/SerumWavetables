@@ -1,0 +1,26 @@
+{
+  "name": "Elastic",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Elastic"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000 X-Mod/JP-8000 X-Mod 1 a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000 X-Mod/JP-8000 X-Mod 1 b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP-8000 X-Mod/JP-8000 X-Mod 1 c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "JP-8000 X-Mod/JP-8000 X-Mod 1 d.wav"
+    }
+  ]
+}

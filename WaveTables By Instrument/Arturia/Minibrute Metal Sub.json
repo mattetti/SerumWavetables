@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute Metal Sub",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 1a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 1b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2b.wav"
+    }
+  ]
+}

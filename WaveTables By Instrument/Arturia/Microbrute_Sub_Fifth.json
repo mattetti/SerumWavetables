@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Microbrute_Sub_Fifth",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_b_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_c_Gain_Fix.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_d_Gain_Fix.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_e_Gain_Fix.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Microbrute_Sub_Fifth/Microbrute_Sub_Fifth_f_Gain_Fix.wav"
+    }
+  ]
+}

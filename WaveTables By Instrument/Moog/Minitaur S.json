@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Minitaur S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minitaur S/Minitaur Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minitaur S/Minitaur Square.wav"
+    }
+  ]
+}

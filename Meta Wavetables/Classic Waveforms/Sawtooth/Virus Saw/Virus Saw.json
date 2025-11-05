@@ -1,0 +1,18 @@
+{
+  "name": "Virus Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Virus Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Virus S/Virus Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Virus S/Virus Square.wav"
+    }
+  ]
+}

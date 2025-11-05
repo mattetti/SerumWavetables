@@ -1,0 +1,14 @@
+{
+  "name": "SE-02 Pulse Wide",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "SE-02 Pulse Wide"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SE-02/SE-02 Pulse Wide.wav"
+    }
+  ]
+}

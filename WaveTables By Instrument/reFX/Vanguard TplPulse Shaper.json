@@ -1,0 +1,11 @@
+{
+  "manufacturer": "reFX",
+  "instrument": "Vanguard TplPulse Shaper",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Trance/Vanguard TplPulse Shaper.wav"
+    }
+  ]
+}

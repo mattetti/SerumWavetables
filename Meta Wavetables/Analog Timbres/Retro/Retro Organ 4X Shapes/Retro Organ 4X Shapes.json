@@ -1,0 +1,22 @@
+{
+  "name": "Retro Organ 4X Shapes",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Retro Organ 4X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Casio MT-40/Casio MT-40 Pipe Organ.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Vox_Continental/Vox_Continental_Animals_single.wav"
+    }
+  ]
+}

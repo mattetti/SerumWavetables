@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet 5 Saw",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 5 Saw/Prophet 5 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 5 Saw/Prophet 5 SawSquare.wav"
+    }
+  ]
+}

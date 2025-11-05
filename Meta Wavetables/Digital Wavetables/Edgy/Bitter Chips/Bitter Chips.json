@@ -1,0 +1,30 @@
+{
+  "name": "Bitter Chips",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Bitter Chips"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Chipwave/Chipwave 7 a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Chipwave/Chipwave 7 b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Chipwave/Chipwave 7 c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Chipwave/Chipwave 7 d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Chipwave/Chipwave 7 e.wav"
+    }
+  ]
+}

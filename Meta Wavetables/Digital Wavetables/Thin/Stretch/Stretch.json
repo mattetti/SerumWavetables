@@ -1,0 +1,30 @@
+{
+  "name": "Stretch",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Stretch"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum Plastic/Serum Plastic 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum Plastic/Serum Plastic 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum Plastic/Serum Plastic 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum Plastic/Serum Plastic 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum Plastic/Serum Plastic 05.wav"
+    }
+  ]
+}

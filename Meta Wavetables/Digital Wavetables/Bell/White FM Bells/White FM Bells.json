@@ -1,0 +1,22 @@
+{
+  "name": "White FM Bells",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "White FM Bells"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM8/FM8 HighHarm a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM8/FM8_HighHarm_b_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM8/FM8_HighHarm_c_single.wav"
+    }
+  ]
+}

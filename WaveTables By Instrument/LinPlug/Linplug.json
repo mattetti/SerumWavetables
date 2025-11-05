@@ -1,0 +1,19 @@
+{
+  "manufacturer": "LinPlug",
+  "instrument": "Linplug",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Linplug/Linplug Sine Organ 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Linplug/Linplug Thin Organ.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Linplug/Linplug Vox Organ 1.wav"
+    }
+  ]
+}

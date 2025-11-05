@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8000 X-Mod Bite",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000 X-Mod Bite/JP-8000 X-Mod Bite a single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000 X-Mod Bite/JP-8000 X-Mod Bite c single.wav"
+    }
+  ]
+}

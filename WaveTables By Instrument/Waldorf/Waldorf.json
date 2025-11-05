@@ -1,0 +1,123 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf",
+  "total_frames": 29,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Animoog ArpModCplx.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf/JD_800_015_MIDIClav_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/JP-8000 X-Mod Bite c single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf/Lazerbass 4.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Waldorf/Lazerbass 5.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Waldorf/Lazerbass Pulse 3 Multi 2 15.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Waldorf/Minibrute Tri Sine Mtl100.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Waldorf/Minimoog Sync Bass 2.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Waldorf/Prophet 12 Digitalism a.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Waldorf/Waldorf C26 30.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Waldorf/Waldorf C26 50.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Waldorf/Waldorf C26 55.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Waldorf/Waldorf C26 60.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Waldorf/Waldorf I35 00.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Waldorf/Waldorf I35 05.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Waldorf/Waldorf I35 25.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Waldorf/Waldorf I35 37.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Waldorf/Waldorf I38 42.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Waldorf/Waldorf I38 43.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Waldorf/Waldorf I38 45.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Waldorf/Waldorf Pulse Bright Saw.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Waldorf/Waldorf R14 25.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Waldorf/Waldorf R14 30.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Waldorf/Waldorf R14 35.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Waldorf/Waldorf R27 20.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Waldorf/Waldorf R27 40.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Waldorf/Waldorf R27 45.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Waldorf/Waldorf R27 50.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Waldorf/Waldorf R27 55.wav"
+    }
+  ]
+}

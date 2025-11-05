@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8000 Supersaw a",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000 Supersaw a/JP-8000 Supersaw a.wav"
+    }
+  ]
+}

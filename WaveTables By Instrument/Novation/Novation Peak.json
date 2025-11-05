@@ -1,0 +1,39 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Peak",
+  "total_frames": 8,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Novation Peak SinShp25.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak/Novation Peak BssOrgn.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Peak/Novation Peak OrganOD.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Peak/Novation Peak PWM01.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Peak/Novation Peak SawOD.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Novation Peak/Novation Peak SqrOD.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Novation Peak/Novation Peak Tri.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Novation Peak/Novation Peak TubeOD.wav"
+    }
+  ]
+}

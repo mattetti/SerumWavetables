@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Logan",
+  "instrument": "Logan_Accordion",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Logan_Accordion/Logan_Accordion_Full_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Logan_Accordion/Logan_Accordion_Single_single.wav"
+    }
+  ]
+}

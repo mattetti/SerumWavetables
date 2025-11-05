@@ -1,0 +1,26 @@
+{
+  "name": "Stripes",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Stripes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/ZB Disturbed Sine.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/ZB Nasal Bite 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ZB/ZB Nasal Bite 2.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ZB/ZB Nasal Voice 1.wav"
+    }
+  ]
+}

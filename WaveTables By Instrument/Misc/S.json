@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "S",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "S/SE-1 Razor.wav"
+    }
+  ]
+}

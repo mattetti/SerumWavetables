@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Lush Modern Sub S",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lush Modern Sub S/Lush Modern Sub Saw MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Lush Modern Sub S/Lush Modern Sub Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Lush Modern Sub S/Lush Modern Sub Square.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Lush Modern Sub S/Lush Modern Sub Sync 1.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Lush Modern Sub S/Lush Modern Sub Sync 2 MS.wav"
+    }
+  ]
+}

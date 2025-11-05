@@ -1,0 +1,18 @@
+{
+  "name": "Barbaric",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Barbaric"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/JP_8_Barbaric_X_Mod_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP/Minibrute Brutallizer.wav"
+    }
+  ]
+}

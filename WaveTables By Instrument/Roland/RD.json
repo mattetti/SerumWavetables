@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "RD",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RD/RD CLAV MS.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RD/RD_EP7_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RD/RD_Vibes_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "J",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "J/JP-8 Pulse 75.wav"
+    },
+    {
+      "frame": 1,
+      "source": "J/JX-8P Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "J/Jupiter 8 Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "J/Jupiter 8 Square.wav"
+    },
+    {
+      "frame": 4,
+      "source": "J/Jupiter 8 Triangle.wav"
+    }
+  ]
+}

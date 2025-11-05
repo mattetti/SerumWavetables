@@ -1,0 +1,39 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Minimoog",
+  "total_frames": 8,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "M/Minimoog Triangle.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minimoog/Minimoog Funky Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Minimoog/Minimoog Pulse Narrow.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Minimoog/Minimoog Pulse Wide.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Minimoog/Minimoog Saw.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Minimoog/Minimoog Square.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Minimoog/Minimoog Triangle.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Minimoog/Sub Phatty Sync Morph d.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive RoughMath 1",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Massive RoughMath 1.wav"
+    }
+  ]
+}

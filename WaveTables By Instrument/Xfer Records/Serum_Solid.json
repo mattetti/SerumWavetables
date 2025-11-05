@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum_Solid",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum_Solid/Serum_Solid_01_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum_Solid/Serum_Solid_02_Gain_Fix.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum_Solid/Serum_Solid_04_Gain_Fix.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum_Solid/Serum_Solid_06_Gain_Fix.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum_Solid/Serum_Solid_08_Gain_Fix.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum_Solid/Serum_Solid_11_Gain_Fix.wav"
+    }
+  ]
+}

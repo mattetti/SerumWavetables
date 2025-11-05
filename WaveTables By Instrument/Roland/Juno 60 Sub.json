@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "Juno 60 Sub",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 Sub/Juno 60 Sub.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 Sub/Juno 60 SubSaw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno 60 Sub/Juno 60 SubSquare.wav"
+    }
+  ]
+}

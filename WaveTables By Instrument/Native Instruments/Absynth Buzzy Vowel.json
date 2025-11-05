@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Absynth Buzzy Vowel",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Absynth Buzzy Vowel.wav"
+    }
+  ]
+}

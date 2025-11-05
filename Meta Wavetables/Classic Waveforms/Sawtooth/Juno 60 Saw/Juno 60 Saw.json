@@ -1,0 +1,14 @@
+{
+  "name": "Juno 60 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Juno 60 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 Saw/Juno 60 Saw.wav"
+    }
+  ]
+}

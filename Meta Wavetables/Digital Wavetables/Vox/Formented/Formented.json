@@ -1,0 +1,26 @@
+{
+  "name": "Formented",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Formented"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Absynth/FM 6th Formant.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM/Massive Talk 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/PPG 4 VowelBell.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 1.wav"
+    }
+  ]
+}

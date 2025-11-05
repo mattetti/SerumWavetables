@@ -1,0 +1,67 @@
+{
+  "manufacturer": "Oberheim",
+  "instrument": "OB8 Pulse",
+  "total_frames": 15,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB8 Pulse/OB8 Pulse 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB8 Pulse/OB8 Pulse 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB8 Pulse/OB8 Pulse 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB8 Pulse/OB8 Pulse 06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "OB8 Pulse/OB8 Pulse 07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "OB8 Pulse/OB8 Pulse 08.wav"
+    },
+    {
+      "frame": 6,
+      "source": "OB8 Pulse/OB8 Pulse 09.wav"
+    },
+    {
+      "frame": 7,
+      "source": "OB8 Pulse/OB8 Pulse 10.wav"
+    },
+    {
+      "frame": 8,
+      "source": "OB8 Pulse/OB8 Pulse 11.wav"
+    },
+    {
+      "frame": 9,
+      "source": "OB8 Pulse/OB8 Pulse 12.wav"
+    },
+    {
+      "frame": 10,
+      "source": "OB8 Pulse/OB8 Pulse 13.wav"
+    },
+    {
+      "frame": 11,
+      "source": "OB8 Pulse/OB8 Pulse 14.wav"
+    },
+    {
+      "frame": 12,
+      "source": "OB8 Pulse/OB8 Pulse 15.wav"
+    },
+    {
+      "frame": 13,
+      "source": "OB8 Pulse/OB8 Pulse 16.wav"
+    },
+    {
+      "frame": 14,
+      "source": "OB8 Pulse/OB8 Pulse 17.wav"
+    }
+  ]
+}

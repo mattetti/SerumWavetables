@@ -1,0 +1,22 @@
+{
+  "name": "Wiry",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Wiry"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Absynth ThinBrightPulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 12 Saw e.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet/Prophet_12_Thin_Drive_single_2.wav"
+    }
+  ]
+}

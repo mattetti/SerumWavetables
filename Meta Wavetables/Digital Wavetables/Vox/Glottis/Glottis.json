@@ -1,0 +1,22 @@
+{
+  "name": "Glottis",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Glottis"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP/Lazerbass Vocal Wave.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Op/Massive Talk 1.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1 Syn Dis/RZ1 Syn Dis 4.wav"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Moog",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Moog/Moog 55 Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Moog/Moog Modular Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Moog/Moog Modular Square.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Moog/Moog Modular Triangle.wav"
+    }
+  ]
+}

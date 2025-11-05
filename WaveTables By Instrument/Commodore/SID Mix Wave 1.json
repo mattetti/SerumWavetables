@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Commodore",
+  "instrument": "SID Mix Wave 1",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SID Mix Wave/SID Mix Wave 1.wav"
+    }
+  ]
+}

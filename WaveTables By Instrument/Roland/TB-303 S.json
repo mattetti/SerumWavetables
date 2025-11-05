@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "TB-303 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "TB-303 S/TB-303 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "TB-303 S/TB-303 Square.wav"
+    }
+  ]
+}

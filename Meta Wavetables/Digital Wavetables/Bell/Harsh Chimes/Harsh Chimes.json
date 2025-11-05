@@ -1,0 +1,22 @@
+{
+  "name": "Harsh Chimes",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Harsh Chimes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Op/Edge Org.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Op/Op Organ 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Op/Op Organ 3 a.wav"
+    }
+  ]
+}

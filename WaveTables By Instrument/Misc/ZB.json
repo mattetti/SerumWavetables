@@ -1,0 +1,55 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "ZB",
+  "total_frames": 12,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/FM Tristate 1 6 Digi.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/ZB Disturbed Sine.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ZB/ZB Nasal Bite 1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ZB/ZB Nasal Bite 2.wav"
+    },
+    {
+      "frame": 4,
+      "source": "ZB/ZB Nasal Voice 1.wav"
+    },
+    {
+      "frame": 5,
+      "source": "ZB/ZB Plastic Bell 1.wav"
+    },
+    {
+      "frame": 6,
+      "source": "ZB/ZB Plastic Bell 2.wav"
+    },
+    {
+      "frame": 7,
+      "source": "ZB/ZB Plastic Organ 1.wav"
+    },
+    {
+      "frame": 8,
+      "source": "ZB/ZB Plastic Organ 3.wav"
+    },
+    {
+      "frame": 9,
+      "source": "ZB/ZB Rich Wave a.wav"
+    },
+    {
+      "frame": 10,
+      "source": "ZB/ZB Rich Wave d.wav"
+    },
+    {
+      "frame": 11,
+      "source": "ZB/ZB Thin Harmonic.wav"
+    }
+  ]
+}

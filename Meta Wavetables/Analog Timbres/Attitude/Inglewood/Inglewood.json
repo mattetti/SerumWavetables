@@ -1,0 +1,18 @@
+{
+  "name": "Inglewood",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Inglewood"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SE/SE-1 Inglewood.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SE/SE_1_Moogey_single.wav"
+    }
+  ]
+}

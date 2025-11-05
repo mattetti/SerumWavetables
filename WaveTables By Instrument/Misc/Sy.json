@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Sy",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sy/Synthetic Trance HPulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sy/Synthetic Trance Square.wav"
+    }
+  ]
+}

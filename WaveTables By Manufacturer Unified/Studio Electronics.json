@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Studio Electronics",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SE/SE-1 Inglewood.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SE/SE_1_Moogey_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "SE-1/SE-1 Razor.wav"
+    },
+    {
+      "frame": 3,
+      "source": "SE-1/SE-1 Square.wav"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fearless Saw",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "Fearless Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Minimoog Sync Bass 2.wav"
+    }
+  ]
+}

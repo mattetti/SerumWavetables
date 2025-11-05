@@ -1,0 +1,50 @@
+{
+  "name": "Ripper",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Ripper"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum FM PWM/Serum FM PWM 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum FM PWM/Serum FM PWM 02.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum FM PWM/Serum FM PWM 03.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum FM PWM/Serum FM PWM 04.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum FM PWM/Serum FM PWM 05.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum FM PWM/Serum FM PWM 06.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Serum FM PWM/Serum FM PWM 07.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Serum FM PWM/Serum FM PWM 08.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Serum FM PWM/Serum FM PWM 09.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Serum FM PWM/Serum FM PWM 10.wav"
+    }
+  ]
+}

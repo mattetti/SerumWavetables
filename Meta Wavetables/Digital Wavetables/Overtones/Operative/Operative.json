@@ -1,0 +1,26 @@
+{
+  "name": "Operative",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Operative"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ2/Op Organ 1 Dirty.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ2/Op Organ 4.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ2/RZ2 Numbered 1 Funda MS.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ2/RZ2 Numbered 2 MS.wav"
+    }
+  ]
+}

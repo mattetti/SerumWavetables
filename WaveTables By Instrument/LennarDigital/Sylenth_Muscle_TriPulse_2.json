@@ -1,0 +1,11 @@
+{
+  "manufacturer": "LennarDigital",
+  "instrument": "Sylenth_Muscle_TriPulse_2",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sy/Sylenth_Muscle_TriPulse_2.wav"
+    }
+  ]
+}

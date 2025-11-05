@@ -1,0 +1,46 @@
+{
+  "manufacturer": "Vox",
+  "total_frames": 10,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Vox/Vox_Continental_Animals_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Vox/Vox_Continental_Jaguar_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Vox_Continental/Vox_Continental_Animals_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Vox_Continental/Vox_Continental_Bass_single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Vox_Continental/Vox_Continental_Chordal_single.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Vox_Continental/Vox_Continental_Harpsi_single_2.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Vox_Continental/Vox_Continental_Jaguar_single.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Vox_Continental/Vox_Continental_Monkees_single.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Vox_Continental/Vox_Continental_Surfin_single.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Vox_Continental/Vox_Continental_Wah_single.wav"
+    }
+  ]
+}

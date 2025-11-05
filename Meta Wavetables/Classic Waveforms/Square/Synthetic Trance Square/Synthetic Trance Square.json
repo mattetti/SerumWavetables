@@ -1,0 +1,14 @@
+{
+  "name": "Synthetic Trance Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Synthetic Trance Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sylenth/Sylenth Square.wav"
+    }
+  ]
+}

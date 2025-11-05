@@ -1,0 +1,14 @@
+{
+  "name": "Captain of the C Team",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Captain of the C Team"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ES2/Analog_Plastic_Sync_single.wav"
+    }
+  ]
+}

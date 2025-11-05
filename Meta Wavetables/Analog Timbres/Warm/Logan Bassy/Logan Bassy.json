@@ -1,0 +1,18 @@
+{
+  "name": "Logan Bassy",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "Logan Bassy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Logan/Logan PercBass.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Logan/Paraphonic Full.wav"
+    }
+  ]
+}

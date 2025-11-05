@@ -1,0 +1,26 @@
+{
+  "name": "Whispy",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Whispy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Waldorf R14 30.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf R27/Waldorf R27 40.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf R27/Waldorf R27 45.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Waldorf R27/Waldorf R27 50.wav"
+    }
+  ]
+}

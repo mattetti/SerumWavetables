@@ -1,0 +1,26 @@
+{
+  "name": "CS Ringer 2",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "CS Ringer 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 09.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 11.wav"
+    },
+    {
+      "frame": 2,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 13.wav"
+    },
+    {
+      "frame": 3,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 14.wav"
+    }
+  ]
+}

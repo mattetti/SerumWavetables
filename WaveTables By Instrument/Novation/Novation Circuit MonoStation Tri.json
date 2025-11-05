@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Circuit MonoStation Tri",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Circuit MonoStation Tri/Novation Circuit MonoStation Tri.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Circuit MonoStation Tri/Novation Circuit MonoStation TriDirty.wav"
+    }
+  ]
+}

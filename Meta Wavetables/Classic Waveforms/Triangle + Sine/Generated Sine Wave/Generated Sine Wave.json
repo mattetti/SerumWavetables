@@ -1,0 +1,14 @@
+{
+  "name": "Generated Sine Wave",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Generated Sine Wave"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Generated/Generated Sine Wave.wav"
+    }
+  ]
+}

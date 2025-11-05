@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute S/Minibrute Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute S/Minibrute Square.wav"
+    }
+  ]
+}

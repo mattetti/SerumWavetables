@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Sequential Circuits",
+  "instrument": "Prophet VS 64 Orient",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P/Prophet VS 64 Orient.wav"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Spectral Dirty Bell",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral Dirty Bell/Spectral Dirty Bell a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Spectral Dirty Bell/Spectral Dirty Bell b.wav"
+    }
+  ]
+}

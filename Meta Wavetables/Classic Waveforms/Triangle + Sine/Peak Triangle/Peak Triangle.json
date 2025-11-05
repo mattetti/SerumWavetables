@@ -1,0 +1,14 @@
+{
+  "name": "Peak Triangle",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Peak Triangle"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak Tri/Novation Peak TriShp63.wav"
+    }
+  ]
+}

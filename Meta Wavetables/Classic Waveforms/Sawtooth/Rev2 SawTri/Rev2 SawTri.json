@@ -1,0 +1,18 @@
+{
+  "name": "Rev2 SawTri",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Rev2 SawTri"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2/Rev2 SawTri 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Rev2 Triangle/Rev2 Triangle 2.wav"
+    }
+  ]
+}

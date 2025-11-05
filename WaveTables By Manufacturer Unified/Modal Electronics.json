@@ -1,0 +1,174 @@
+{
+  "manufacturer": "Modal Electronics",
+  "total_frames": 42,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Argon8 Shapes/Argon8 Shapes 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Argon8 Shapes/Argon8 Shapes 07.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Argon8 Shapes/Argon8 Shapes 08.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Argon8 Shapes/Argon8 Shapes 12.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Argon8 Shapes/Argon8 Shapes 14.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Argon8 Shapes/Argon8 Shapes 16.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Cob8HSyncSqr_MULTI/Cob8HSyncSqr_MULTI_00.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Cob8HSyncSqr_MULTI/Cob8HSyncSqr_MULTI_04.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Cob8HSyncSqr_MULTI/Cob8HSyncSqr_MULTI_08.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Cob8HSyncSqr_MULTI/Cob8HSyncSqr_MULTI_12.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Cob8HSyncSqr_MULTI/Cob8HSyncSqr_MULTI_15.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Cobalt8/Cobalt8BasicShapes_00.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Cobalt8/Cobalt8BasicShapes_05.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Cobalt8/Cobalt8BasicShapes_07.wav"
+    },
+    {
+      "frame": 14,
+      "source": "Cobalt8/Cobalt8BasicShapes_09.wav"
+    },
+    {
+      "frame": 15,
+      "source": "Cobalt8/Cobalt8BasicShapes_10.wav"
+    },
+    {
+      "frame": 16,
+      "source": "Cobalt8/Cobalt8BasicShapes_12.wav"
+    },
+    {
+      "frame": 17,
+      "source": "Cobalt8/Cobalt8BasicShapes_15.wav"
+    },
+    {
+      "frame": 18,
+      "source": "Cobalt8/Cobalt8PWM_01.wav"
+    },
+    {
+      "frame": 19,
+      "source": "Cobalt8/Cobalt8PWM_02.wav"
+    },
+    {
+      "frame": 20,
+      "source": "Cobalt8/Cobalt8PWM_04.wav"
+    },
+    {
+      "frame": 21,
+      "source": "Cobalt8/Cobalt8PWM_06.wav"
+    },
+    {
+      "frame": 22,
+      "source": "Cobalt8/Cobalt8PWM_08.wav"
+    },
+    {
+      "frame": 23,
+      "source": "Cobalt8/Cobalt8PWM_10.wav"
+    },
+    {
+      "frame": 24,
+      "source": "Cobalt8/Cobalt8PWM_12.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Cobalt8/Cobalt8PWM_14.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Cobalt8/Cobalt8PWM_15.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Cobalt8BasicShapes/Cobalt8BasicShapes_03.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Cobalt8BasicShapes/Cobalt8BasicShapes_09.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Cobalt8BasicShapes/Cobalt8BasicShapes_15.wav"
+    },
+    {
+      "frame": 30,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_00.wav"
+    },
+    {
+      "frame": 31,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_03.wav"
+    },
+    {
+      "frame": 32,
+      "source": "Cobalt8BasicShapes_0/Cobalt8BasicShapes_09.wav"
+    },
+    {
+      "frame": 33,
+      "source": "Cobalt8PWM/Cobalt8PWM_00.wav"
+    },
+    {
+      "frame": 34,
+      "source": "Cobalt8PWM/Cobalt8PWM_02.wav"
+    },
+    {
+      "frame": 35,
+      "source": "Cobalt8PWM/Cobalt8PWM_04.wav"
+    },
+    {
+      "frame": 36,
+      "source": "Cobalt8PWM/Cobalt8PWM_06.wav"
+    },
+    {
+      "frame": 37,
+      "source": "Cobalt8PWM/Cobalt8PWM_08.wav"
+    },
+    {
+      "frame": 38,
+      "source": "Cobalt8PWM/Cobalt8PWM_10.wav"
+    },
+    {
+      "frame": 39,
+      "source": "Cobalt8PWM/Cobalt8PWM_12.wav"
+    },
+    {
+      "frame": 40,
+      "source": "Cobalt8PWM/Cobalt8PWM_14.wav"
+    },
+    {
+      "frame": 41,
+      "source": "Cobalt8PWM/Cobalt8PWM_15.wav"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8k",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8k/JP-8k Fat Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8k/JP-8k Sine Saw.wav"
+    }
+  ]
+}

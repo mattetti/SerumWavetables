@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Commodore",
+  "instrument": "SID Mix Wave 4",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Neon/SID Mix Wave 4.wav"
+    },
+    {
+      "frame": 1,
+      "source": "SID Mix Wave/SID Mix Wave 4.wav"
+    }
+  ]
+}

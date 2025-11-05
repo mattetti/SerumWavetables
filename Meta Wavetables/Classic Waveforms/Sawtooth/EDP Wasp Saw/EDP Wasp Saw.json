@@ -1,0 +1,14 @@
+{
+  "name": "EDP Wasp Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "EDP Wasp Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wasp/EDP Wasp Saw.wav"
+    }
+  ]
+}

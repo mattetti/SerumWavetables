@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Waldorf",
+  "instrument": "Waldorf Pulse B",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Waldorf Pulse B/Waldorf Pulse Big Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf Pulse B/Waldorf Pulse Bright Saw.wav"
+    }
+  ]
+}

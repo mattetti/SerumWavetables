@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Thin",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Thin/Thin_Buzz_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Thin/Thin_Overtone_single.wav"
+    }
+  ]
+}

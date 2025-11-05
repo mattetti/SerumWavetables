@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum Mirror 17",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Serum Mirror 17.wav"
+    }
+  ]
+}

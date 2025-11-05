@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Xfer Records",
+  "instrument": "Serum Hollow FM 2 07",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Serum Hollow FM 2 07.wav"
+    }
+  ]
+}

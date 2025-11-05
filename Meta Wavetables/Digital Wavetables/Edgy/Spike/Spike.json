@@ -1,0 +1,26 @@
+{
+  "name": "Spike",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Spike"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sylenth/Sylenth Nasal 4Osc.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Generated/Sylenth Overdriven Oct Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sylenth/Sylenth Solid Teeth.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sylenth Tri/Sylenth TriSaw Oct.wav"
+    }
+  ]
+}

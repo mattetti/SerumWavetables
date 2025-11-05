@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Bell",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Bell/Bell_Wavetable_2_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Bell/Blue Sync FM.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Bell/Parabolic_FM_single.wav"
+    }
+  ]
+}

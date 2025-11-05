@@ -1,0 +1,18 @@
+{
+  "name": "Nord Lead Sine",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Nord Lead Sine"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Nord Rack 2 Sine.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak Sin/Novation Peak SinShp25.wav"
+    }
+  ]
+}

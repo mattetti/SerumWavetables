@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Beepstreet",
+  "instrument": "Sunrizer",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sunrizer/Sunrizer Sync b.wav"
+    }
+  ]
+}

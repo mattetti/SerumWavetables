@@ -1,0 +1,14 @@
+{
+  "name": "ARP 2600 Pulse",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "ARP 2600 Pulse"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP/ARP 2600 Pulse.wav"
+    }
+  ]
+}

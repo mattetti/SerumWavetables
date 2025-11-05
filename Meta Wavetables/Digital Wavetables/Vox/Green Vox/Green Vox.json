@@ -1,0 +1,14 @@
+{
+  "name": "Green Vox",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Green Vox"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Female/Absynth Formant Ah e.wav"
+    }
+  ]
+}

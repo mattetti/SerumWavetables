@@ -1,0 +1,18 @@
+{
+  "name": "Organ Bargain",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Organ Bargain"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "L_103/L_103_8888_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "L_103/L_103_Full_Organ_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "FM8 Edge 2",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/FM8 Edge 2.wav"
+    }
+  ]
+}

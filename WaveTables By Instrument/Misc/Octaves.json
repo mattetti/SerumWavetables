@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Octaves",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Octaves/Octaves Sq a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Octaves/Octaves Sq b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Octaves/Octaves Tri a.wav"
+    }
+  ]
+}

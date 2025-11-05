@@ -1,0 +1,18 @@
+{
+  "name": "Prophet 6 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Prophet 6 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 6 S/Prophet 6 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 6 S/Prophet 6 Square Fixed.wav"
+    }
+  ]
+}

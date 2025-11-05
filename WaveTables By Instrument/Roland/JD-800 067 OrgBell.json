@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD-800 067 OrgBell",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral/JD-800 067 OrgBell.wav"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP_8000_X_Mod_2",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP_8000_X_Mod_2/JP_8000_X_Mod_2_a_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP_8000_X_Mod_2/JP_8000_X_Mod_2_b_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP_8000_X_Mod_2/JP_8000_X_Mod_2_c_single.wav"
+    }
+  ]
+}

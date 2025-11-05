@@ -1,0 +1,18 @@
+{
+  "name": "Octametal",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Octametal"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute/Minibrute HPFOctaves.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute/Minibrute OctaMetal.wav"
+    }
+  ]
+}

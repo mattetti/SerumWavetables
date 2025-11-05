@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Circuit MonoStation PWM",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 04.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 08.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 0A.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 12.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Circuit MonoStation PWM/Novation Circuit MonoStation PWM 16.wav"
+    }
+  ]
+}

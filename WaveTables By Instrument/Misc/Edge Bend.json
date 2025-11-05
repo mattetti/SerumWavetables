@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Edge Bend",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge Bend/Edge Bend 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Edge Bend/Edge Bend 07.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Edge Bend/Edge Bend 09.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Edge Bend/Edge Bend 11.wav"
+    }
+  ]
+}

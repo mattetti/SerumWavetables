@@ -1,0 +1,14 @@
+{
+  "name": "Sunken",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Sunken"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sylenth/Sylenth_Filtered_Saw_3b.wav"
+    }
+  ]
+}

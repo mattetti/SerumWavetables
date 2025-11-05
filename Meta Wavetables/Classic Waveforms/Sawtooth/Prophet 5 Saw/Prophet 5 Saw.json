@@ -1,0 +1,14 @@
+{
+  "name": "Prophet 5 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Prophet 5 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 5 Saw/Prophet 5 SawSquare.wav"
+    }
+  ]
+}

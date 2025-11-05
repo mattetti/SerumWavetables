@@ -1,0 +1,14 @@
+{
+  "name": "Bass Station II Saw Brite",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Bass Station II Saw Brite"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station/Novation Bass Station 2 Saw 12db.wav"
+    }
+  ]
+}

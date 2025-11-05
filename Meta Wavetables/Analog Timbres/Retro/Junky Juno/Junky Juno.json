@@ -1,0 +1,22 @@
+{
+  "name": "Junky Juno",
+  "categories": [
+    "Analog Timbres",
+    "Retro",
+    "Junky Juno"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno/Juno 60 Hollow Organ.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno/Juno 60 Polybellz.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno/Juno 60 Tweezer Res (single).wav"
+    }
+  ]
+}

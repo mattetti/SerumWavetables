@@ -1,0 +1,14 @@
+{
+  "name": "Moog Modular 4X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Moog Modular 4X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Moog/Moog 55 Pulse.wav"
+    }
+  ]
+}

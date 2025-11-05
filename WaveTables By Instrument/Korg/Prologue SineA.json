@@ -1,0 +1,59 @@
+{
+  "manufacturer": "Korg",
+  "instrument": "Prologue SineA",
+  "total_frames": 13,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue SineA/Prologue SineA01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue SineA/Prologue SineA04.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue SineA/Prologue SineA06.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue SineA/Prologue SineA07.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue SineA/Prologue SineA08.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue SineA/Prologue SineA09.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue SineA/Prologue SineA10.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue SineA/Prologue SineA11.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue SineA/Prologue SineA12.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prologue SineA/Prologue SineA13.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Prologue SineA/Prologue SineA14.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Prologue SineA/Prologue SineA15.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Prologue SineA/Prologue SineA16.wav"
+    }
+  ]
+}

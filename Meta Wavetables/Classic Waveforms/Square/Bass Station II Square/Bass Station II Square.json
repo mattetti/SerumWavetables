@@ -1,0 +1,14 @@
+{
+  "name": "Bass Station II Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Bass Station II Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station/Novation Bass Station 2 PWM 00.wav"
+    }
+  ]
+}

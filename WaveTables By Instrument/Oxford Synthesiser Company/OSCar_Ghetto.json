@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Oxford Synthesiser Company",
+  "instrument": "OSCar_Ghetto",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OSCar_Ghetto/OSCar_Ghetto_Blaster_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OSCar_Ghetto/OSCar_Ghetto_Overdrive_single.wav"
+    }
+  ]
+}

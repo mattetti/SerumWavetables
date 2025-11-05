@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP_8_TriSine",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP_8_TriSine/JP_8_TriSine_Oct_Sync.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP_8_TriSine/JP_8_TriSine_Sync.wav"
+    }
+  ]
+}

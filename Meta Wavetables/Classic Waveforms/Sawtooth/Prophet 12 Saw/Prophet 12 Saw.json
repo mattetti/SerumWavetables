@@ -1,0 +1,18 @@
+{
+  "name": "Prophet 12 Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Prophet 12 Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 12 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 12 Triangle.wav"
+    }
+  ]
+}

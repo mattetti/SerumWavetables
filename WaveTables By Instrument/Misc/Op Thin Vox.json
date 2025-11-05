@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Op Thin Vox",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Op Thin Vox/Op Thin Vox 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Op Thin Vox/Op Thin Vox 2.wav"
+    }
+  ]
+}

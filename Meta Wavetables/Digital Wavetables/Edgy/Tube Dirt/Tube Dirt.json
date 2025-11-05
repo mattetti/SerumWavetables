@@ -1,0 +1,26 @@
+{
+  "name": "Tube Dirt",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Tube Dirt"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Massive/Massive Dirty Tube b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Massive/Massive Dirty Tube c.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Massive/Massive Dirty Tube d.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Massive/Massive_Dirty_Tube_a_single.wav"
+    }
+  ]
+}

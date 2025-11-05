@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Tetra",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Tetra/Tetra Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Tetra/Tetra SawTri.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Tetra/Tetra Triangle.wav"
+    }
+  ]
+}

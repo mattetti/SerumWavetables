@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Animoog Vocoder Sweep",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Animoog Vocoder Sweep.wav"
+    }
+  ]
+}

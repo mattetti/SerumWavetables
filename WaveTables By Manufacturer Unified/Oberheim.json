@@ -1,0 +1,290 @@
+{
+  "manufacturer": "Oberheim",
+  "total_frames": 71,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "O/OB-8 Hi Res Tracking 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB/OB-8 Triangle.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB/OB-SEM Big Tom.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB/OB-SEM Pulse 75.wav"
+    },
+    {
+      "frame": 4,
+      "source": "OB/OB-X Saw.wav"
+    },
+    {
+      "frame": 5,
+      "source": "OB/OB6 Tri.wav"
+    },
+    {
+      "frame": 6,
+      "source": "OB/OB_SEM_Rapper_single.wav"
+    },
+    {
+      "frame": 7,
+      "source": "OB/SE-1 Saw Sub.wav"
+    },
+    {
+      "frame": 8,
+      "source": "OB/SE-1 Square Sub.wav"
+    },
+    {
+      "frame": 9,
+      "source": "OB-8/ARP 2600 Triangle.wav"
+    },
+    {
+      "frame": 10,
+      "source": "OB-8/OB-8 Saw.wav"
+    },
+    {
+      "frame": 11,
+      "source": "OB-8/OB-8 Triangle.wav"
+    },
+    {
+      "frame": 12,
+      "source": "OB-8 Hi Res Tracking/OB-8 Hi Res Tracking 1.wav"
+    },
+    {
+      "frame": 13,
+      "source": "OB-8 Hi Res Tracking/OB-8 Hi Res Tracking 3.wav"
+    },
+    {
+      "frame": 14,
+      "source": "OB-SEM/OB-SEM Pulse 10.wav"
+    },
+    {
+      "frame": 15,
+      "source": "OB-SEM/OB-SEM Pulse 25.wav"
+    },
+    {
+      "frame": 16,
+      "source": "OB-SEM/OB-SEM Pulse 75.wav"
+    },
+    {
+      "frame": 17,
+      "source": "OB-SEM/OB-SEM Pulse 99.wav"
+    },
+    {
+      "frame": 18,
+      "source": "OB-SEM/OB-SEM Saw.wav"
+    },
+    {
+      "frame": 19,
+      "source": "OB-SEM/OB-SEM Square.wav"
+    },
+    {
+      "frame": 20,
+      "source": "OB6/Juno 60 SubSquare.wav"
+    },
+    {
+      "frame": 21,
+      "source": "OB6/OB6 PWM 09.wav"
+    },
+    {
+      "frame": 22,
+      "source": "OB6/OB6 Saw.wav"
+    },
+    {
+      "frame": 23,
+      "source": "OB6/OB6 Square.wav"
+    },
+    {
+      "frame": 24,
+      "source": "OB6/OB6 Sub Oct.wav"
+    },
+    {
+      "frame": 25,
+      "source": "OB6/OB6 Tri.wav"
+    },
+    {
+      "frame": 26,
+      "source": "OB6 PWM/OB6 PWM 00.wav"
+    },
+    {
+      "frame": 27,
+      "source": "OB6 PWM/OB6 PWM 01.wav"
+    },
+    {
+      "frame": 28,
+      "source": "OB6 PWM/OB6 PWM 02.wav"
+    },
+    {
+      "frame": 29,
+      "source": "OB6 PWM/OB6 PWM 03.wav"
+    },
+    {
+      "frame": 30,
+      "source": "OB6 PWM/OB6 PWM 04.wav"
+    },
+    {
+      "frame": 31,
+      "source": "OB6 PWM/OB6 PWM 05.wav"
+    },
+    {
+      "frame": 32,
+      "source": "OB6 PWM/OB6 PWM 06.wav"
+    },
+    {
+      "frame": 33,
+      "source": "OB6 PWM/OB6 PWM 07.wav"
+    },
+    {
+      "frame": 34,
+      "source": "OB6 PWM/OB6 PWM 08.wav"
+    },
+    {
+      "frame": 35,
+      "source": "OB6 PWM/OB6 PWM 09.wav"
+    },
+    {
+      "frame": 36,
+      "source": "OB6 PWM/OB6 PWM 0b.wav"
+    },
+    {
+      "frame": 37,
+      "source": "OB6 PWM/OB6 PWM 10.wav"
+    },
+    {
+      "frame": 38,
+      "source": "OB6 PWM/OB6 PWM 11.wav"
+    },
+    {
+      "frame": 39,
+      "source": "OB6 PWM/OB6 PWM 12.wav"
+    },
+    {
+      "frame": 40,
+      "source": "OB6 PWM/OB6 PWM 13.wav"
+    },
+    {
+      "frame": 41,
+      "source": "OB6 PWM/OB6 PWM 15.wav"
+    },
+    {
+      "frame": 42,
+      "source": "OB6 S/OB6 Saw.wav"
+    },
+    {
+      "frame": 43,
+      "source": "OB6 S/OB6 Square.wav"
+    },
+    {
+      "frame": 44,
+      "source": "OB8 Pulse/OB8 Pulse 02.wav"
+    },
+    {
+      "frame": 45,
+      "source": "OB8 Pulse/OB8 Pulse 03.wav"
+    },
+    {
+      "frame": 46,
+      "source": "OB8 Pulse/OB8 Pulse 05.wav"
+    },
+    {
+      "frame": 47,
+      "source": "OB8 Pulse/OB8 Pulse 06.wav"
+    },
+    {
+      "frame": 48,
+      "source": "OB8 Pulse/OB8 Pulse 07.wav"
+    },
+    {
+      "frame": 49,
+      "source": "OB8 Pulse/OB8 Pulse 08.wav"
+    },
+    {
+      "frame": 50,
+      "source": "OB8 Pulse/OB8 Pulse 09.wav"
+    },
+    {
+      "frame": 51,
+      "source": "OB8 Pulse/OB8 Pulse 10.wav"
+    },
+    {
+      "frame": 52,
+      "source": "OB8 Pulse/OB8 Pulse 11.wav"
+    },
+    {
+      "frame": 53,
+      "source": "OB8 Pulse/OB8 Pulse 12.wav"
+    },
+    {
+      "frame": 54,
+      "source": "OB8 Pulse/OB8 Pulse 13.wav"
+    },
+    {
+      "frame": 55,
+      "source": "OB8 Pulse/OB8 Pulse 14.wav"
+    },
+    {
+      "frame": 56,
+      "source": "OB8 Pulse/OB8 Pulse 15.wav"
+    },
+    {
+      "frame": 57,
+      "source": "OB8 Pulse/OB8 Pulse 16.wav"
+    },
+    {
+      "frame": 58,
+      "source": "OB8 Pulse/OB8 Pulse 17.wav"
+    },
+    {
+      "frame": 59,
+      "source": "OB8_SawSync/OB8_SawSync_01_a16.wav"
+    },
+    {
+      "frame": 60,
+      "source": "OB8_SawSync/OB8_SawSync_02_a16.wav"
+    },
+    {
+      "frame": 61,
+      "source": "OB8_SawSync/OB8_SawSync_03_a16.wav"
+    },
+    {
+      "frame": 62,
+      "source": "OB8_SawSync/OB8_SawSync_04_a16.wav"
+    },
+    {
+      "frame": 63,
+      "source": "OB8_SawSync/OB8_SawSync_05_a16.wav"
+    },
+    {
+      "frame": 64,
+      "source": "OB8_SawSync/OB8_SawSync_06_a16.wav"
+    },
+    {
+      "frame": 65,
+      "source": "OB8_SawSync/OB8_SawSync_07_a16.wav"
+    },
+    {
+      "frame": 66,
+      "source": "OB8_SawSync/OB8_SawSync_08_a16.wav"
+    },
+    {
+      "frame": 67,
+      "source": "OB8_SawSync/OB8_SawSync_09_a16.wav"
+    },
+    {
+      "frame": 68,
+      "source": "OB8_SawSync/OB8_SawSync_10_a16.wav"
+    },
+    {
+      "frame": 69,
+      "source": "OB8_SawSync/OB8_SawSync_11_a16.wav"
+    },
+    {
+      "frame": 70,
+      "source": "Sub/OB-8 Saw.wav"
+    }
+  ]
+}

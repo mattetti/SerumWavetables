@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute Tri",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute Tri/Minibrute Tri Mtl0100 Brute.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute Tri/Minibrute Tri.wav"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Table Square",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Table Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Waldorf/Minibrute Tri Sine Mtl100.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 12 Digitalism a.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Waldorf/Waldorf I35 00.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Hamburg Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Hamburg Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ES2/ES2 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ES2/OB-8 Saw No. 5.wav"
+    }
+  ]
+}

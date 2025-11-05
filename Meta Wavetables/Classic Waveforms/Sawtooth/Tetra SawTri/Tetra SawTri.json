@@ -1,0 +1,14 @@
+{
+  "name": "Tetra SawTri",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Tetra SawTri"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Tetra/Tetra SawTri.wav"
+    }
+  ]
+}

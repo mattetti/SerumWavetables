@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Digital",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Digital/Digital_Blue_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Digital/FM Mechanic 1.wav"
+    }
+  ]
+}

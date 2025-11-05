@@ -1,0 +1,30 @@
+{
+  "name": "Rectified",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Rectified"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Virus Rectified/Virus Rectified a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Virus Rectified/Virus Rectified b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Virus Rectified/Virus Rectified c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Virus Rectified/Virus Rectified d.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Virus Rectified/Virus Rectified e.wav"
+    }
+  ]
+}

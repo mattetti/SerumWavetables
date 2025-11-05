@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Lush",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lush/Lush Modern Sub Square MS.wav"
+    }
+  ]
+}

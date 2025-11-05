@@ -1,0 +1,34 @@
+{
+  "name": "Primes",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Primes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1 Primes/RZ1 Primes 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ1 Primes/RZ1 Primes 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1 Primes/RZ1 Primes 3.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ1 Primes/RZ1 Primes 4.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ1 Primes/RZ1 Primes 5.wav"
+    },
+    {
+      "frame": 5,
+      "source": "RZ1 Primes/RZ1 Primes 6.wav"
+    }
+  ]
+}

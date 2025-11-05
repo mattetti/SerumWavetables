@@ -1,0 +1,22 @@
+{
+  "name": "Retro Fringe",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Retro Fringe"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute/Minibrute Retrorgan a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute/Minibrute Retrorgan b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Minibrute/Prophet 12 Thin Drive.wav"
+    }
+  ]
+}

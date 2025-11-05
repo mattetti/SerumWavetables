@@ -1,0 +1,18 @@
+{
+  "name": "CS-80 Cream",
+  "categories": [
+    "Analog Timbres",
+    "Warm",
+    "CS-80 Cream"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS/CS_80_SinePulse_Dark.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS/Mini_TriSaw_Oct_Sweep_4.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "French Metal Sub 2",
+  "categories": [
+    "Analog Timbres",
+    "Octaves",
+    "French Metal Sub 2"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2a.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Minibrute Metal Sub/Minibrute Metal Sub 2b.wav"
+    }
+  ]
+}

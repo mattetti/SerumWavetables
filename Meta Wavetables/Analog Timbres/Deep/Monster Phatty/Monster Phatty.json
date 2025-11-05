@@ -1,0 +1,22 @@
+{
+  "name": "Monster Phatty",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "Monster Phatty"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Little Phatty/Little Phatty Blatt Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Little Phatty/Little Phatty Sync Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Little Phatty/Little Phatty Thinny.wav"
+    }
+  ]
+}

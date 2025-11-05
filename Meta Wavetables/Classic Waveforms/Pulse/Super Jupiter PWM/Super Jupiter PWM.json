@@ -1,0 +1,70 @@
+{
+  "name": "Super Jupiter PWM",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Super Jupiter PWM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MKS-80/MKS-80 PWM 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "MKS-80/MKS-80 PWM 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "MKS-80/MKS-80 PWM 04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "MKS-80/MKS-80 PWM 05.wav"
+    },
+    {
+      "frame": 4,
+      "source": "MKS-80/MKS-80 PWM 06.wav"
+    },
+    {
+      "frame": 5,
+      "source": "MKS-80/MKS-80 PWM 07.wav"
+    },
+    {
+      "frame": 6,
+      "source": "MKS-80/MKS-80 PWM 08.wav"
+    },
+    {
+      "frame": 7,
+      "source": "MKS-80/MKS-80 PWM 09.wav"
+    },
+    {
+      "frame": 8,
+      "source": "MKS-80/MKS-80 PWM 09b.wav"
+    },
+    {
+      "frame": 9,
+      "source": "MKS-80/MKS-80 PWM 10.wav"
+    },
+    {
+      "frame": 10,
+      "source": "MKS-80/MKS-80 PWM 11.wav"
+    },
+    {
+      "frame": 11,
+      "source": "MKS-80/MKS-80 PWM 12.wav"
+    },
+    {
+      "frame": 12,
+      "source": "MKS-80/MKS-80 PWM 13.wav"
+    },
+    {
+      "frame": 13,
+      "source": "MKS-80/MKS-80 PWM 14.wav"
+    },
+    {
+      "frame": 14,
+      "source": "MKS-80/MKS-80 PWM 15.wav"
+    }
+  ]
+}

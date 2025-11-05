@@ -1,0 +1,14 @@
+{
+  "name": "Bothered",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Bothered"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MonoPoly/MonoPoly Slaved Pulses.wav"
+    }
+  ]
+}

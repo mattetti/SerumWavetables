@@ -1,0 +1,22 @@
+{
+  "name": "Green Rubber",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Green Rubber"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Absynth/Absynth Buzzer.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Absynth/Absynth Rubber Wave.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Absynth/ZB Stepped PulseSaw 2.wav"
+    }
+  ]
+}

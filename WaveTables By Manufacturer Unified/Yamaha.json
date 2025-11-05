@@ -1,0 +1,118 @@
+{
+  "manufacturer": "Yamaha",
+  "total_frames": 28,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "CS/CS_80_SinePulse_Dark.wav"
+    },
+    {
+      "frame": 1,
+      "source": "CS S/CS Saw Sine.wav"
+    },
+    {
+      "frame": 2,
+      "source": "CS S/CS Saw.wav"
+    },
+    {
+      "frame": 3,
+      "source": "CS S/CS Sine.wav"
+    },
+    {
+      "frame": 4,
+      "source": "CS S/CS Square.wav"
+    },
+    {
+      "frame": 5,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 01.wav"
+    },
+    {
+      "frame": 6,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 02.wav"
+    },
+    {
+      "frame": 7,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 03.wav"
+    },
+    {
+      "frame": 8,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 04.wav"
+    },
+    {
+      "frame": 9,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 05.wav"
+    },
+    {
+      "frame": 10,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 06.wav"
+    },
+    {
+      "frame": 11,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 07.wav"
+    },
+    {
+      "frame": 12,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 08.wav"
+    },
+    {
+      "frame": 13,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 09.wav"
+    },
+    {
+      "frame": 14,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 11.wav"
+    },
+    {
+      "frame": 15,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 13.wav"
+    },
+    {
+      "frame": 16,
+      "source": "CS-80 Ring Mod/CS-80 Ring Mod 14.wav"
+    },
+    {
+      "frame": 17,
+      "source": "CS_80/CS_80_Dark_Square_Gain_Fix.wav"
+    },
+    {
+      "frame": 18,
+      "source": "CS_80/CS_80_Deep_Gain_Fix.wav"
+    },
+    {
+      "frame": 19,
+      "source": "CS_80/CS_80_Dr_Dre_Gain_Fix.wav"
+    },
+    {
+      "frame": 20,
+      "source": "CS_80/CS_80_Pulse_Gain_Fix.wav"
+    },
+    {
+      "frame": 21,
+      "source": "CS_80/CS_80_SawSquare_Gain_Fix.wav"
+    },
+    {
+      "frame": 22,
+      "source": "CS_80/CS_80_Sub_Noise_Gain_Fix.wav"
+    },
+    {
+      "frame": 23,
+      "source": "CS_80_S/CS_80_SawSine_Gain_Fix.wav"
+    },
+    {
+      "frame": 24,
+      "source": "CS_80_S/CS_80_Sine_Thin_Pulse_Gain_Fix.wav"
+    },
+    {
+      "frame": 25,
+      "source": "Omega/CS-80 Ring Mod 08.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Omega/CS-80 Ring Mod 10.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Omega/CS-80 Ring Mod 12.wav"
+    }
+  ]
+}

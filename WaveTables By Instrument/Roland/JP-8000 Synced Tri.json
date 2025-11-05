@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8000 Synced Tri",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/JP-8000 Synced Tri b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000 Synced Tri/JP-8000 Synced Tri a.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JP-8000 Synced Tri/JP-8000 Synced Tri b.wav"
+    }
+  ]
+}

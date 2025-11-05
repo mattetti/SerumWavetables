@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ARP",
+  "instrument": "ARP Odyssey Pulse",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ARP Odyssey Pulse/ARP Odyssey Pulse 25.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ARP Odyssey Pulse/ARP Odyssey Pulse 50.wav"
+    },
+    {
+      "frame": 2,
+      "source": "ARP Odyssey Pulse/ARP Odyssey Pulse 75.wav"
+    },
+    {
+      "frame": 3,
+      "source": "ARP Odyssey Pulse/ARP Odyssey Pulse 99.wav"
+    }
+  ]
+}

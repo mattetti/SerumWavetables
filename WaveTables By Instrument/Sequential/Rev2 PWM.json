@@ -1,0 +1,43 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Rev2 PWM",
+  "total_frames": 9,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2 PWM/Rev2 PWM 00.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Rev2 PWM/Rev2 PWM 05.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Rev2 PWM/Rev2 PWM 11.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Rev2 PWM/Rev2 PWM 17.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Rev2 PWM/Rev2 PWM 23.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Rev2 PWM/Rev2 PWM 30.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Rev2 PWM/Rev2 PWM 36.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Rev2 PWM/Rev2 PWM 42.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Rev2 PWM/Rev2 PWM 50.wav"
+    }
+  ]
+}

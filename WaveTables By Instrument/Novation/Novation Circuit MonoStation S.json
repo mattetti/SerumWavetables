@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Circuit MonoStation S",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SIn.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SinDirty.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Circuit MonoStation S/Novation Circuit MonoStation SqrDirty.wav"
+    }
+  ]
+}

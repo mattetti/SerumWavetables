@@ -1,0 +1,14 @@
+{
+  "name": "Prophet 6 Sub",
+  "categories": [
+    "Classic Waveforms",
+    "Sub Osc",
+    "Prophet 6 Sub"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 6 Sub +6dB.wav"
+    }
+  ]
+}

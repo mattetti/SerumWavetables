@@ -1,0 +1,18 @@
+{
+  "name": "Lean Years",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Lean Years"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_a_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_b_single.wav"
+    }
+  ]
+}

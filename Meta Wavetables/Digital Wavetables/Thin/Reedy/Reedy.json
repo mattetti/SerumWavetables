@@ -1,0 +1,18 @@
+{
+  "name": "Reedy",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Reedy"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Chipwave/Chipwave 5.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Chipwave/Chipwave 6 Short Noise.wav"
+    }
+  ]
+}

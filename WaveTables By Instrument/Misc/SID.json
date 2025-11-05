@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "SID",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "SID/2bit Saw.wav"
+    }
+  ]
+}

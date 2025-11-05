@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JX-8P",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JX-8P/JX-8P Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JX-8P/JX-8P Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JX-8P/JX-8P Thin Pulse.wav"
+    }
+  ]
+}

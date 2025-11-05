@@ -1,0 +1,22 @@
+{
+  "name": "Schnoz",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Schnoz"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 12 Deep/Prophet 12 Deep SineSaw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal a.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal b.wav"
+    }
+  ]
+}

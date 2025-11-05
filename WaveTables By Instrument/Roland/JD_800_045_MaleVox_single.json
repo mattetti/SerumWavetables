@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JD_800_045_MaleVox_single",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP/JD_800_045_MaleVox_single.wav"
+    }
+  ]
+}

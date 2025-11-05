@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "MKS-80 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MKS-80 S/MKS-80 Saw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "MKS-80 S/MKS-80 Square.wav"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Mechanic",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Mechanic"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/FM Mechanic 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM/JP-8000 Feedback 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM/Massive DigiGrain.wav"
+    },
+    {
+      "frame": 3,
+      "source": "FM/Massive Frozen.wav"
+    }
+  ]
+}

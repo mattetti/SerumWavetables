@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Clavia",
+  "instrument": "Nord Rack 2",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "No/Nord Rack 2 Sine.wav"
+    },
+    {
+      "frame": 1,
+      "source": "No/Nord Rack 2 Tri.wav"
+    }
+  ]
+}

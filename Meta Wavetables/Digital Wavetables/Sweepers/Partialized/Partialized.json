@@ -1,0 +1,66 @@
+{
+  "name": "Partialized",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Partialized"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prologue SqB/Prologue SqB03.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prologue SqB/Prologue SqB04.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prologue SqB/Prologue SqB05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prologue SqB/Prologue SqB06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Prologue SqB/Prologue SqB07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Prologue SqB/Prologue SqB08.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Prologue SqB/Prologue SqB09.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Prologue SqB/Prologue SqB10.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Prologue SqB/Prologue SqB11.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Prologue SqB/Prologue SqB12.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Prologue SqB/Prologue SqB13.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Prologue SqB/Prologue SqB14.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Prologue SqB/Prologue SqB15.wav"
+    },
+    {
+      "frame": 13,
+      "source": "Prologue SqB/Prologue SqB16.wav"
+    }
+  ]
+}

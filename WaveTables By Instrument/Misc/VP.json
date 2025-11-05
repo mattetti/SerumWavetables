@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "VP",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "VP/Lazerbass Vocal Wave.wav"
+    },
+    {
+      "frame": 1,
+      "source": "VP/Op Vocal FM.wav"
+    }
+  ]
+}

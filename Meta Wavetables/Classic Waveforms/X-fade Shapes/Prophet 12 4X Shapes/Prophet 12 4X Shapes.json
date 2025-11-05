@@ -1,0 +1,14 @@
+{
+  "name": "Prophet 12 4X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Prophet 12 4X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 12 Square.wav"
+    }
+  ]
+}

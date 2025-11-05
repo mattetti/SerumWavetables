@@ -1,0 +1,14 @@
+{
+  "name": "JX-3P 3X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "JX-3P 3X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "MonoPoly/JX-3P Thin Pulse.wav"
+    }
+  ]
+}

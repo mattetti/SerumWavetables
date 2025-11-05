@@ -1,0 +1,14 @@
+{
+  "name": "Hamburg Square",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Hamburg Square"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ES2/ES2 Square.wav"
+    }
+  ]
+}

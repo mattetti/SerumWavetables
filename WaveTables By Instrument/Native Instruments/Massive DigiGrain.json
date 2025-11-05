@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive DigiGrain",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM/Massive DigiGrain.wav"
+    }
+  ]
+}

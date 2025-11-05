@@ -1,0 +1,22 @@
+{
+  "name": "Nasal Spray",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Nasal Spray"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1/Lazerbass Saw 2 16.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ1/Lazerbass Saw 2 51.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1/RZ1 Solids 2.wav"
+    }
+  ]
+}

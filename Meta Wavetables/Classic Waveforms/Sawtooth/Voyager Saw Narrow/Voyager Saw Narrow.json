@@ -1,0 +1,14 @@
+{
+  "name": "Voyager Saw Narrow",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Voyager Saw Narrow"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Voyager/Voyager Square Dark.wav"
+    }
+  ]
+}

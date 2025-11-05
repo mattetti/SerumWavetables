@@ -1,0 +1,26 @@
+{
+  "name": "Rap Battles",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "Rap Battles"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB/OB-SEM Big Tom.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB/OB_SEM_Rapper_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "OB/SE-1 Saw Sub.wav"
+    },
+    {
+      "frame": 3,
+      "source": "OB/SE-1 Square Sub.wav"
+    }
+  ]
+}

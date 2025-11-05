@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Choir_Full",
+  "total_frames": 5,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Choir_Full/Choir_Full_Ahs_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Choir_Full/Choir_Full_Mms__2db_single.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Choir_Full/Choir_Full_Ohs_1_single.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Choir_Full/Choir_Full_Ohs_3_single.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Choir_Full/Choir_Full_Oos_single.wav"
+    }
+  ]
+}

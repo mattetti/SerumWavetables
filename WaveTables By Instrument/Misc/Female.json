@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Female",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Female/Female_Breathy_Ahs_single_3.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Female/Female_Breathy_Mms_single_3.wav"
+    }
+  ]
+}

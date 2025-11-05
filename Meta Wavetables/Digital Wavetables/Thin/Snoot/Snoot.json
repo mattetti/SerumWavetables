@@ -1,0 +1,14 @@
+{
+  "name": "Snoot",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Snoot"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Op Thin Vox/Op Thin Vox 2.wav"
+    }
+  ]
+}

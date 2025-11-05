@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Arturia",
+  "instrument": "Minibrute Brutallizer",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP/Minibrute Brutallizer.wav"
+    }
+  ]
+}

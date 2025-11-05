@@ -1,0 +1,38 @@
+{
+  "name": "Knobby Sync",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Knobby Sync"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini SyncSub/Mini SyncSub 02.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Mini SyncSub/Mini SyncSub 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet/Mini SyncSub 04.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Mini SyncSub/Mini SyncSub 06.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Mini SyncSub/Mini SyncSub 07.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Mini SyncSub/Mini SyncSub 09.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Mini SyncSub/Mini SyncSub 10.wav"
+    }
+  ]
+}

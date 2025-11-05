@@ -1,0 +1,14 @@
+{
+  "name": "Minitaur Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Minitaur Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Minitaur S/Minitaur Saw.wav"
+    }
+  ]
+}

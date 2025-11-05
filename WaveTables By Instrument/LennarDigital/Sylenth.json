@@ -1,0 +1,59 @@
+{
+  "manufacturer": "LennarDigital",
+  "instrument": "Sylenth",
+  "total_frames": 13,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Generated/Sylenth Overdriven Oct Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "S/Sylenth Overdriven Oct Saw.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Sylenth/Massive Dirty Tube c.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Sylenth/Sylenth Filtered Saw 1.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Sylenth/Sylenth Nasal 4Osc.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Sylenth/Sylenth Overdriven Oct Square.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Sylenth/Sylenth Saw.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Sylenth/Sylenth Solid Teeth.wav"
+    },
+    {
+      "frame": 8,
+      "source": "Sylenth/Sylenth Square.wav"
+    },
+    {
+      "frame": 9,
+      "source": "Sylenth/Sylenth TriSaw Oct.wav"
+    },
+    {
+      "frame": 10,
+      "source": "Sylenth/Sylenth TriSaw.wav"
+    },
+    {
+      "frame": 11,
+      "source": "Sylenth/Sylenth_Filtered_Saw_3b.wav"
+    },
+    {
+      "frame": 12,
+      "source": "Sylenth/Virus Triangle.wav"
+    }
+  ]
+}

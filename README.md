@@ -1,27 +1,68 @@
-# Serum Wavetables Backup
+# Serum Wavetables Collection
 
-This repository is a backup of waveforms for Serum, a popular VST (Virtual Studio Technology) plugin developed by Xfer Records.
+A comprehensive collection of wavetables for Xfer Serum, organized for easy browsing and use.
 
-## What is a Wavetable?
+## Download
 
-A wavetable is a collection of single-cycle waveforms that can be used to create complex sounds. Each waveform in the table represents a different timbre, and by scanning through these waveforms, a synthesizer can produce dynamic and evolving sounds. Wavetables allow for a wide range of sonic possibilities.
+1. Go to the [Releases](https://github.com/mattetti/SerumWavetables/releases) page
+2. Select the desired release version
+3. Click **Download Source** to download the wavetable collection
 
-## How Wavetables are Used in Serum
+## Installation
 
-Serum is a wavetable synthesizer that allows users to import, edit, and manipulate wavetables to create unique sounds. In Serum, wavetables can be used in the following ways:
+1. Locate your Serum Tables folder:
+   - Open Serum in your DAW
+   - Click the menu icon in Serum's interface
+   - Select "Show Serum Presets folder"
+   - Navigate to the **Tables** subfolder within the Presets folder
 
-- **Oscillators**: Serum uses wavetables as the primary sound source for its oscillators. Users can select and scan through different waveforms to shape the sound.
-- **Modulation**: Wavetables can be modulated using various sources such as LFOs (Low-Frequency Oscillators) and envelopes to create dynamic changes in the sound.
-- **Effects**: Serum provides a range of effects that can be applied to wavetables, including distortion, reverb, and delay, to further enhance the sound.
+2. Unpack the downloaded archive into the Tables folder
 
-This repository serves as a backup of various wavetables that can be used within Serum to expand your sound design capabilities.
+3. Click the wavetable oscillator menu and see the new wavetables
 
-## Usage
+## Structure
 
-To use these wavetables in Serum:
+This repository contains three main collections:
 
-1. Download the wavetables from this repository.
-2. Open Serum in your DAW (Digital Audio Workstation).
-3. Import the wavetables into Serum by dragging and dropping them into the oscillator section or using the import function.
+### Frames
 
-Enjoy exploring and creating new sounds!
+Individual wavetable frames that can be used to create custom wavetables or used directly in Serum. These are single-cycle waveforms sampled from various synthesizers and sound sources.
+
+### WaveTables By Instrument
+
+Wavetables organized by instrument for easy browsing when looking for specific sounds based on known sources.
+
+### WaveTables By Manufacturer Unified
+
+Wavetables organized by manufacturer providing a unified wavetable per manufacturer.
+
+### Meta Tables
+
+Meta tables are special wavetables constructed from different individual frames, combining various timbres and textures into cohesive wavetable sequences. These provide smooth morphing between different sound sources.
+
+## Wavetable Optimization
+
+These wavetables are optimized for disk space efficiency:
+
+- Wavetables contain fewer frames than typical because **Serum's interpolation** fills in the gaps
+- To enable smooth morphing: Open the wavetable editor in Serum and activate **interpolation**
+- This approach reduces disk usage while maintaining high sound quality through Serum's built-in interpolation engine
+
+Frames are still duplicated across different wavetables for the user's convenience, allowing easy access to specific sounds without needing to reconstruct wavetables from individual frames.
+
+## JSON Sidecar Files
+
+Each wavetable may include a `.json` "sidecar file" with the same name as the `.wav` file. These files contain metadata about the wavetable:
+
+- **Source information**: Original frame sources
+- **Frame count**: Number of individual frames in the wavetable
+- **Categories/Tags**: tags for categorization
+
+The JSON files aren't used by Serum but provide useful context and could be used by wavetable management tools. They are human-readable and can be opened with any text editor so you can explore the details of each wavetable.
+
+## Usage Tips
+
+1. Use the **Frames** folder to build your own custom wavetables
+2. Enable interpolation in Serum's wavetable editor for smooth morphing if you want to go from frames to frame.
+5. Check the JSON files for additional information about each wavetable's origin and characteristics
+

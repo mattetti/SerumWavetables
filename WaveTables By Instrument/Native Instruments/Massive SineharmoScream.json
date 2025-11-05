@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive SineharmoScream",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Lazerbass/Massive SineharmoScream.wav"
+    }
+  ]
+}

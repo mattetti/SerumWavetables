@@ -1,0 +1,38 @@
+{
+  "name": "Juno 60 PWM+",
+  "categories": [
+    "Classic Waveforms",
+    "Pulse",
+    "Juno 60 PWM+"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 40.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 50.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 60.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 75.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 85.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Juno 60 Pulse/Juno 60 Pulse 99.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Juno 60 S/Juno 60 Square.wav"
+    }
+  ]
+}

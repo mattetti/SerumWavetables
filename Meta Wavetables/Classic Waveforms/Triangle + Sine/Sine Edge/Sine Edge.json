@@ -1,0 +1,18 @@
+{
+  "name": "Sine Edge",
+  "categories": [
+    "Classic Waveforms",
+    "Triangle + Sine",
+    "Sine Edge"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet 12 Sine/Prophet 12 Sine b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet 12 Sine/Prophet 12 Sine c.wav"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive Screamer",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Edge/Massive Screamer.wav"
+    }
+  ]
+}

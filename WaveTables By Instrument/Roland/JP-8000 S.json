@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP-8000 S",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JP-8000 S/JP-8000 Square.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JP-8000 S/JP-8000 Synced Squares.wav"
+    }
+  ]
+}

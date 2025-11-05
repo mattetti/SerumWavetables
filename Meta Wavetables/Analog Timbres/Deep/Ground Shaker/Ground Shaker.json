@@ -1,0 +1,18 @@
+{
+  "name": "Ground Shaker",
+  "categories": [
+    "Analog Timbres",
+    "Deep",
+    "Ground Shaker"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno/Juno 60 PWM Saw Filter.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Juno/Juno_60_Deep_single.wav"
+    }
+  ]
+}

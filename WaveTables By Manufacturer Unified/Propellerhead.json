@@ -1,0 +1,10 @@
+{
+  "manufacturer": "Propellerhead",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/Thor PhaseMod 1.wav"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Hollow Ring",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Hollow Ring"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Omega/CS-80 Ring Mod 10.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Omega/CS-80 Ring Mod 12.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Omega/JP-8000 Ring SawTri.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Omega/Omega Hollow-IL.wav"
+    }
+  ]
+}

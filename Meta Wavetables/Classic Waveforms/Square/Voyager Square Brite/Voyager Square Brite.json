@@ -1,0 +1,14 @@
+{
+  "name": "Voyager Square Brite",
+  "categories": [
+    "Classic Waveforms",
+    "Square",
+    "Voyager Square Brite"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Voyager/Voyager Square Brite.wav"
+    }
+  ]
+}

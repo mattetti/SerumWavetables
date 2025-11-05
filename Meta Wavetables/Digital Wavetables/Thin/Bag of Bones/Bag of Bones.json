@@ -1,0 +1,18 @@
+{
+  "name": "Bag of Bones",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Bag of Bones"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_b_single.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_c_single.wav"
+    }
+  ]
+}

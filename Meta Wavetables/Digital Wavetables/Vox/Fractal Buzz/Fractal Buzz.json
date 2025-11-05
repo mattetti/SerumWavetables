@@ -1,0 +1,30 @@
+{
+  "name": "Fractal Buzz",
+  "categories": [
+    "Digital Wavetables",
+    "Vox",
+    "Fractal Buzz"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "JD-800/Absynth Buzzy Vowel.wav"
+    },
+    {
+      "frame": 1,
+      "source": "JD-800/Absynth Fractal Vowel.wav"
+    },
+    {
+      "frame": 2,
+      "source": "JD-800/JD-800 016 SparkVox1.wav"
+    },
+    {
+      "frame": 3,
+      "source": "JD-800/JD-800 017 SparkVox2.wav"
+    },
+    {
+      "frame": 4,
+      "source": "JD-800/Op Thin Vox 1.wav"
+    }
+  ]
+}

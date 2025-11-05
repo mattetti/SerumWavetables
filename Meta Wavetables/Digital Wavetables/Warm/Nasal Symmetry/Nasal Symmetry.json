@@ -1,0 +1,26 @@
+{
+  "name": "Nasal Symmetry",
+  "categories": [
+    "Digital Wavetables",
+    "Warm",
+    "Nasal Symmetry"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Spectral Symmetry/Spectral Symmetry 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Spectral Symmetry/Spectral Symmetry 07.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Spectral Symmetry/Spectral Symmetry 09.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Spectral Symmetry/Spectral Symmetry 10.wav"
+    }
+  ]
+}

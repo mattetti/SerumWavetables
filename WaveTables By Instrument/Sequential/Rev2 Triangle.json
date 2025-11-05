@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sequential",
+  "instrument": "Rev2 Triangle",
+  "total_frames": 4,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Rev2 Triangle/Rev2 Triangle 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Rev2 Triangle/Rev2 Triangle 2.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Rev2 Triangle/Rev2 Triangle 3.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Rev2 Triangle/Rev2 Triangle 4.wav"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "OB-X Saw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "OB-X Saw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "OB-SEM/OB-SEM Pulse 75.wav"
+    },
+    {
+      "frame": 1,
+      "source": "OB/OB-X Saw.wav"
+    }
+  ]
+}

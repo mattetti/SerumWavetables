@@ -1,0 +1,26 @@
+{
+  "name": "Bass Station II Drive 4X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Bass Station II Drive 4X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SawCls12ODRez.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SawCls24Dist.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SubSqrCls12Dst.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Bass Station 2 S/Novation Bass Station 2 SubSqrCls12RezDst.wav"
+    }
+  ]
+}

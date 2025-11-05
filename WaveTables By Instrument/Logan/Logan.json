@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Logan",
+  "instrument": "Logan",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Logan/Logan PercBass.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Logan/Paraphonic Full.wav"
+    }
+  ]
+}

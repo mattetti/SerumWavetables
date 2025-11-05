@@ -1,0 +1,18 @@
+{
+  "name": "Wit",
+  "categories": [
+    "Digital Wavetables",
+    "Thin",
+    "Wit"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/Thor PhaseMod 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "ZB/ZB Thin Harmonic.wav"
+    }
+  ]
+}

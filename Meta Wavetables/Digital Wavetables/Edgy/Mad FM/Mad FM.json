@@ -1,0 +1,22 @@
+{
+  "name": "Mad FM",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Mad FM"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "FM8_Edge_4/FM8_Edge_4a_Gain_Fix.wav"
+    },
+    {
+      "frame": 1,
+      "source": "FM8_Edge_4/FM8_Edge_4b_Gain_Fix.wav"
+    },
+    {
+      "frame": 2,
+      "source": "FM8_Edge_4/FM8_Edge_4c_Gain_Fix.wav"
+    }
+  ]
+}

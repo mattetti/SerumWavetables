@@ -1,0 +1,30 @@
+{
+  "name": "Peak Dirty 5X Shapes",
+  "categories": [
+    "Classic Waveforms",
+    "X-fade Shapes",
+    "Peak Dirty 5X Shapes"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak/Novation Peak BssOrgn.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak/Novation Peak OrganOD.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Novation Peak/Novation Peak SawOD.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Novation Peak/Novation Peak SqrOD.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Novation Peak/Novation Peak TubeOD.wav"
+    }
+  ]
+}

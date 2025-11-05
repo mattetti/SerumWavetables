@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Novation",
+  "instrument": "Novation Peak Tri",
+  "total_frames": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Novation Peak Tri/Novation Peak Tri.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Novation Peak Tri/Novation Peak TriShp63.wav"
+    }
+  ]
+}

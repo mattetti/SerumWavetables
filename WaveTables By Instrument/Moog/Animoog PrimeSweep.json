@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Animoog PrimeSweep",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Digital/Animoog PrimeSweep.wav"
+    }
+  ]
+}

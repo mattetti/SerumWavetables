@@ -1,0 +1,30 @@
+{
+  "name": "Little Chapel",
+  "categories": [
+    "Digital Wavetables",
+    "Bell",
+    "Little Chapel"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "RZ1/Lazerbass Sq Multi 2 13 C.wav"
+    },
+    {
+      "frame": 1,
+      "source": "RZ1/Lazerbass Sq Multi 2 3.wav"
+    },
+    {
+      "frame": 2,
+      "source": "RZ1/OP Bell 2.wav"
+    },
+    {
+      "frame": 3,
+      "source": "RZ1/RZ1 Bell Mix 1.wav"
+    },
+    {
+      "frame": 4,
+      "source": "RZ1/RZ1 Bell Mix 2.wav"
+    }
+  ]
+}

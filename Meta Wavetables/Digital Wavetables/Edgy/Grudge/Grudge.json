@@ -1,0 +1,22 @@
+{
+  "name": "Grudge",
+  "categories": [
+    "Digital Wavetables",
+    "Edgy",
+    "Grudge"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Vanguard/Trance Pulse FM.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Vanguard/Vanguard Comb Square.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Vanguard/Vanguard_Sine_FM_Drive_single.wav"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "manufacturer": "Misc",
+  "instrument": "Wcreator",
+  "total_frames": 6,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Wcreator/Wcreator 2.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Wcreator/Wcreator 3.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Wcreator/Wcreator 5.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Wcreator/Wcreator 6 bn.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Wcreator/Wcreator 7 a.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Wcreator/Wcreator 8 c.wav"
+    }
+  ]
+}

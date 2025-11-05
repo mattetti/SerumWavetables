@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Native Instruments",
+  "instrument": "Massive Drive PhsDst",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "ZB/Massive Drive PhsDst.wav"
+    }
+  ]
+}

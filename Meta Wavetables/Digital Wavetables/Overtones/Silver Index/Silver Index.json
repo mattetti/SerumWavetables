@@ -1,0 +1,26 @@
+{
+  "name": "Silver Index",
+  "categories": [
+    "Digital Wavetables",
+    "Overtones",
+    "Silver Index"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "P/PPG 1.wav"
+    },
+    {
+      "frame": 1,
+      "source": "P/PPG 2 Epiano.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet VS/Prophet VS 126 Bell Prt.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prophet VS/Prophet VS 64 Orient.wav"
+    }
+  ]
+}

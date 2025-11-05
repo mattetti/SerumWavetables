@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Moog",
+  "instrument": "Little Phatty",
+  "total_frames": 3,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Little Phatty/Little Phatty Blatt Pulse.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Little Phatty/Little Phatty Sync Pulse.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Little Phatty/Little Phatty Thinny.wav"
+    }
+  ]
+}

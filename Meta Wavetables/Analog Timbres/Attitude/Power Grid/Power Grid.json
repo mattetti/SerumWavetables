@@ -1,0 +1,26 @@
+{
+  "name": "Power Grid",
+  "categories": [
+    "Analog Timbres",
+    "Attitude",
+    "Power Grid"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Prophet/Prophet 12 Digitalism b.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Prophet/Prophet 12 Mild Feedback b.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Prophet/Prophet 12 Power Saws a.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Prophet/Prophet 12 Power Saws b.wav"
+    }
+  ]
+}

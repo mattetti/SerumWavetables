@@ -1,0 +1,42 @@
+{
+  "name": "Haul",
+  "categories": [
+    "Digital Wavetables",
+    "Sweepers",
+    "Haul"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 01.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 03.wav"
+    },
+    {
+      "frame": 2,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 05.wav"
+    },
+    {
+      "frame": 3,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 09.wav"
+    },
+    {
+      "frame": 4,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 11.wav"
+    },
+    {
+      "frame": 5,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 13.wav"
+    },
+    {
+      "frame": 6,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 15.wav"
+    },
+    {
+      "frame": 7,
+      "source": "Serum Hollow FM/Serum Hollow FM 2 16.wav"
+    }
+  ]
+}

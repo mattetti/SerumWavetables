@@ -1,0 +1,11 @@
+{
+  "manufacturer": "Roland",
+  "instrument": "JP_8_PulseSine_Sync",
+  "total_frames": 1,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Mini/JP_8_PulseSine_Sync.wav"
+    }
+  ]
+}

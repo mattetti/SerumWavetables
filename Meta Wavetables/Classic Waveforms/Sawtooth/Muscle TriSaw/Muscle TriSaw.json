@@ -1,0 +1,18 @@
+{
+  "name": "Muscle TriSaw",
+  "categories": [
+    "Classic Waveforms",
+    "Sawtooth",
+    "Muscle TriSaw"
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Sy/Sylenth Muscle TriSaw.wav"
+    },
+    {
+      "frame": 1,
+      "source": "Sy/Synthetic Trance Square.wav"
+    }
+  ]
+}
