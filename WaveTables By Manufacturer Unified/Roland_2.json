@@ -1,0 +1,513 @@
+{
+  "manufacturer": "Roland",
+  "part": 2,
+  "total_parts": 2,
+  "total_frames": 101,
+  "frames": [
+    {
+      "frame": 0,
+      "source": "Juno 60 Saw/Juno 60 Saw Pulse 99.wav",
+      "global_frame": 256
+    },
+    {
+      "frame": 1,
+      "source": "Juno 60 Saw/Juno 60 Saw.wav",
+      "global_frame": 257
+    },
+    {
+      "frame": 2,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 10.wav",
+      "global_frame": 258
+    },
+    {
+      "frame": 3,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 25.wav",
+      "global_frame": 259
+    },
+    {
+      "frame": 4,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 40.wav",
+      "global_frame": 260
+    },
+    {
+      "frame": 5,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 50.wav",
+      "global_frame": 261
+    },
+    {
+      "frame": 6,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 60.wav",
+      "global_frame": 262
+    },
+    {
+      "frame": 7,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 75.wav",
+      "global_frame": 263
+    },
+    {
+      "frame": 8,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 85.wav",
+      "global_frame": 264
+    },
+    {
+      "frame": 9,
+      "source": "Juno 60 Saw Pulse/Juno 60 Saw Pulse 99.wav",
+      "global_frame": 265
+    },
+    {
+      "frame": 10,
+      "source": "Juno 60 Sub/Juno 60 Sub.wav",
+      "global_frame": 266
+    },
+    {
+      "frame": 11,
+      "source": "Juno 60 Sub/Juno 60 SubSaw.wav",
+      "global_frame": 267
+    },
+    {
+      "frame": 12,
+      "source": "Juno 60 Sub/Juno 60 SubSquare.wav",
+      "global_frame": 268
+    },
+    {
+      "frame": 13,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 10.wav",
+      "global_frame": 269
+    },
+    {
+      "frame": 14,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 25.wav",
+      "global_frame": 270
+    },
+    {
+      "frame": 15,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 40.wav",
+      "global_frame": 271
+    },
+    {
+      "frame": 16,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 50.wav",
+      "global_frame": 272
+    },
+    {
+      "frame": 17,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 60.wav",
+      "global_frame": 273
+    },
+    {
+      "frame": 18,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 75.wav",
+      "global_frame": 274
+    },
+    {
+      "frame": 19,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 85.wav",
+      "global_frame": 275
+    },
+    {
+      "frame": 20,
+      "source": "Juno 60 Sub Pulse/Juno 60 Sub Pulse 99.wav",
+      "global_frame": 276
+    },
+    {
+      "frame": 21,
+      "source": "Juno 60 Sub Saw/Juno 60 Sub Saw Pulse 99.wav",
+      "global_frame": 277
+    },
+    {
+      "frame": 22,
+      "source": "Juno 60 Sub Saw/Juno 60 Sub Saw Square.wav",
+      "global_frame": 278
+    },
+    {
+      "frame": 23,
+      "source": "Jupiter/Jupiter 8 Square.wav",
+      "global_frame": 279
+    },
+    {
+      "frame": 24,
+      "source": "Jupiter/Jupiter 8 Triangle.wav",
+      "global_frame": 280
+    },
+    {
+      "frame": 25,
+      "source": "Jupiter/Jupiter_8_Sine_single.wav",
+      "global_frame": 281
+    },
+    {
+      "frame": 26,
+      "source": "Jupiter 8 S/Jupiter 8 Saw.wav",
+      "global_frame": 282
+    },
+    {
+      "frame": 27,
+      "source": "Jupiter 8 S/Jupiter 8 Square.wav",
+      "global_frame": 283
+    },
+    {
+      "frame": 28,
+      "source": "MKS-80/Jupiter 8 Triangle.wav",
+      "global_frame": 284
+    },
+    {
+      "frame": 29,
+      "source": "MKS-80/MKS-80 PWM 02.wav",
+      "global_frame": 285
+    },
+    {
+      "frame": 30,
+      "source": "MKS-80/MKS-80 PWM 03.wav",
+      "global_frame": 286
+    },
+    {
+      "frame": 31,
+      "source": "MKS-80/MKS-80 PWM 04.wav",
+      "global_frame": 287
+    },
+    {
+      "frame": 32,
+      "source": "MKS-80/MKS-80 PWM 05.wav",
+      "global_frame": 288
+    },
+    {
+      "frame": 33,
+      "source": "MKS-80/MKS-80 PWM 06.wav",
+      "global_frame": 289
+    },
+    {
+      "frame": 34,
+      "source": "MKS-80/MKS-80 PWM 07.wav",
+      "global_frame": 290
+    },
+    {
+      "frame": 35,
+      "source": "MKS-80/MKS-80 PWM 08.wav",
+      "global_frame": 291
+    },
+    {
+      "frame": 36,
+      "source": "MKS-80/MKS-80 PWM 09.wav",
+      "global_frame": 292
+    },
+    {
+      "frame": 37,
+      "source": "MKS-80/MKS-80 PWM 09b.wav",
+      "global_frame": 293
+    },
+    {
+      "frame": 38,
+      "source": "MKS-80/MKS-80 PWM 10.wav",
+      "global_frame": 294
+    },
+    {
+      "frame": 39,
+      "source": "MKS-80/MKS-80 PWM 11.wav",
+      "global_frame": 295
+    },
+    {
+      "frame": 40,
+      "source": "MKS-80/MKS-80 PWM 12.wav",
+      "global_frame": 296
+    },
+    {
+      "frame": 41,
+      "source": "MKS-80/MKS-80 PWM 13.wav",
+      "global_frame": 297
+    },
+    {
+      "frame": 42,
+      "source": "MKS-80/MKS-80 PWM 14.wav",
+      "global_frame": 298
+    },
+    {
+      "frame": 43,
+      "source": "MKS-80/MKS-80 PWM 15.wav",
+      "global_frame": 299
+    },
+    {
+      "frame": 44,
+      "source": "MKS-80/MKS-80 Square.wav",
+      "global_frame": 300
+    },
+    {
+      "frame": 45,
+      "source": "MKS-80/MKS-80 Triangle.wav",
+      "global_frame": 301
+    },
+    {
+      "frame": 46,
+      "source": "MKS-80 S/MKS-80 Saw.wav",
+      "global_frame": 302
+    },
+    {
+      "frame": 47,
+      "source": "MKS-80 S/MKS-80 Square.wav",
+      "global_frame": 303
+    },
+    {
+      "frame": 48,
+      "source": "Mini/JP_8_PulseSine_Sync.wav",
+      "global_frame": 304
+    },
+    {
+      "frame": 49,
+      "source": "Omega/JP-8000 Ring SawTri.wav",
+      "global_frame": 305
+    },
+    {
+      "frame": 50,
+      "source": "Omega/SH-101 Mean PW.wav",
+      "global_frame": 306
+    },
+    {
+      "frame": 51,
+      "source": "RD/RD CLAV MS.wav",
+      "global_frame": 307
+    },
+    {
+      "frame": 52,
+      "source": "RD/RD_EP7_single.wav",
+      "global_frame": 308
+    },
+    {
+      "frame": 53,
+      "source": "RD/RD_Vibes_single.wav",
+      "global_frame": 309
+    },
+    {
+      "frame": 54,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 1.wav",
+      "global_frame": 310
+    },
+    {
+      "frame": 55,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 2.wav",
+      "global_frame": 311
+    },
+    {
+      "frame": 56,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 3.wav",
+      "global_frame": 312
+    },
+    {
+      "frame": 57,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 4.wav",
+      "global_frame": 313
+    },
+    {
+      "frame": 58,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 5.wav",
+      "global_frame": 314
+    },
+    {
+      "frame": 59,
+      "source": "RS-09 Organ Wave/RS-09 Organ Wave 6.wav",
+      "global_frame": 315
+    },
+    {
+      "frame": 60,
+      "source": "RZ2/JD-800 065 DigiChime.wav",
+      "global_frame": 316
+    },
+    {
+      "frame": 61,
+      "source": "S/SE-02 Triangle.wav",
+      "global_frame": 317
+    },
+    {
+      "frame": 62,
+      "source": "SE-02/Moog Modular Sine.wav",
+      "global_frame": 318
+    },
+    {
+      "frame": 63,
+      "source": "SE-02/SE-02 Pulse Narrow.wav",
+      "global_frame": 319
+    },
+    {
+      "frame": 64,
+      "source": "SE-02/SE-02 Pulse Wide.wav",
+      "global_frame": 320
+    },
+    {
+      "frame": 65,
+      "source": "SE-02/SE-02 Saw.wav",
+      "global_frame": 321
+    },
+    {
+      "frame": 66,
+      "source": "SE-02/SE-02 Square +4dB.wav",
+      "global_frame": 322
+    },
+    {
+      "frame": 67,
+      "source": "SE-02/SE-02 Square.wav",
+      "global_frame": 323
+    },
+    {
+      "frame": 68,
+      "source": "SE-02/SE-02 TriSaw.wav",
+      "global_frame": 324
+    },
+    {
+      "frame": 69,
+      "source": "SE-02/SE-02 Triangle.wav",
+      "global_frame": 325
+    },
+    {
+      "frame": 70,
+      "source": "SE-02 S/SE-02 Saw.wav",
+      "global_frame": 326
+    },
+    {
+      "frame": 71,
+      "source": "SE-02 S/SE-02 Square +4dB.wav",
+      "global_frame": 327
+    },
+    {
+      "frame": 72,
+      "source": "SE-02 Tri/SE-02 TriSaw.wav",
+      "global_frame": 328
+    },
+    {
+      "frame": 73,
+      "source": "SE-02 Tri/SE-02 Triangle.wav",
+      "global_frame": 329
+    },
+    {
+      "frame": 74,
+      "source": "SH-101/Juno 60 Sub Pulse 40.wav",
+      "global_frame": 330
+    },
+    {
+      "frame": 75,
+      "source": "SH-101/SH-101 Fat Saw.wav",
+      "global_frame": 331
+    },
+    {
+      "frame": 76,
+      "source": "SH-101/SH-101 Mean PW.wav",
+      "global_frame": 332
+    },
+    {
+      "frame": 77,
+      "source": "SH-101/SH-101 Narrow Pulse Sub.wav",
+      "global_frame": 333
+    },
+    {
+      "frame": 78,
+      "source": "SH-101/SH-101 Pulse.wav",
+      "global_frame": 334
+    },
+    {
+      "frame": 79,
+      "source": "SH-101/SH-101 Square.wav",
+      "global_frame": 335
+    },
+    {
+      "frame": 80,
+      "source": "SH-101/SH-101 Squaw.wav",
+      "global_frame": 336
+    },
+    {
+      "frame": 81,
+      "source": "SH-101/SH-101 Sub.wav",
+      "global_frame": 337
+    },
+    {
+      "frame": 82,
+      "source": "SH-101/SH-101 Super Click.wav",
+      "global_frame": 338
+    },
+    {
+      "frame": 83,
+      "source": "SH-101/SH-101 Super Pulse.wav",
+      "global_frame": 339
+    },
+    {
+      "frame": 84,
+      "source": "SH-2000/SH-2000 Accordion.wav",
+      "global_frame": 340
+    },
+    {
+      "frame": 85,
+      "source": "SH-2000/SH-2000 Xylosquare.wav",
+      "global_frame": 341
+    },
+    {
+      "frame": 86,
+      "source": "SH-2000 T/SH-2000 Trumpet.wav",
+      "global_frame": 342
+    },
+    {
+      "frame": 87,
+      "source": "SH-2000 T/SH-2000 TubaSaw.wav",
+      "global_frame": 343
+    },
+    {
+      "frame": 88,
+      "source": "Spectral/JD-800 066 BellWave.wav",
+      "global_frame": 344
+    },
+    {
+      "frame": 89,
+      "source": "Spectral/JD-800 067 OrgBell.wav",
+      "global_frame": 345
+    },
+    {
+      "frame": 90,
+      "source": "Sub/JP-8000 Triangle.wav",
+      "global_frame": 346
+    },
+    {
+      "frame": 91,
+      "source": "TB-303 S/TB-303 Saw.wav",
+      "global_frame": 347
+    },
+    {
+      "frame": 92,
+      "source": "TB-303 S/TB-303 Square.wav",
+      "global_frame": 348
+    },
+    {
+      "frame": 93,
+      "source": "VP/JD_800_045_MaleVox_single.wav",
+      "global_frame": 349
+    },
+    {
+      "frame": 94,
+      "source": "VP/VP_330_Female_single 2.wav",
+      "global_frame": 350
+    },
+    {
+      "frame": 95,
+      "source": "VP_330/VP_330_Female_single 2.wav",
+      "global_frame": 351
+    },
+    {
+      "frame": 96,
+      "source": "VP_330/VP_330_Octavox_single.wav",
+      "global_frame": 352
+    },
+    {
+      "frame": 97,
+      "source": "VP_330/VP_330_Vox_single 2.wav",
+      "global_frame": 353
+    },
+    {
+      "frame": 98,
+      "source": "Vox/RS-09 Organ Wave 1.wav",
+      "global_frame": 354
+    },
+    {
+      "frame": 99,
+      "source": "ZB/JP-8000 Plastic X-Mod a.wav",
+      "global_frame": 355
+    },
+    {
+      "frame": 100,
+      "source": "ZB/JP-8000 Plastic X-Mod b.wav",
+      "global_frame": 356
+    }
+  ]
+}
