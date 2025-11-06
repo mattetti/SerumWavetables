@@ -1,6 +1,6 @@
 {
   "manufacturer": "Native Instruments",
-  "total_frames": 87,
+  "total_frames": 89,
   "frames": [
     {
       "frame": 0,
@@ -80,274 +80,282 @@
     },
     {
       "frame": 19,
-      "source": "FM/Massive DigiGrain.wav"
+      "source": "FM/FM8 TX Wave 7.wav"
     },
     {
       "frame": 20,
-      "source": "FM/Massive Frozen.wav"
+      "source": "FM/FM8 TX Wave 8.wav"
     },
     {
       "frame": 21,
-      "source": "FM/Massive Talk 2.wav"
+      "source": "FM/Massive DigiGrain.wav"
     },
     {
       "frame": 22,
-      "source": "FM8/FM8 HighHarm a.wav"
+      "source": "FM/Massive Frozen.wav"
     },
     {
       "frame": 23,
-      "source": "FM8/FM8_HighHarm_b_single.wav"
+      "source": "FM/Massive Talk 2.wav"
     },
     {
       "frame": 24,
-      "source": "FM8/FM8_HighHarm_c_single.wav"
+      "source": "FM8/FM8 HighHarm a.wav"
     },
     {
       "frame": 25,
-      "source": "FM8 Sharp/FM8 Sharp 01.wav"
+      "source": "FM8/FM8_HighHarm_b_single.wav"
     },
     {
       "frame": 26,
-      "source": "FM8 Sharp/FM8 Sharp 03.wav"
+      "source": "FM8/FM8_HighHarm_c_single.wav"
     },
     {
       "frame": 27,
-      "source": "FM8 Sharp/FM8 Sharp 05.wav"
+      "source": "FM8 Sharp/FM8 Sharp 01.wav"
     },
     {
       "frame": 28,
-      "source": "FM8 Sharp/FM8 Sharp 07.wav"
+      "source": "FM8 Sharp/FM8 Sharp 03.wav"
     },
     {
       "frame": 29,
-      "source": "FM8 Teeth/FM8 Teeth 01.wav"
+      "source": "FM8 Sharp/FM8 Sharp 05.wav"
     },
     {
       "frame": 30,
-      "source": "FM8 Teeth/FM8 Teeth 03.wav"
+      "source": "FM8 Sharp/FM8 Sharp 07.wav"
     },
     {
       "frame": 31,
-      "source": "FM8 Teeth/FM8 Teeth 05.wav"
+      "source": "FM8 Teeth/FM8 Teeth 01.wav"
     },
     {
       "frame": 32,
-      "source": "FM8 Teeth/FM8 Teeth 07.wav"
+      "source": "FM8 Teeth/FM8 Teeth 03.wav"
     },
     {
       "frame": 33,
-      "source": "FM8 Teeth/FM8 Teeth 09.wav"
+      "source": "FM8 Teeth/FM8 Teeth 05.wav"
     },
     {
       "frame": 34,
-      "source": "FM8 Teeth/FM8 Teeth 11.wav"
+      "source": "FM8 Teeth/FM8 Teeth 07.wav"
     },
     {
       "frame": 35,
-      "source": "FM8 Teeth/FM8 Teeth 13.wav"
+      "source": "FM8 Teeth/FM8 Teeth 09.wav"
     },
     {
       "frame": 36,
-      "source": "FM8_Edge_4/FM8_Edge_4a_Gain_Fix.wav"
+      "source": "FM8 Teeth/FM8 Teeth 11.wav"
     },
     {
       "frame": 37,
-      "source": "FM8_Edge_4/FM8_Edge_4b_Gain_Fix.wav"
+      "source": "FM8 Teeth/FM8 Teeth 13.wav"
     },
     {
       "frame": 38,
-      "source": "FM8_Edge_4/FM8_Edge_4c_Gain_Fix.wav"
+      "source": "FM8_Edge_4/FM8_Edge_4a_Gain_Fix.wav"
     },
     {
       "frame": 39,
-      "source": "FM8_Simple/FM8_Simple_01_Gain_Fix.wav"
+      "source": "FM8_Edge_4/FM8_Edge_4b_Gain_Fix.wav"
     },
     {
       "frame": 40,
-      "source": "FM8_Simple/FM8_Simple_02_Gain_Fix.wav"
+      "source": "FM8_Edge_4/FM8_Edge_4c_Gain_Fix.wav"
     },
     {
       "frame": 41,
-      "source": "FM8_Simple/FM8_Simple_03_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_01_Gain_Fix.wav"
     },
     {
       "frame": 42,
-      "source": "FM8_Simple/FM8_Simple_04_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_02_Gain_Fix.wav"
     },
     {
       "frame": 43,
-      "source": "FM8_Simple/FM8_Simple_05_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_03_Gain_Fix.wav"
     },
     {
       "frame": 44,
-      "source": "FM8_Simple/FM8_Simple_06_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_04_Gain_Fix.wav"
     },
     {
       "frame": 45,
-      "source": "FM8_Simple/FM8_Simple_07_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_05_Gain_Fix.wav"
     },
     {
       "frame": 46,
-      "source": "FM8_Simple/FM8_Simple_08_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_06_Gain_Fix.wav"
     },
     {
       "frame": 47,
-      "source": "FM8_Simple/FM8_Simple_09_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_07_Gain_Fix.wav"
     },
     {
       "frame": 48,
-      "source": "FM8_Simple/FM8_Simple_10_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_08_Gain_Fix.wav"
     },
     {
       "frame": 49,
-      "source": "FM8_Simple/FM8_Simple_11_Gain_Fix.wav"
+      "source": "FM8_Simple/FM8_Simple_09_Gain_Fix.wav"
     },
     {
       "frame": 50,
-      "source": "Female/Absynth Formant Ah e.wav"
+      "source": "FM8_Simple/FM8_Simple_10_Gain_Fix.wav"
     },
     {
       "frame": 51,
-      "source": "Lazerbass/Absynth Buzzy Vowel.wav"
+      "source": "FM8_Simple/FM8_Simple_11_Gain_Fix.wav"
     },
     {
       "frame": 52,
-      "source": "Lazerbass/Massive RoughMath 1.wav"
+      "source": "Female/Absynth Formant Ah e.wav"
     },
     {
       "frame": 53,
-      "source": "Lazerbass/Massive Sineharmo.wav"
+      "source": "Lazerbass/Absynth Buzzy Vowel.wav"
     },
     {
       "frame": 54,
-      "source": "Lazerbass/Massive SineharmoScream.wav"
+      "source": "Lazerbass/Massive RoughMath 1.wav"
     },
     {
       "frame": 55,
-      "source": "Lazerbass/Massive Talk 1.wav"
+      "source": "Lazerbass/Massive Sineharmo.wav"
     },
     {
       "frame": 56,
-      "source": "Massive/Massive Dirty Tube b.wav"
+      "source": "Lazerbass/Massive SineharmoScream.wav"
     },
     {
       "frame": 57,
-      "source": "Massive/Massive Dirty Tube c.wav"
+      "source": "Lazerbass/Massive Talk 1.wav"
     },
     {
       "frame": 58,
-      "source": "Massive/Massive Dirty Tube d.wav"
+      "source": "Massive/Massive Dirty Tube b.wav"
     },
     {
       "frame": 59,
-      "source": "Massive/Massive Groan II 70 Mod 1.wav"
+      "source": "Massive/Massive Dirty Tube c.wav"
     },
     {
       "frame": 60,
-      "source": "Massive/Massive Magyr Tube a.wav"
+      "source": "Massive/Massive Dirty Tube d.wav"
     },
     {
       "frame": 61,
-      "source": "Massive/Massive Magyr Tube b.wav"
+      "source": "Massive/Massive Groan II 70 Mod 1.wav"
     },
     {
       "frame": 62,
-      "source": "Massive/Massive_Dirty_Tube_a_single.wav"
+      "source": "Massive/Massive Magyr Tube a.wav"
     },
     {
       "frame": 63,
-      "source": "Massive/Massive_Stront_Phase_a_single.wav"
+      "source": "Massive/Massive Magyr Tube b.wav"
     },
     {
       "frame": 64,
-      "source": "Massive/Massive_Tube_Scream_a_single.wav"
+      "source": "Massive/Massive_Dirty_Tube_a_single.wav"
     },
     {
       "frame": 65,
-      "source": "Massive/RZ1 Solids 1.wav"
+      "source": "Massive/Massive_Stront_Phase_a_single.wav"
     },
     {
       "frame": 66,
-      "source": "Massive Bender Tube/Massive Bender Tube a.wav"
+      "source": "Massive/Massive_Tube_Scream_a_single.wav"
     },
     {
       "frame": 67,
-      "source": "Massive Bender Tube/Massive Bender Tube b.wav"
+      "source": "Massive/RZ1 Solids 1.wav"
     },
     {
       "frame": 68,
-      "source": "Massive Bender Tube/Massive Bender Tube c.wav"
+      "source": "Massive Bender Tube/Massive Bender Tube a.wav"
     },
     {
       "frame": 69,
-      "source": "Massive Bender Tube/Massive Bender Tube d.wav"
+      "source": "Massive Bender Tube/Massive Bender Tube b.wav"
     },
     {
       "frame": 70,
-      "source": "Massive SineScream/Massive SineScream 01.wav"
+      "source": "Massive Bender Tube/Massive Bender Tube c.wav"
     },
     {
       "frame": 71,
-      "source": "Massive SineScream/Massive SineScream 02.wav"
+      "source": "Massive Bender Tube/Massive Bender Tube d.wav"
     },
     {
       "frame": 72,
-      "source": "Massive SineScream/Massive SineScream 03.wav"
+      "source": "Massive SineScream/Massive SineScream 01.wav"
     },
     {
       "frame": 73,
-      "source": "Massive SineScream/Massive SineScream 04.wav"
+      "source": "Massive SineScream/Massive SineScream 02.wav"
     },
     {
       "frame": 74,
-      "source": "Massive SineScream/Massive SineScream 05.wav"
+      "source": "Massive SineScream/Massive SineScream 03.wav"
     },
     {
       "frame": 75,
-      "source": "Massive SineScream/Massive SineScream 06.wav"
+      "source": "Massive SineScream/Massive SineScream 04.wav"
     },
     {
       "frame": 76,
-      "source": "Massive SineScream/Massive SineScream 07.wav"
+      "source": "Massive SineScream/Massive SineScream 05.wav"
     },
     {
       "frame": 77,
-      "source": "Op/Massive Talk 1.wav"
+      "source": "Massive SineScream/Massive SineScream 06.wav"
     },
     {
       "frame": 78,
-      "source": "RZ2/FM8 Edge 3.wav"
+      "source": "Massive SineScream/Massive SineScream 07.wav"
     },
     {
       "frame": 79,
-      "source": "RZ2/Massive Squelchy 7.wav"
+      "source": "Op/Massive Talk 1.wav"
     },
     {
       "frame": 80,
-      "source": "ZB/FM8 Edge 1.wav"
+      "source": "RZ2/FM8 Edge 3.wav"
     },
     {
       "frame": 81,
-      "source": "ZB/FM8 Edge 2.wav"
+      "source": "RZ2/Massive Squelchy 7.wav"
     },
     {
       "frame": 82,
-      "source": "ZB/Massive DigiSineHarm a.wav"
+      "source": "ZB/FM8 Edge 1.wav"
     },
     {
       "frame": 83,
-      "source": "ZB/Massive DigiSineHarm b.wav"
+      "source": "ZB/FM8 Edge 2.wav"
     },
     {
       "frame": 84,
-      "source": "ZB/Massive Drive PhsDst.wav"
+      "source": "ZB/Massive DigiSineHarm a.wav"
     },
     {
       "frame": 85,
-      "source": "ZB/Massive Squelchy 2.wav"
+      "source": "ZB/Massive DigiSineHarm b.wav"
     },
     {
       "frame": 86,
+      "source": "ZB/Massive Drive PhsDst.wav"
+    },
+    {
+      "frame": 87,
+      "source": "ZB/Massive Squelchy 2.wav"
+    },
+    {
+      "frame": 88,
       "source": "ZB/Massive Squelchy 3.wav"
     }
   ]

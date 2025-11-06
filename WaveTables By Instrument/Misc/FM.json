@@ -1,7 +1,7 @@
 {
   "manufacturer": "Misc",
   "instrument": "FM",
-  "total_frames": 9,
+  "total_frames": 10,
   "frames": [
     {
       "frame": 0,
@@ -9,34 +9,38 @@
     },
     {
       "frame": 1,
-      "source": "FM/FM 6th Formant.wav"
+      "source": "FM/FM 3rd Frmnt 1 6.wav"
     },
     {
       "frame": 2,
-      "source": "FM/FM Attack Bell.wav"
+      "source": "FM/FM 6th Formant.wav"
     },
     {
       "frame": 3,
-      "source": "FM/FM Basic FM 1.wav"
+      "source": "FM/FM Attack Bell.wav"
     },
     {
       "frame": 4,
-      "source": "FM/FM Mechanic 1.wav"
+      "source": "FM/FM Basic FM 1.wav"
     },
     {
       "frame": 5,
-      "source": "FM/FM Mechanic 2.wav"
+      "source": "FM/FM Mechanic 1.wav"
     },
     {
       "frame": 6,
-      "source": "FM/Modeled Bell Noise.wav"
+      "source": "FM/FM Mechanic 2.wav"
     },
     {
       "frame": 7,
-      "source": "FM/RZ1 Syn Dis 1.wav"
+      "source": "FM/Modeled Bell Noise.wav"
     },
     {
       "frame": 8,
+      "source": "FM/RZ1 Syn Dis 1.wav"
+    },
+    {
+      "frame": 9,
       "source": "FM/RZ2 Pitched Noise 2 MS.wav"
     }
   ]

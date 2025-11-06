@@ -1,6 +1,6 @@
 {
   "manufacturer": "Access",
-  "total_frames": 26,
+  "total_frames": 31,
   "frames": [
     {
       "frame": 0,
@@ -84,26 +84,46 @@
     },
     {
       "frame": 20,
-      "source": "Virus S/Virus Saw.wav"
+      "source": "Virus Rectified/Virus Rectified a.wav"
     },
     {
       "frame": 21,
-      "source": "Virus S/Virus Sine.wav"
+      "source": "Virus Rectified/Virus Rectified b.wav"
     },
     {
       "frame": 22,
-      "source": "Virus S/Virus Square.wav"
+      "source": "Virus Rectified/Virus Rectified c.wav"
     },
     {
       "frame": 23,
-      "source": "Virus Teeth/Virus Teeth a.wav"
+      "source": "Virus Rectified/Virus Rectified d.wav"
     },
     {
       "frame": 24,
-      "source": "Virus Teeth/Virus Teeth b.wav"
+      "source": "Virus Rectified/Virus Rectified e.wav"
     },
     {
       "frame": 25,
+      "source": "Virus S/Virus Saw.wav"
+    },
+    {
+      "frame": 26,
+      "source": "Virus S/Virus Sine.wav"
+    },
+    {
+      "frame": 27,
+      "source": "Virus S/Virus Square.wav"
+    },
+    {
+      "frame": 28,
+      "source": "Virus Teeth/Virus Teeth a.wav"
+    },
+    {
+      "frame": 29,
+      "source": "Virus Teeth/Virus Teeth b.wav"
+    },
+    {
+      "frame": 30,
       "source": "Virus Teeth/Virus Teeth c.wav"
     }
   ]

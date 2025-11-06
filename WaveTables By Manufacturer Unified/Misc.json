@@ -1,6 +1,6 @@
 {
   "manufacturer": "Misc",
-  "total_frames": 203,
+  "total_frames": 207,
   "frames": [
     {
       "frame": 0,
@@ -156,662 +156,678 @@
     },
     {
       "frame": 38,
-      "source": "FM/FM 6th Formant.wav"
+      "source": "FM/FM 3rd Frmnt 1 6.wav"
     },
     {
       "frame": 39,
-      "source": "FM/FM Attack Bell.wav"
+      "source": "FM/FM 6th Formant.wav"
     },
     {
       "frame": 40,
-      "source": "FM/FM Basic FM 1.wav"
+      "source": "FM/FM Attack Bell.wav"
     },
     {
       "frame": 41,
-      "source": "FM/FM Mechanic 1.wav"
+      "source": "FM/FM Basic FM 1.wav"
     },
     {
       "frame": 42,
-      "source": "FM/FM Mechanic 2.wav"
+      "source": "FM/FM Mechanic 1.wav"
     },
     {
       "frame": 43,
-      "source": "FM/Modeled Bell Noise.wav"
+      "source": "FM/FM Mechanic 2.wav"
     },
     {
       "frame": 44,
-      "source": "FM/RZ1 Syn Dis 1.wav"
+      "source": "FM/Modeled Bell Noise.wav"
     },
     {
       "frame": 45,
-      "source": "FM/RZ2 Pitched Noise 2 MS.wav"
+      "source": "FM/RZ1 Syn Dis 1.wav"
     },
     {
       "frame": 46,
-      "source": "FM Idea/FM Idea 1 a.wav"
+      "source": "FM/RZ2 Pitched Noise 2 MS.wav"
     },
     {
       "frame": 47,
-      "source": "FM Idea/FM Idea 1 b.wav"
+      "source": "FM Idea/FM Idea 1 a.wav"
     },
     {
       "frame": 48,
-      "source": "FM Idea/FM Idea 1 c.wav"
+      "source": "FM Idea/FM Idea 1 b.wav"
     },
     {
       "frame": 49,
-      "source": "FM Idea/FM Idea 1 d.wav"
+      "source": "FM Idea/FM Idea 1 c.wav"
     },
     {
       "frame": 50,
-      "source": "FM Idea/FM Idea 1 e.wav"
+      "source": "FM Idea/FM Idea 1 d.wav"
     },
     {
       "frame": 51,
-      "source": "Female/Female_Breathy_Ahs_single_3.wav"
+      "source": "FM Idea/FM Idea 1 e.wav"
     },
     {
       "frame": 52,
-      "source": "Female/Female_Breathy_Mms_single_3.wav"
+      "source": "Female/Female_Breathy_Ahs_single_3.wav"
     },
     {
       "frame": 53,
-      "source": "Folded/Folded Sine.wav"
+      "source": "Female/Female_Breathy_Mms_single_3.wav"
     },
     {
       "frame": 54,
-      "source": "Generated/Generated Sawtooth.wav"
+      "source": "Folded/Folded Sine.wav"
     },
     {
       "frame": 55,
-      "source": "Generated/Generated Sine Wave.wav"
+      "source": "Generated/Generated Sawtooth.wav"
     },
     {
       "frame": 56,
-      "source": "Generated/Generated_Square_single.wav"
+      "source": "Generated/Generated Sine Wave.wav"
     },
     {
       "frame": 57,
-      "source": "Lazerbass/Lazerbass 1.wav"
+      "source": "Generated/Generated_Square_single.wav"
     },
     {
       "frame": 58,
-      "source": "Lazerbass/Lazerbass 2.wav"
+      "source": "Lazerbass/Lazerbass 1.wav"
     },
     {
       "frame": 59,
-      "source": "Lazerbass/Lazerbass 3.wav"
+      "source": "Lazerbass/Lazerbass 2.wav"
     },
     {
       "frame": 60,
-      "source": "Lazerbass/Lazerbass Bell.wav"
+      "source": "Lazerbass/Lazerbass 3.wav"
     },
     {
       "frame": 61,
-      "source": "Lazerbass/Lazerbass Frogboy.wav"
+      "source": "Lazerbass/Lazerbass Bell.wav"
     },
     {
       "frame": 62,
-      "source": "Lazerbass/Lazerbass Porcelain.wav"
+      "source": "Lazerbass/Lazerbass Frogboy.wav"
     },
     {
       "frame": 63,
-      "source": "Lazerbass/Lazerbass Pulse 3 Multi 2 15.wav"
+      "source": "Lazerbass/Lazerbass Porcelain.wav"
     },
     {
       "frame": 64,
-      "source": "Lazerbass/Lazerbass Spectral 1 a.wav"
+      "source": "Lazerbass/Lazerbass Pulse 1 Multi 2 14.wav"
     },
     {
       "frame": 65,
-      "source": "Lazerbass/Lazerbass Spectral 1 b.wav"
+      "source": "Lazerbass/Lazerbass Pulse 2 Multi 2 09.wav"
     },
     {
       "frame": 66,
-      "source": "Lazerbass/Lazerbass Sq Multi 2 07 C.wav"
+      "source": "Lazerbass/Lazerbass Pulse 3 Multi 2 15.wav"
     },
     {
       "frame": 67,
-      "source": "Lazerbass/Lazerbass Sq Multi 2 12.wav"
+      "source": "Lazerbass/Lazerbass Spectral 1 a.wav"
     },
     {
       "frame": 68,
-      "source": "Lazerbass/Lazerbass Transistor.wav"
+      "source": "Lazerbass/Lazerbass Spectral 1 b.wav"
     },
     {
       "frame": 69,
-      "source": "Lazerbass/Lazerbass Vocal Wave.wav"
+      "source": "Lazerbass/Lazerbass Sq Multi 2 07 C.wav"
     },
     {
       "frame": 70,
-      "source": "Lazerbass/RZ1 Mixed Comb 1.wav"
+      "source": "Lazerbass/Lazerbass Sq Multi 2 12.wav"
     },
     {
       "frame": 71,
-      "source": "Lazerbass/RZ1 Mixed Comb 2.wav"
+      "source": "Lazerbass/Lazerbass Transistor.wav"
     },
     {
       "frame": 72,
-      "source": "Lazerbass/RZ1 Numbered 1.wav"
+      "source": "Lazerbass/Lazerbass Vocal Wave.wav"
     },
     {
       "frame": 73,
-      "source": "Lazerbass/RZ1 Syn Dis 4.wav"
+      "source": "Lazerbass/RZ1 Mixed Comb 1.wav"
     },
     {
       "frame": 74,
-      "source": "Lush/Lush Modern Sub Square MS.wav"
+      "source": "Lazerbass/RZ1 Mixed Comb 2.wav"
     },
     {
       "frame": 75,
-      "source": "Lush Modern Sub S/Lush Modern Sub Saw MS.wav"
+      "source": "Lazerbass/RZ1 Numbered 1.wav"
     },
     {
       "frame": 76,
-      "source": "Lush Modern Sub S/Lush Modern Sub Saw.wav"
+      "source": "Lazerbass/RZ1 Syn Dis 4.wav"
     },
     {
       "frame": 77,
-      "source": "Lush Modern Sub S/Lush Modern Sub Square.wav"
+      "source": "Lazerbass/ZB Rich Wave c.wav"
     },
     {
       "frame": 78,
-      "source": "Lush Modern Sub S/Lush Modern Sub Sync 1.wav"
+      "source": "Lush/Lush Modern Sub Square MS.wav"
     },
     {
       "frame": 79,
-      "source": "Lush Modern Sub S/Lush Modern Sub Sync 2 MS.wav"
+      "source": "Lush Modern Sub S/Lush Modern Sub Saw MS.wav"
     },
     {
       "frame": 80,
-      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 1 MS.wav"
+      "source": "Lush Modern Sub S/Lush Modern Sub Saw.wav"
     },
     {
       "frame": 81,
-      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 2 MS.wav"
+      "source": "Lush Modern Sub S/Lush Modern Sub Square.wav"
     },
     {
       "frame": 82,
-      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 3 MS.wav"
+      "source": "Lush Modern Sub S/Lush Modern Sub Sync 1.wav"
     },
     {
       "frame": 83,
-      "source": "Nasal_Bend/Nasal_Bend_01_Gain_Fix.wav"
+      "source": "Lush Modern Sub S/Lush Modern Sub Sync 2 MS.wav"
     },
     {
       "frame": 84,
-      "source": "Nasal_Bend/Nasal_Bend_03_Gain_Fix.wav"
+      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 1 MS.wav"
     },
     {
       "frame": 85,
-      "source": "Nasal_Bend/Nasal_Bend_11_Gain_Fix.wav"
+      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 2 MS.wav"
     },
     {
       "frame": 86,
-      "source": "Neon/Neon Wave.wav"
+      "source": "Lush Modern Sub Sync/Lush Modern Sub Sync 3 MS.wav"
     },
     {
       "frame": 87,
-      "source": "O/Omega Edge Buzz-IL.wav"
+      "source": "Nasal_Bend/Nasal_Bend_01_Gain_Fix.wav"
     },
     {
       "frame": 88,
-      "source": "O/Omega Triple Octaver-IL.wav"
+      "source": "Nasal_Bend/Nasal_Bend_03_Gain_Fix.wav"
     },
     {
       "frame": 89,
-      "source": "O/Op Drive b.wav"
+      "source": "Nasal_Bend/Nasal_Bend_11_Gain_Fix.wav"
     },
     {
       "frame": 90,
-      "source": "Octaves/Octaves Sq a.wav"
+      "source": "Neon/Neon Wave.wav"
     },
     {
       "frame": 91,
-      "source": "Octaves/Octaves Sq b.wav"
+      "source": "O/Omega Edge Buzz-IL.wav"
     },
     {
       "frame": 92,
-      "source": "Octaves/Octaves Tri a.wav"
+      "source": "O/Omega Triple Octaver-IL.wav"
     },
     {
       "frame": 93,
-      "source": "Octaves Saw/Octaves Saw a.wav"
+      "source": "O/Op Drive b.wav"
     },
     {
       "frame": 94,
-      "source": "Octaves Saw/Octaves Saw b.wav"
+      "source": "Octaves/Octaves Sq a.wav"
     },
     {
       "frame": 95,
-      "source": "Oki/FM_Attack_Bell_single.wav"
+      "source": "Octaves/Octaves Sq b.wav"
     },
     {
       "frame": 96,
-      "source": "Oki/Oki 1.wav"
+      "source": "Octaves/Octaves Tri a.wav"
     },
     {
       "frame": 97,
-      "source": "Oki/Oki 2.wav"
+      "source": "Octaves Saw/Octaves Saw a.wav"
     },
     {
       "frame": 98,
-      "source": "Oki/Oki 3.wav"
+      "source": "Octaves Saw/Octaves Saw b.wav"
     },
     {
       "frame": 99,
-      "source": "Oki Hot Robot/Oki Hot Robot a.wav"
+      "source": "Oki/FM_Attack_Bell_single.wav"
     },
     {
       "frame": 100,
-      "source": "Oki Hot Robot/Oki Hot Robot b.wav"
+      "source": "Oki/Oki 1.wav"
     },
     {
       "frame": 101,
-      "source": "Oki Hot Robot/Oki Hot Robot c.wav"
+      "source": "Oki/Oki 2.wav"
     },
     {
       "frame": 102,
-      "source": "Oki Hot Robot/Oki Hot Robot d.wav"
+      "source": "Oki/Oki 3.wav"
     },
     {
       "frame": 103,
-      "source": "Oki Plastic/Oki Plastic a.wav"
+      "source": "Oki Hot Robot/Oki Hot Robot a.wav"
     },
     {
       "frame": 104,
-      "source": "Oki Plastic/Oki Plastic b.wav"
+      "source": "Oki Hot Robot/Oki Hot Robot b.wav"
     },
     {
       "frame": 105,
-      "source": "Omega/Omega Hip Hop Buzz-IL.wav"
+      "source": "Oki Hot Robot/Oki Hot Robot c.wav"
     },
     {
       "frame": 106,
-      "source": "Omega/Omega Hollow-IL.wav"
+      "source": "Oki Hot Robot/Oki Hot Robot d.wav"
     },
     {
       "frame": 107,
-      "source": "Omega/Omega Nasal X Mod.wav"
+      "source": "Oki Plastic/Oki Plastic a.wav"
     },
     {
       "frame": 108,
-      "source": "Omega/Omega X Mod Aliaz-IL.wav"
+      "source": "Oki Plastic/Oki Plastic b.wav"
     },
     {
       "frame": 109,
-      "source": "Op/Edge Org.wav"
+      "source": "Omega/Omega Hip Hop Buzz-IL.wav"
     },
     {
       "frame": 110,
-      "source": "Op/Op Bell 1 a.wav"
+      "source": "Omega/Omega Hollow-IL.wav"
     },
     {
       "frame": 111,
-      "source": "Op/Op Bell 1 b.wav"
+      "source": "Omega/Omega Nasal X Mod.wav"
     },
     {
       "frame": 112,
-      "source": "Op/Op Hard Bell a.wav"
+      "source": "Omega/Omega X Mod Aliaz-IL.wav"
     },
     {
       "frame": 113,
-      "source": "Op/Op Hard Bell b.wav"
+      "source": "Op/Edge Org.wav"
     },
     {
       "frame": 114,
-      "source": "Op/Op Organ 2.wav"
+      "source": "Op/Op Bell 1 a.wav"
     },
     {
       "frame": 115,
-      "source": "Op/Op Organ 3 a.wav"
+      "source": "Op/Op Bell 1 b.wav"
     },
     {
       "frame": 116,
-      "source": "Op/Op Vocal Org.wav"
+      "source": "Op/Op Hard Bell a.wav"
     },
     {
       "frame": 117,
-      "source": "Op Thin Vox/Op Thin Vox 1.wav"
+      "source": "Op/Op Hard Bell b.wav"
     },
     {
       "frame": 118,
-      "source": "Op Thin Vox/Op Thin Vox 2.wav"
+      "source": "Op/Op Organ 2.wav"
     },
     {
       "frame": 119,
-      "source": "Paraphonic/Paraphonic 8+4.wav"
+      "source": "Op/Op Organ 3 a.wav"
     },
     {
       "frame": 120,
-      "source": "Paraphonic/Paraphonic Cello.wav"
+      "source": "Op/Op Vocal Org.wav"
     },
     {
       "frame": 121,
-      "source": "Paraphonic/Paraphonic ConBass+Tuba+Cello.wav"
+      "source": "Op Thin Vox/Op Thin Vox 1.wav"
     },
     {
       "frame": 122,
-      "source": "Paraphonic/Paraphonic ConBass+Tuba.wav"
+      "source": "Op Thin Vox/Op Thin Vox 2.wav"
     },
     {
       "frame": 123,
-      "source": "Paraphonic/Paraphonic ConBass.wav"
+      "source": "Paraphonic/Paraphonic 8+4.wav"
     },
     {
       "frame": 124,
-      "source": "Paraphonic/Paraphonic Full.wav"
+      "source": "Paraphonic/Paraphonic Cello.wav"
     },
     {
       "frame": 125,
-      "source": "Paraphonic/Paraphonic Tuba+Cello.wav"
+      "source": "Paraphonic/Paraphonic ConBass+Tuba+Cello.wav"
     },
     {
       "frame": 126,
-      "source": "Paraphonic/Paraphonic Tuba.wav"
+      "source": "Paraphonic/Paraphonic ConBass+Tuba.wav"
     },
     {
       "frame": 127,
-      "source": "RZ1/Lazerbass Saw 2 16.wav"
+      "source": "Paraphonic/Paraphonic ConBass.wav"
     },
     {
       "frame": 128,
-      "source": "RZ1/Lazerbass Saw 2 51.wav"
+      "source": "Paraphonic/Paraphonic Full.wav"
     },
     {
       "frame": 129,
-      "source": "RZ1/Lazerbass Sq Multi 2 13 C.wav"
+      "source": "Paraphonic/Paraphonic Tuba+Cello.wav"
     },
     {
       "frame": 130,
-      "source": "RZ1/Lazerbass Sq Multi 2 3.wav"
+      "source": "Paraphonic/Paraphonic Tuba.wav"
     },
     {
       "frame": 131,
-      "source": "RZ1/OP Bell 2.wav"
+      "source": "RZ1/Lazerbass Saw 2 16.wav"
     },
     {
       "frame": 132,
-      "source": "RZ1/Op Vocal FM.wav"
+      "source": "RZ1/Lazerbass Saw 2 51.wav"
     },
     {
       "frame": 133,
-      "source": "RZ1/RZ1 Bell Mix 1.wav"
+      "source": "RZ1/Lazerbass Sq Multi 2 13 C.wav"
     },
     {
       "frame": 134,
-      "source": "RZ1/RZ1 Bell Mix 2.wav"
+      "source": "RZ1/Lazerbass Sq Multi 2 3.wav"
     },
     {
       "frame": 135,
-      "source": "RZ1/RZ1 Formant 3.wav"
+      "source": "RZ1/OP Bell 2.wav"
     },
     {
       "frame": 136,
-      "source": "RZ1/RZ1 Solids 2.wav"
+      "source": "RZ1/Op Vocal FM.wav"
     },
     {
       "frame": 137,
-      "source": "RZ2/Op Harmonics 1.wav"
+      "source": "RZ1/RZ1 Bell Mix 1.wav"
     },
     {
       "frame": 138,
-      "source": "RZ2/Op Noise Wave.wav"
+      "source": "RZ1/RZ1 Bell Mix 2.wav"
     },
     {
       "frame": 139,
-      "source": "RZ2/Op Organ 1 Dirty.wav"
+      "source": "RZ1/RZ1 Formant 3.wav"
     },
     {
       "frame": 140,
-      "source": "RZ2/Op Organ 4.wav"
+      "source": "RZ1/RZ1 Solids 2.wav"
     },
     {
       "frame": 141,
-      "source": "RZ2/Op Sharp 1.wav"
+      "source": "RZ2/Op Harmonics 1.wav"
     },
     {
       "frame": 142,
-      "source": "RZ2/RZ2 Numbered 1 Funda MS.wav"
+      "source": "RZ2/Op Noise Wave.wav"
     },
     {
       "frame": 143,
-      "source": "RZ2/RZ2 Numbered 2 MS.wav"
+      "source": "RZ2/Op Organ 1 Dirty.wav"
     },
     {
       "frame": 144,
-      "source": "RZ2/RZ2 Pitched Noise 1 MS.wav"
+      "source": "RZ2/Op Organ 4.wav"
     },
     {
       "frame": 145,
-      "source": "RZ2/RZ2 Primes Spectrum 5 MS.wav"
+      "source": "RZ2/Op Sharp 1.wav"
     },
     {
       "frame": 146,
-      "source": "RZ2/RZ2 Primes Spectrum 6 MS.wav"
+      "source": "RZ2/RZ2 Numbered 1 Funda MS.wav"
     },
     {
       "frame": 147,
-      "source": "RZ2/RZ2 Sick Pitch 2 Funda MS.wav"
+      "source": "RZ2/RZ2 Numbered 2 MS.wav"
     },
     {
       "frame": 148,
-      "source": "S/SE-1 Razor.wav"
+      "source": "RZ2/RZ2 Pitched Noise 1 MS.wav"
     },
     {
       "frame": 149,
-      "source": "SID/2bit Saw.wav"
+      "source": "RZ2/RZ2 Primes Spectrum 5 MS.wav"
     },
     {
       "frame": 150,
-      "source": "Sharp Mirror/Sharp Mirror 01.wav"
+      "source": "RZ2/RZ2 Primes Spectrum 6 MS.wav"
     },
     {
       "frame": 151,
-      "source": "Sharp Mirror/Sharp Mirror 03.wav"
+      "source": "RZ2/RZ2 Sick Pitch 2 Funda MS.wav"
     },
     {
       "frame": 152,
-      "source": "Sharp Mirror/Sharp Mirror 06.wav"
+      "source": "S/SE-1 Razor.wav"
     },
     {
       "frame": 153,
-      "source": "Sharp Mirror/Sharp Mirror 08.wav"
+      "source": "SID/2bit Saw.wav"
     },
     {
       "frame": 154,
-      "source": "Sharp Mirror/Sharp Mirror 11.wav"
+      "source": "Sharp Mirror/Sharp Mirror 01.wav"
     },
     {
       "frame": 155,
-      "source": "Spectral/Bell Wavetable 1.wav"
+      "source": "Sharp Mirror/Sharp Mirror 03.wav"
     },
     {
       "frame": 156,
-      "source": "Spectral/Bell Wavetable 3.wav"
+      "source": "Sharp Mirror/Sharp Mirror 06.wav"
     },
     {
       "frame": 157,
-      "source": "Spectral/Spectral Clean Bell a.wav"
+      "source": "Sharp Mirror/Sharp Mirror 08.wav"
     },
     {
       "frame": 158,
-      "source": "Spectral/Spectral Clean Bell b.wav"
+      "source": "Sharp Mirror/Sharp Mirror 11.wav"
     },
     {
       "frame": 159,
-      "source": "Spectral Crush/Spectral Crush 01.wav"
+      "source": "Spectral/Bell Wavetable 1.wav"
     },
     {
       "frame": 160,
-      "source": "Spectral Crush/Spectral Crush 02.wav"
+      "source": "Spectral/Bell Wavetable 3.wav"
     },
     {
       "frame": 161,
-      "source": "Spectral Crush/Spectral Crush 03.wav"
+      "source": "Spectral/Spectral Clean Bell a.wav"
     },
     {
       "frame": 162,
-      "source": "Spectral Crush/Spectral Crush 04.wav"
+      "source": "Spectral/Spectral Clean Bell b.wav"
     },
     {
       "frame": 163,
-      "source": "Spectral Crush/Spectral Crush 05.wav"
+      "source": "Spectral Crush/Spectral Crush 01.wav"
     },
     {
       "frame": 164,
-      "source": "Spectral Crush/Spectral Crush 06.wav"
+      "source": "Spectral Crush/Spectral Crush 02.wav"
     },
     {
       "frame": 165,
-      "source": "Spectral Dirty Bell/Spectral Dirty Bell a.wav"
+      "source": "Spectral Crush/Spectral Crush 03.wav"
     },
     {
       "frame": 166,
-      "source": "Spectral Dirty Bell/Spectral Dirty Bell b.wav"
+      "source": "Spectral Crush/Spectral Crush 04.wav"
     },
     {
       "frame": 167,
-      "source": "Spectral Sine Dirt/Spectral Sine Dirt a.wav"
+      "source": "Spectral Crush/Spectral Crush 05.wav"
     },
     {
       "frame": 168,
-      "source": "Spectral Sine Dirt/Spectral Sine Dirt b.wav"
+      "source": "Spectral Crush/Spectral Crush 06.wav"
     },
     {
       "frame": 169,
-      "source": "Spectral Sine Dirt/Spectral Sine Dirt c.wav"
+      "source": "Spectral Dirty Bell/Spectral Dirty Bell a.wav"
     },
     {
       "frame": 170,
-      "source": "Spectral Symmetry/Spectral Symmetry 01.wav"
+      "source": "Spectral Dirty Bell/Spectral Dirty Bell b.wav"
     },
     {
       "frame": 171,
-      "source": "Spectral Symmetry/Spectral Symmetry 07.wav"
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt a.wav"
     },
     {
       "frame": 172,
-      "source": "Spectral Symmetry/Spectral Symmetry 09.wav"
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt b.wav"
     },
     {
       "frame": 173,
-      "source": "Spectral Symmetry/Spectral Symmetry 10.wav"
+      "source": "Spectral Sine Dirt/Spectral Sine Dirt c.wav"
     },
     {
       "frame": 174,
-      "source": "Sy/Synthetic Trance HPulse.wav"
+      "source": "Spectral Symmetry/Spectral Symmetry 01.wav"
     },
     {
       "frame": 175,
-      "source": "Sy/Synthetic Trance Square.wav"
+      "source": "Spectral Symmetry/Spectral Symmetry 07.wav"
     },
     {
       "frame": 176,
-      "source": "Thin/Thin_Buzz_single.wav"
+      "source": "Spectral Symmetry/Spectral Symmetry 09.wav"
     },
     {
       "frame": 177,
-      "source": "Thin/Thin_Overtone_single.wav"
+      "source": "Spectral Symmetry/Spectral Symmetry 10.wav"
     },
     {
       "frame": 178,
-      "source": "Trance/Trance Pulse FM.wav"
+      "source": "Sy/Synthetic Trance HPulse.wav"
     },
     {
       "frame": 179,
-      "source": "VP/Lazerbass Vocal Wave.wav"
+      "source": "Sy/Synthetic Trance Square.wav"
     },
     {
       "frame": 180,
-      "source": "VP/Op Vocal FM.wav"
+      "source": "Thin/Thin_Buzz_single.wav"
     },
     {
       "frame": 181,
-      "source": "W/Wcreator 1.wav"
+      "source": "Thin/Thin_Overtone_single.wav"
     },
     {
       "frame": 182,
-      "source": "W/Wcreator 4.wav"
+      "source": "Trance/Trance Pulse FM.wav"
     },
     {
       "frame": 183,
-      "source": "W/Whitey FM 1.wav"
+      "source": "VP/Lazerbass Vocal Wave.wav"
     },
     {
       "frame": 184,
-      "source": "W/Whitey FM 2.wav"
+      "source": "VP/Op Vocal FM.wav"
     },
     {
       "frame": 185,
-      "source": "Wcreator/Wcreator 2.wav"
+      "source": "W/Wcreator 1.wav"
     },
     {
       "frame": 186,
-      "source": "Wcreator/Wcreator 3.wav"
+      "source": "W/Wcreator 4.wav"
     },
     {
       "frame": 187,
-      "source": "Wcreator/Wcreator 5.wav"
+      "source": "W/Whitey FM 1.wav"
     },
     {
       "frame": 188,
-      "source": "Wcreator/Wcreator 6 bn.wav"
+      "source": "W/Whitey FM 2.wav"
     },
     {
       "frame": 189,
-      "source": "Wcreator/Wcreator 7 a.wav"
+      "source": "Wcreator/Wcreator 2.wav"
     },
     {
       "frame": 190,
-      "source": "Wcreator/Wcreator 8 c.wav"
+      "source": "Wcreator/Wcreator 3.wav"
     },
     {
       "frame": 191,
-      "source": "ZB/FM Tristate 1 6 Digi.wav"
+      "source": "Wcreator/Wcreator 5.wav"
     },
     {
       "frame": 192,
-      "source": "ZB/ZB Disturbed Sine.wav"
+      "source": "Wcreator/Wcreator 6 bn.wav"
     },
     {
       "frame": 193,
-      "source": "ZB/ZB Nasal Bite 1.wav"
+      "source": "Wcreator/Wcreator 7 a.wav"
     },
     {
       "frame": 194,
-      "source": "ZB/ZB Nasal Bite 2.wav"
+      "source": "Wcreator/Wcreator 8 c.wav"
     },
     {
       "frame": 195,
-      "source": "ZB/ZB Nasal Voice 1.wav"
+      "source": "ZB/FM Tristate 1 6 Digi.wav"
     },
     {
       "frame": 196,
-      "source": "ZB/ZB Plastic Bell 1.wav"
+      "source": "ZB/ZB Disturbed Sine.wav"
     },
     {
       "frame": 197,
-      "source": "ZB/ZB Plastic Bell 2.wav"
+      "source": "ZB/ZB Nasal Bite 1.wav"
     },
     {
       "frame": 198,
-      "source": "ZB/ZB Plastic Organ 1.wav"
+      "source": "ZB/ZB Nasal Bite 2.wav"
     },
     {
       "frame": 199,
-      "source": "ZB/ZB Plastic Organ 3.wav"
+      "source": "ZB/ZB Nasal Voice 1.wav"
     },
     {
       "frame": 200,
-      "source": "ZB/ZB Rich Wave a.wav"
+      "source": "ZB/ZB Plastic Bell 1.wav"
     },
     {
       "frame": 201,
-      "source": "ZB/ZB Rich Wave d.wav"
+      "source": "ZB/ZB Plastic Bell 2.wav"
     },
     {
       "frame": 202,
+      "source": "ZB/ZB Plastic Organ 1.wav"
+    },
+    {
+      "frame": 203,
+      "source": "ZB/ZB Plastic Organ 3.wav"
+    },
+    {
+      "frame": 204,
+      "source": "ZB/ZB Rich Wave a.wav"
+    },
+    {
+      "frame": 205,
+      "source": "ZB/ZB Rich Wave d.wav"
+    },
+    {
+      "frame": 206,
       "source": "ZB/ZB Thin Harmonic.wav"
     }
   ]

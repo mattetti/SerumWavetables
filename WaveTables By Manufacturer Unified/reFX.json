@@ -1,37 +1,41 @@
 {
   "manufacturer": "reFX",
-  "total_frames": 8,
+  "total_frames": 9,
   "frames": [
     {
       "frame": 0,
-      "source": "Trance/Vanguard TplPulse Shaper.wav"
+      "source": "Lazerbass/Vanguard Sine Saw Drive Single.wav"
     },
     {
       "frame": 1,
-      "source": "Vanguard/Trance Pulse FM.wav"
+      "source": "Trance/Vanguard TplPulse Shaper.wav"
     },
     {
       "frame": 2,
-      "source": "Vanguard/Vanguard Comb Square.wav"
+      "source": "Vanguard/Trance Pulse FM.wav"
     },
     {
       "frame": 3,
-      "source": "Vanguard/Vanguard Overdriven Square.wav"
+      "source": "Vanguard/Vanguard Comb Square.wav"
     },
     {
       "frame": 4,
-      "source": "Vanguard/Vanguard Sine Saw Drive Single.wav"
+      "source": "Vanguard/Vanguard Overdriven Square.wav"
     },
     {
       "frame": 5,
-      "source": "Vanguard/Vanguard SyncSaw Shaper.wav"
+      "source": "Vanguard/Vanguard Sine Saw Drive Single.wav"
     },
     {
       "frame": 6,
-      "source": "Vanguard/Vanguard TplPulse Shaper.wav"
+      "source": "Vanguard/Vanguard SyncSaw Shaper.wav"
     },
     {
       "frame": 7,
+      "source": "Vanguard/Vanguard TplPulse Shaper.wav"
+    },
+    {
+      "frame": 8,
       "source": "Vanguard/Vanguard_Sine_FM_Drive_single.wav"
     }
   ]

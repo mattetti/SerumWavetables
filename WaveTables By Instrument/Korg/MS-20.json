@@ -1,18 +1,26 @@
 {
   "manufacturer": "Korg",
   "instrument": "MS-20",
-  "total_frames": 3,
+  "total_frames": 5,
   "frames": [
     {
       "frame": 0,
-      "source": "MS-20/MS-20 Square.wav"
+      "source": "MS-20/MS-20 Narrow Pulse.wav"
     },
     {
       "frame": 1,
-      "source": "MS-20/MS-20 Triangle.wav"
+      "source": "MS-20/MS-20 Pulse.wav"
     },
     {
       "frame": 2,
+      "source": "MS-20/MS-20 Square.wav"
+    },
+    {
+      "frame": 3,
+      "source": "MS-20/MS-20 Triangle.wav"
+    },
+    {
+      "frame": 4,
       "source": "MS-20/Virus Triangle.wav"
     }
   ]

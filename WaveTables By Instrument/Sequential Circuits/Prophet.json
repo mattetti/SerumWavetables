@@ -1,7 +1,7 @@
 {
   "manufacturer": "Sequential Circuits",
   "instrument": "Prophet",
-  "total_frames": 46,
+  "total_frames": 49,
   "frames": [
     {
       "frame": 0,
@@ -117,74 +117,86 @@
     },
     {
       "frame": 28,
-      "source": "Prophet/Prophet 5 Pulse 50.wav"
+      "source": "Prophet/Prophet 5 Pulse 10.wav"
     },
     {
       "frame": 29,
-      "source": "Prophet/Prophet 5 Square.wav"
+      "source": "Prophet/Prophet 5 Pulse 25.wav"
     },
     {
       "frame": 30,
-      "source": "Prophet/Prophet 6 PWM 13.wav"
+      "source": "Prophet/Prophet 5 Pulse 50.wav"
     },
     {
       "frame": 31,
-      "source": "Prophet/Prophet 6 Saw.wav"
+      "source": "Prophet/Prophet 5 Pulse 75.wav"
     },
     {
       "frame": 32,
-      "source": "Prophet/Prophet 6 Square Fixed.wav"
+      "source": "Prophet/Prophet 5 Square.wav"
     },
     {
       "frame": 33,
-      "source": "Prophet/Prophet 6 Sub +6dB.wav"
+      "source": "Prophet/Prophet 6 PWM 13.wav"
     },
     {
       "frame": 34,
-      "source": "Prophet/Prophet 6 Tri.wav"
+      "source": "Prophet/Prophet 6 Saw.wav"
     },
     {
       "frame": 35,
-      "source": "Prophet/Prophet VS 121 SQ 5th.wav"
+      "source": "Prophet/Prophet 6 Square Fixed.wav"
     },
     {
       "frame": 36,
-      "source": "Prophet/Prophet_12_Octave_Squares_a_single.wav"
+      "source": "Prophet/Prophet 6 Sub +6dB.wav"
     },
     {
       "frame": 37,
-      "source": "Prophet/Prophet_12_Solid_Edge_b_single.wav"
+      "source": "Prophet/Prophet 6 Tri.wav"
     },
     {
       "frame": 38,
-      "source": "Prophet/Prophet_12_Synced_TriSquare_a_single.wav"
+      "source": "Prophet/Prophet VS 121 SQ 5th.wav"
     },
     {
       "frame": 39,
-      "source": "Prophet/Prophet_12_Thin_Drive_single_2.wav"
+      "source": "Prophet/Prophet_12_Octave_Squares_a_single.wav"
     },
     {
       "frame": 40,
-      "source": "Prophet/Sub Phatty Octave Saws.wav"
+      "source": "Prophet/Prophet_12_Solid_Edge_b_single.wav"
     },
     {
       "frame": 41,
-      "source": "Prophet/Sub Phatty Octave Squares b.wav"
+      "source": "Prophet/Prophet_12_Synced_TriSquare_a_single.wav"
     },
     {
       "frame": 42,
-      "source": "Prophet/Sub Phatty Overdriven Tri a.wav"
+      "source": "Prophet/Prophet_12_Thin_Drive_single_2.wav"
     },
     {
       "frame": 43,
-      "source": "Prophet/Sub Phatty Triangle Sync b.wav"
+      "source": "Prophet/Sub Phatty Octave Saws.wav"
     },
     {
       "frame": 44,
-      "source": "Prophet/Sub Phatty TriangleDrive.wav"
+      "source": "Prophet/Sub Phatty Octave Squares b.wav"
     },
     {
       "frame": 45,
+      "source": "Prophet/Sub Phatty Overdriven Tri a.wav"
+    },
+    {
+      "frame": 46,
+      "source": "Prophet/Sub Phatty Triangle Sync b.wav"
+    },
+    {
+      "frame": 47,
+      "source": "Prophet/Sub Phatty TriangleDrive.wav"
+    },
+    {
+      "frame": 48,
       "source": "Prophet/Sunrizer Oct Sq a.wav"
     }
   ]

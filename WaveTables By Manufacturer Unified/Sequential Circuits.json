@@ -1,605 +1,629 @@
 {
   "manufacturer": "Sequential Circuits",
-  "total_frames": 150,
+  "total_frames": 156,
   "frames": [
     {
       "frame": 0,
-      "source": "Folded/Prophet_12_SineSaw_Deep_single.wav"
+      "source": "Digital/Prophet VS 42.wav"
     },
     {
       "frame": 1,
-      "source": "JX/Prophet 12 Power Sync a.wav"
+      "source": "Folded/Prophet_12_SineSaw_Deep_single.wav"
     },
     {
       "frame": 2,
-      "source": "P/Prophet VS 126 Bell Prt.wav"
+      "source": "JX/Prophet 12 Power Sync a.wav"
     },
     {
       "frame": 3,
-      "source": "P/Prophet VS 64 Orient.wav"
+      "source": "P/Prophet VS 126 Bell Prt.wav"
     },
     {
       "frame": 4,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_00.wav"
+      "source": "P/Prophet VS 64 Orient.wav"
     },
     {
       "frame": 5,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_01.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_00.wav"
     },
     {
       "frame": 6,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_02.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_01.wav"
     },
     {
       "frame": 7,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_03.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_02.wav"
     },
     {
       "frame": 8,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_04.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_03.wav"
     },
     {
       "frame": 9,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_05.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_04.wav"
     },
     {
       "frame": 10,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_06.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_05.wav"
     },
     {
       "frame": 11,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_07.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_06.wav"
     },
     {
       "frame": 12,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_08.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_07.wav"
     },
     {
       "frame": 13,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_09.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_08.wav"
     },
     {
       "frame": 14,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_10.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_09.wav"
     },
     {
       "frame": 15,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_11.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_10.wav"
     },
     {
       "frame": 16,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_12.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_11.wav"
     },
     {
       "frame": 17,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_13.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_12.wav"
     },
     {
       "frame": 18,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_14.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_13.wav"
     },
     {
       "frame": 19,
-      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_15.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_14.wav"
     },
     {
       "frame": 20,
-      "source": "P303DigShp0/P303DigShp0104.wav"
+      "source": "P10OscAPWM_0-50/P10OscAPWM_0-50_15.wav"
     },
     {
       "frame": 21,
-      "source": "P303DigShp0/P303DigShp0109.wav"
+      "source": "P303DigShp0/P303DigShp0104.wav"
     },
     {
       "frame": 22,
-      "source": "P303DigShp0/P303DigShp0200.wav"
+      "source": "P303DigShp0/P303DigShp0109.wav"
     },
     {
       "frame": 23,
-      "source": "P303DigShp0/P303DigShp0209.wav"
+      "source": "P303DigShp0/P303DigShp0200.wav"
     },
     {
       "frame": 24,
-      "source": "P303DigShp01/P303DigShp0102.wav"
+      "source": "P303DigShp0/P303DigShp0209.wav"
     },
     {
       "frame": 25,
-      "source": "P303DigShp01/P303DigShp0105.wav"
+      "source": "P303DigShp01/P303DigShp0102.wav"
     },
     {
       "frame": 26,
-      "source": "P303DigShp01/P303DigShp0110.wav"
+      "source": "P303DigShp01/P303DigShp0105.wav"
     },
     {
       "frame": 27,
-      "source": "P303DigShp01/P303DigShp0114.wav"
+      "source": "P303DigShp01/P303DigShp0110.wav"
     },
     {
       "frame": 28,
-      "source": "P303DigShp02/P303DigShp0205.wav"
+      "source": "P303DigShp01/P303DigShp0114.wav"
     },
     {
       "frame": 29,
-      "source": "P303DigShp02/P303DigShp0207.wav"
+      "source": "P303DigShp02/P303DigShp0205.wav"
     },
     {
       "frame": 30,
-      "source": "P303DigShp02/P303DigShp0214.wav"
+      "source": "P303DigShp02/P303DigShp0207.wav"
     },
     {
       "frame": 31,
-      "source": "P303DigShp02/P303DigShp0215.wav"
+      "source": "P303DigShp02/P303DigShp0214.wav"
     },
     {
       "frame": 32,
-      "source": "P3O1PWM/P3O1PWM00.wav"
+      "source": "P303DigShp02/P303DigShp0215.wav"
     },
     {
       "frame": 33,
-      "source": "P3O1PWM/P3O1PWM01.wav"
+      "source": "P3O1PWM/P3O1PWM00.wav"
     },
     {
       "frame": 34,
-      "source": "P3O1PWM/P3O1PWM02.wav"
+      "source": "P3O1PWM/P3O1PWM01.wav"
     },
     {
       "frame": 35,
-      "source": "P3O1PWM/P3O1PWM03.wav"
+      "source": "P3O1PWM/P3O1PWM02.wav"
     },
     {
       "frame": 36,
-      "source": "P3O1PWM/P3O1PWM04.wav"
+      "source": "P3O1PWM/P3O1PWM03.wav"
     },
     {
       "frame": 37,
-      "source": "P3O1PWM/P3O1PWM05.wav"
+      "source": "P3O1PWM/P3O1PWM04.wav"
     },
     {
       "frame": 38,
-      "source": "P3O1PWM/P3O1PWM06.wav"
+      "source": "P3O1PWM/P3O1PWM05.wav"
     },
     {
       "frame": 39,
-      "source": "P3O1PWM/P3O1PWM07.wav"
+      "source": "P3O1PWM/P3O1PWM06.wav"
     },
     {
       "frame": 40,
-      "source": "P3O1PWM/P3O1PWM08.wav"
+      "source": "P3O1PWM/P3O1PWM07.wav"
     },
     {
       "frame": 41,
-      "source": "P3O1PWM/P3O1PWM09.wav"
+      "source": "P3O1PWM/P3O1PWM08.wav"
     },
     {
       "frame": 42,
-      "source": "P3O1PWM/P3O1PWM10.wav"
+      "source": "P3O1PWM/P3O1PWM09.wav"
     },
     {
       "frame": 43,
-      "source": "P3O1PWM/P3O1PWM11.wav"
+      "source": "P3O1PWM/P3O1PWM10.wav"
     },
     {
       "frame": 44,
-      "source": "P3O1PWM/P3O1PWM12.wav"
+      "source": "P3O1PWM/P3O1PWM11.wav"
     },
     {
       "frame": 45,
-      "source": "P3O1PWM/P3O1PWM13.wav"
+      "source": "P3O1PWM/P3O1PWM12.wav"
     },
     {
       "frame": 46,
-      "source": "P3O1PWM/P3O1PWM14.wav"
+      "source": "P3O1PWM/P3O1PWM13.wav"
     },
     {
       "frame": 47,
-      "source": "P3O1PWM/P3O1PWM15.wav"
+      "source": "P3O1PWM/P3O1PWM14.wav"
     },
     {
       "frame": 48,
-      "source": "P3O1TrSwSq/P3O1TrSwSq00.wav"
+      "source": "P3O1PWM/P3O1PWM15.wav"
     },
     {
       "frame": 49,
-      "source": "P3O1TrSwSq/P3O1TrSwSq01.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq00.wav"
     },
     {
       "frame": 50,
-      "source": "P3O1TrSwSq/P3O1TrSwSq06.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq01.wav"
     },
     {
       "frame": 51,
-      "source": "P3O1TrSwSq/P3O1TrSwSq07.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq06.wav"
     },
     {
       "frame": 52,
-      "source": "P3O1TrSwSq/P3O1TrSwSq08.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq07.wav"
     },
     {
       "frame": 53,
-      "source": "P3O1TrSwSq/P3O1TrSwSq11.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq08.wav"
     },
     {
       "frame": 54,
-      "source": "P3O1TrSwSq/P3O1TrSwSq13.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq11.wav"
     },
     {
       "frame": 55,
-      "source": "P3O1TrSwSq/P3O1TrSwSq15.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq13.wav"
     },
     {
       "frame": 56,
-      "source": "P3O1TrSwSq0/P3O1TrSwSq00.wav"
+      "source": "P3O1TrSwSq/P3O1TrSwSq15.wav"
     },
     {
       "frame": 57,
-      "source": "P3O1TrSwSq0/P3O1TrSwSq02.wav"
+      "source": "P3O1TrSwSq0/P3O1TrSwSq00.wav"
     },
     {
       "frame": 58,
-      "source": "Prophet/Absynth ThinBrightPulse.wav"
+      "source": "P3O1TrSwSq0/P3O1TrSwSq02.wav"
     },
     {
       "frame": 59,
-      "source": "Prophet/Juno 60 Sub Saw Pulse 40.wav"
+      "source": "Prophet/Absynth ThinBrightPulse.wav"
     },
     {
       "frame": 60,
-      "source": "Prophet/Juno 60 Sub.wav"
+      "source": "Prophet/Juno 60 Sub Saw Pulse 40.wav"
     },
     {
       "frame": 61,
-      "source": "Prophet/Lush Modern Sub Square MS.wav"
+      "source": "Prophet/Juno 60 Sub.wav"
     },
     {
       "frame": 62,
-      "source": "Prophet/Mini SyncSub 04.wav"
+      "source": "Prophet/Lush Modern Sub Square MS.wav"
     },
     {
       "frame": 63,
-      "source": "Prophet/OSCar Blown Square.wav"
+      "source": "Prophet/Mini SyncSub 04.wav"
     },
     {
       "frame": 64,
-      "source": "Prophet/Prophet 10 Saw.wav"
+      "source": "Prophet/OSCar Blown Square.wav"
     },
     {
       "frame": 65,
-      "source": "Prophet/Prophet 10 Tri.wav"
+      "source": "Prophet/Prophet 10 Saw.wav"
     },
     {
       "frame": 66,
-      "source": "Prophet/Prophet 12 Big Teeth a.wav"
+      "source": "Prophet/Prophet 10 Tri.wav"
     },
     {
       "frame": 67,
-      "source": "Prophet/Prophet 12 Digitalism a.wav"
+      "source": "Prophet/Prophet 12 Big Teeth a.wav"
     },
     {
       "frame": 68,
-      "source": "Prophet/Prophet 12 Digitalism b.wav"
+      "source": "Prophet/Prophet 12 Digitalism a.wav"
     },
     {
       "frame": 69,
-      "source": "Prophet/Prophet 12 Distorted Sine a.wav"
+      "source": "Prophet/Prophet 12 Digitalism b.wav"
     },
     {
       "frame": 70,
-      "source": "Prophet/Prophet 12 Distorted Sine b.wav"
+      "source": "Prophet/Prophet 12 Distorted Sine a.wav"
     },
     {
       "frame": 71,
-      "source": "Prophet/Prophet 12 Mild Feedback b.wav"
+      "source": "Prophet/Prophet 12 Distorted Sine b.wav"
     },
     {
       "frame": 72,
-      "source": "Prophet/Prophet 12 Muscle Saws a.wav"
+      "source": "Prophet/Prophet 12 Mild Feedback b.wav"
     },
     {
       "frame": 73,
-      "source": "Prophet/Prophet 12 Muscle Saws b.wav"
+      "source": "Prophet/Prophet 12 Muscle Saws a.wav"
     },
     {
       "frame": 74,
-      "source": "Prophet/Prophet 12 PWM b.wav"
+      "source": "Prophet/Prophet 12 Muscle Saws b.wav"
     },
     {
       "frame": 75,
-      "source": "Prophet/Prophet 12 Power Saws a.wav"
+      "source": "Prophet/Prophet 12 PWM b.wav"
     },
     {
       "frame": 76,
-      "source": "Prophet/Prophet 12 Power Saws b.wav"
+      "source": "Prophet/Prophet 12 Power Saws a.wav"
     },
     {
       "frame": 77,
-      "source": "Prophet/Prophet 12 Saw b.wav"
+      "source": "Prophet/Prophet 12 Power Saws b.wav"
     },
     {
       "frame": 78,
-      "source": "Prophet/Prophet 12 Saw d.wav"
+      "source": "Prophet/Prophet 12 Saw b.wav"
     },
     {
       "frame": 79,
-      "source": "Prophet/Prophet 12 Saw e.wav"
+      "source": "Prophet/Prophet 12 Saw d.wav"
     },
     {
       "frame": 80,
-      "source": "Prophet/Prophet 12 Saw.wav"
+      "source": "Prophet/Prophet 12 Saw e.wav"
     },
     {
       "frame": 81,
-      "source": "Prophet/Prophet 12 Sine a.wav"
+      "source": "Prophet/Prophet 12 Saw.wav"
     },
     {
       "frame": 82,
-      "source": "Prophet/Prophet 12 Solid Edge a.wav"
+      "source": "Prophet/Prophet 12 Sine a.wav"
     },
     {
       "frame": 83,
-      "source": "Prophet/Prophet 12 Solid Octave.wav"
+      "source": "Prophet/Prophet 12 Solid Edge a.wav"
     },
     {
       "frame": 84,
-      "source": "Prophet/Prophet 12 Square.wav"
+      "source": "Prophet/Prophet 12 Solid Octave.wav"
     },
     {
       "frame": 85,
-      "source": "Prophet/Prophet 12 Triangle.wav"
+      "source": "Prophet/Prophet 12 Square.wav"
     },
     {
       "frame": 86,
-      "source": "Prophet/Prophet 5 Pulse 50.wav"
+      "source": "Prophet/Prophet 12 Triangle.wav"
     },
     {
       "frame": 87,
-      "source": "Prophet/Prophet 5 Square.wav"
+      "source": "Prophet/Prophet 5 Pulse 10.wav"
     },
     {
       "frame": 88,
-      "source": "Prophet/Prophet 6 PWM 13.wav"
+      "source": "Prophet/Prophet 5 Pulse 25.wav"
     },
     {
       "frame": 89,
-      "source": "Prophet/Prophet 6 Saw.wav"
+      "source": "Prophet/Prophet 5 Pulse 50.wav"
     },
     {
       "frame": 90,
-      "source": "Prophet/Prophet 6 Square Fixed.wav"
+      "source": "Prophet/Prophet 5 Pulse 75.wav"
     },
     {
       "frame": 91,
-      "source": "Prophet/Prophet 6 Sub +6dB.wav"
+      "source": "Prophet/Prophet 5 Square.wav"
     },
     {
       "frame": 92,
-      "source": "Prophet/Prophet 6 Tri.wav"
+      "source": "Prophet/Prophet 6 PWM 13.wav"
     },
     {
       "frame": 93,
-      "source": "Prophet/Prophet VS 121 SQ 5th.wav"
+      "source": "Prophet/Prophet 6 Saw.wav"
     },
     {
       "frame": 94,
-      "source": "Prophet/Prophet_12_Octave_Squares_a_single.wav"
+      "source": "Prophet/Prophet 6 Square Fixed.wav"
     },
     {
       "frame": 95,
-      "source": "Prophet/Prophet_12_Solid_Edge_b_single.wav"
+      "source": "Prophet/Prophet 6 Sub +6dB.wav"
     },
     {
       "frame": 96,
-      "source": "Prophet/Prophet_12_Synced_TriSquare_a_single.wav"
+      "source": "Prophet/Prophet 6 Tri.wav"
     },
     {
       "frame": 97,
-      "source": "Prophet/Prophet_12_Thin_Drive_single_2.wav"
+      "source": "Prophet/Prophet VS 121 SQ 5th.wav"
     },
     {
       "frame": 98,
-      "source": "Prophet/Sub Phatty Octave Saws.wav"
+      "source": "Prophet/Prophet_12_Octave_Squares_a_single.wav"
     },
     {
       "frame": 99,
-      "source": "Prophet/Sub Phatty Octave Squares b.wav"
+      "source": "Prophet/Prophet_12_Solid_Edge_b_single.wav"
     },
     {
       "frame": 100,
-      "source": "Prophet/Sub Phatty Overdriven Tri a.wav"
+      "source": "Prophet/Prophet_12_Synced_TriSquare_a_single.wav"
     },
     {
       "frame": 101,
-      "source": "Prophet/Sub Phatty Triangle Sync b.wav"
+      "source": "Prophet/Prophet_12_Thin_Drive_single_2.wav"
     },
     {
       "frame": 102,
-      "source": "Prophet/Sub Phatty TriangleDrive.wav"
+      "source": "Prophet/Sub Phatty Octave Saws.wav"
     },
     {
       "frame": 103,
-      "source": "Prophet/Sunrizer Oct Sq a.wav"
+      "source": "Prophet/Sub Phatty Octave Squares b.wav"
     },
     {
       "frame": 104,
-      "source": "Prophet 12 Deep/Prophet 12 Deep SineSaw.wav"
+      "source": "Prophet/Sub Phatty Overdriven Tri a.wav"
     },
     {
       "frame": 105,
-      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal a.wav"
+      "source": "Prophet/Sub Phatty Triangle Sync b.wav"
     },
     {
       "frame": 106,
-      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal b.wav"
+      "source": "Prophet/Sub Phatty TriangleDrive.wav"
     },
     {
       "frame": 107,
-      "source": "Prophet 12 PWM/Prophet 12 PWM b.wav"
+      "source": "Prophet/Sunrizer Oct Sq a.wav"
     },
     {
       "frame": 108,
-      "source": "Prophet 12 PWM/Prophet 12 PWM e (Square).wav"
+      "source": "Prophet 12 Deep/Prophet 12 Deep SineSaw.wav"
     },
     {
       "frame": 109,
-      "source": "Prophet 12 S/Prophet 12 Saw b.wav"
+      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal a.wav"
     },
     {
       "frame": 110,
-      "source": "Prophet 12 S/Prophet 12 Solid Octave.wav"
+      "source": "Prophet 12 Deep/Prophet 12 Deep and Nasal b.wav"
     },
     {
       "frame": 111,
-      "source": "Prophet 12 Sine/Prophet 12 Sine a.wav"
+      "source": "Prophet 12 PWM/Prophet 12 PWM b.wav"
     },
     {
       "frame": 112,
-      "source": "Prophet 12 Sine/Prophet 12 Sine b.wav"
+      "source": "Prophet 12 PWM/Prophet 12 PWM e (Square).wav"
     },
     {
       "frame": 113,
-      "source": "Prophet 12 Sine/Prophet 12 Sine c.wav"
+      "source": "Prophet 12 S/Prophet 12 Saw b.wav"
     },
     {
       "frame": 114,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 00.wav"
+      "source": "Prophet 12 S/Prophet 12 Solid Octave.wav"
     },
     {
       "frame": 115,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 01.wav"
+      "source": "Prophet 12 Sine/Prophet 12 Sine a.wav"
     },
     {
       "frame": 116,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 02.wav"
+      "source": "Prophet 12 Sine/Prophet 12 Sine b.wav"
     },
     {
       "frame": 117,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 03.wav"
+      "source": "Prophet 12 Sine/Prophet 12 Sine c.wav"
     },
     {
       "frame": 118,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 04.wav"
+      "source": "Prophet 5 Saw/Prophet 5 Saw.wav"
     },
     {
       "frame": 119,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 05.wav"
+      "source": "Prophet 5 Saw/Prophet 5 SawSquare.wav"
     },
     {
       "frame": 120,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 06.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 00.wav"
     },
     {
       "frame": 121,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 07.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 01.wav"
     },
     {
       "frame": 122,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 08.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 02.wav"
     },
     {
       "frame": 123,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 09.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 03.wav"
     },
     {
       "frame": 124,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 10.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 04.wav"
     },
     {
       "frame": 125,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 11.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 05.wav"
     },
     {
       "frame": 126,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 12.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 06.wav"
     },
     {
       "frame": 127,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 13.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 07.wav"
     },
     {
       "frame": 128,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 14.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 08.wav"
     },
     {
       "frame": 129,
-      "source": "Prophet 6 PWM/Prophet 6 PWM 15.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 09.wav"
     },
     {
       "frame": 130,
-      "source": "Prophet 6 S/Prophet 6 Saw.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 10.wav"
     },
     {
       "frame": 131,
-      "source": "Prophet 6 S/Prophet 6 Square Fixed.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 11.wav"
     },
     {
       "frame": 132,
-      "source": "Prophet VS/Prophet VS 100 New3.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 12.wav"
     },
     {
       "frame": 133,
-      "source": "Prophet VS/Prophet VS 126 Bell Prt.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 13.wav"
     },
     {
       "frame": 134,
-      "source": "Prophet VS/Prophet VS 42.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 14.wav"
     },
     {
       "frame": 135,
-      "source": "Prophet VS/Prophet VS 50 Fback.wav"
+      "source": "Prophet 6 PWM/Prophet 6 PWM 15.wav"
     },
     {
       "frame": 136,
-      "source": "Prophet VS/Prophet VS 56.wav"
+      "source": "Prophet 6 S/Prophet 6 Saw.wav"
     },
     {
       "frame": 137,
-      "source": "Prophet VS/Prophet VS 58.wav"
+      "source": "Prophet 6 S/Prophet 6 Square Fixed.wav"
     },
     {
       "frame": 138,
-      "source": "Prophet VS/Prophet VS 64 Orient.wav"
+      "source": "Prophet VS/Prophet VS 100 New3.wav"
     },
     {
       "frame": 139,
-      "source": "Prophet VS/Prophet VS 86 Hack2.wav"
+      "source": "Prophet VS/Prophet VS 126 Bell Prt.wav"
     },
     {
       "frame": 140,
-      "source": "Prophet VS/Prophet VS 89 Spec3.wav"
+      "source": "Prophet VS/Prophet VS 42.wav"
     },
     {
       "frame": 141,
-      "source": "Prophet VS/Prophet VS 93 Spec8.wav"
+      "source": "Prophet VS/Prophet VS 50 Fback.wav"
     },
     {
       "frame": 142,
-      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_a_single.wav"
+      "source": "Prophet VS/Prophet VS 56.wav"
     },
     {
       "frame": 143,
-      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_b_single.wav"
+      "source": "Prophet VS/Prophet VS 58.wav"
     },
     {
       "frame": 144,
-      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_b_single.wav"
+      "source": "Prophet VS/Prophet VS 64 Orient.wav"
     },
     {
       "frame": 145,
-      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_c_single.wav"
+      "source": "Prophet VS/Prophet VS 86 Hack2.wav"
     },
     {
       "frame": 146,
-      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_a_single.wav"
+      "source": "Prophet VS/Prophet VS 89 Spec3.wav"
     },
     {
       "frame": 147,
-      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_b_single.wav"
+      "source": "Prophet VS/Prophet VS 93 Spec8.wav"
     },
     {
       "frame": 148,
-      "source": "ZB/Prophet VS 37.wav"
+      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_a_single.wav"
     },
     {
       "frame": 149,
+      "source": "Prophet_12_Big_Teeth/Prophet_12_Big_Teeth_b_single.wav"
+    },
+    {
+      "frame": 150,
+      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_b_single.wav"
+    },
+    {
+      "frame": 151,
+      "source": "Prophet_12_Synced_TriSquare/Prophet_12_Synced_TriSquare_c_single.wav"
+    },
+    {
+      "frame": 152,
+      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_a_single.wav"
+    },
+    {
+      "frame": 153,
+      "source": "Prophet_12_Thin_Pulse_AM/Prophet_12_Thin_Pulse_AM_b_single.wav"
+    },
+    {
+      "frame": 154,
+      "source": "ZB/Prophet VS 37.wav"
+    },
+    {
+      "frame": 155,
       "source": "ZB/Prophet VS 65 HighPipe.wav"
     }
   ]
